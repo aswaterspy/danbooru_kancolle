@@ -361,3 +361,4 @@ PT小鬼群	pt_imp_group
 开发失败企鹅	failure_penguin
 开发失败棉花	miss_cloud
 图鉴虫	encyclopedia_caterpillar
+ボクカワウソ	bokukawauso

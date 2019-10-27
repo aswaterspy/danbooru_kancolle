@@ -44,7 +44,6 @@ Samuel B. Roberts	samuel_b._roberts_%28kantai_collection%29
 狭霧	sagiri_%28kantai_collection%29
 暁	akatsuki_%28kantai_collection%29
 響	hibiki_%28kantai_collection%29
-Верный	verniy_%28kantai_collection%29
 雷	ikazuchi_%28kantai_collection%29
 電	inazuma_%28kantai_collection%29
 初春	hatsuharu_%28kantai_collection%29
@@ -177,19 +176,16 @@ Pola	pola_%28kantai_collection%29
 武蔵	musashi_%28kantai_collection%29
 Bismarck	bismarck_%28kantai_collection%29
 Littorio	littorio_%28kantai_collection%29
-Italia	italia_%28kantai_collection%29
 Roma	roma_%28kantai_collection%29
 Iowa	iowa_%28kantai_collection%29
 Warspite	warspite_%28kantai_collection%29
 Гангут	gangut_%28kantai_collection%29
-Октябрьская революция	oktyabrskaya_revolyutsiya_%28kantai_collection%29
 Richelieu	richelieu_%28kantai_collection%29
 Nelson	nelson_%28kantai_collection%29
 Colorado	colorado_%28kantai_collection%29
 鳳翔	houshou_%28kantai_collection%29
 龍驤	ryuujou_%28kantai_collection%29
 大鯨	taigei_%28kantai_collection%29
-龍鳳	ryuuhou_%28kantai_collection%29
 飛鷹	hiyou_%28kantai_collection%29
 隼鷹	jun%27you_%28kantai_collection%29
 祥鳳	shouhou_%28kantai_collection%29
@@ -210,7 +206,6 @@ Graf Zeppelin	graf_zeppelin_%28kantai_collection%29
 Aquila	aquila_%28kantai_collection%29
 Saratoga	saratoga_%28kantai_collection%29
 春日丸	kasuga_maru_%28kantai_collection%29
-大鷹	taiyou_%28kantai_collection%29
 Ark Royal	ark_royal_%28kantai_collection%29
 Gambier Bay	gambier_bay_%28kantai_collection%29
 Intrepid	intrepid_%28kantai_collection%29
@@ -228,8 +223,6 @@ U-511 ("Yuu")	u-511_%28kantai_collection%29
 伊13 ("Hitomi")	i-13_%28kantai_collection%29
 伊14 ("Iyo")	i-14_%28kantai_collection%29
 Luigi Torelli ("Lui")	luigi_torelli_%28kantai_collection%29
-UIT-25 ("Ui")	uit-25_%28kantai_collection%29
-伊504 ("Go")	i-504_%28kantai_collection%29
 瑞穂	mizuho_%28kantai_collection%29
 日進	nisshin_%28kantai_collection%29
 秋津洲	akitsushima_%28kantai_collection%29

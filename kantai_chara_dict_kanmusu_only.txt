@@ -1,0 +1,242 @@
+占守	shimushu_%28kantai_collection%29	DE
+国後	kunashiri_%28kantai_collection%29	DE
+八丈	hachijou_%28kantai_collection%29	DE
+石垣	ishigaki_%28kantai_collection%29	DE
+択捉	etorofu_%28kantai_collection%29	DE
+松輪	matsuwa_%28kantai_collection%29	DE
+佐渡	sado_%28kantai_collection%29	DE
+対馬	tsushima_%28kantai_collection%29	DE
+福江	fukae_%28kantai_collection%29	DE
+日振	hiburi_%28kantai_collection%29	DE
+大東	daitou_%28kantai_collection%29	DE
+Samuel B. Roberts	samuel_b._roberts_%28kantai_collection%29	DD
+御蔵	mikura_%28kantai_collection%29	DE
+神風	kamikaze_%28kantai_collection%29	DD
+春風	harukaze_%28kantai_collection%29	DD
+朝風	asakaze_%28kantai_collection%29	DD
+松風	matsukaze_%28kantai_collection%29	DD
+旗風	hatakaze_%28kantai_collection%29	DD
+睦月	mutsuki_%28kantai_collection%29	DD
+如月	kisaragi_%28kantai_collection%29	DD
+弥生	yayoi_%28kantai_collection%29	DD
+卯月	uzuki_%28kantai_collection%29	DD
+皐月	satsuki_%28kantai_collection%29	DD
+水無月	minazuki_%28kantai_collection%29	DD
+文月	fumizuki_%28kantai_collection%29	DD
+長月	nagatsuki_%28kantai_collection%29	DD
+菊月	kikuzuki_%28kantai_collection%29	DD
+三日月	mikazuki_%28kantai_collection%29	DD
+望月	mochizuki_%28kantai_collection%29	DD
+吹雪	fubuki_%28kantai_collection%29	DD
+白雪	shirayuki_%28kantai_collection%29	DD
+初雪	hatsuyuki_%28kantai_collection%29	DD
+深雪	miyuki_%28kantai_collection%29	DD
+叢雲	murakumo_%28kantai_collection%29	DD
+磯波	isonami_%28kantai_collection%29	DD
+浦波	uranami_%28kantai_collection%29	DD
+綾波	ayanami_%28kantai_collection%29	DD
+敷波	shikinami_%28kantai_collection%29	DD
+朧	oboro_%28kantai_collection%29	DD
+曙	akebono_%28kantai_collection%29	DD
+漣	sazanami_%28kantai_collection%29	DD
+潮	ushio_%28kantai_collection%29	DD
+天霧	amagiri_%28kantai_collection%29	DD
+狭霧	sagiri_%28kantai_collection%29	DD
+暁	akatsuki_%28kantai_collection%29	DD
+響	hibiki_%28kantai_collection%29	DD
+Верный	verniy_%28kantai_collection%29	DD
+雷	ikazuchi_%28kantai_collection%29	DD
+電	inazuma_%28kantai_collection%29	DD
+初春	hatsuharu_%28kantai_collection%29	DD
+子日	nenohi_%28kantai_collection%29	DD
+若葉	wakaba_%28kantai_collection%29	DD
+初霜	hatsushimo_%28kantai_collection%29	DD
+白露	shiratsuyu_%28kantai_collection%29	DD
+時雨	shigure_%28kantai_collection%29	DD
+村雨	murasame_%28kantai_collection%29	DD
+夕立	yuudachi_%28kantai_collection%29	DD
+春雨	harusame_%28kantai_collection%29	DD
+五月雨	samidare_%28kantai_collection%29	DD
+海風	umikaze_%28kantai_collection%29	DD
+山風	yamakaze_%28kantai_collection%29	DD
+江風	kawakaze_%28kantai_collection%29	DD
+涼風	suzukaze_%28kantai_collection%29	DD
+朝潮	asashio_%28kantai_collection%29	DD
+大潮	ooshio_%28kantai_collection%29	DD
+満潮	michishio_%28kantai_collection%29	DD
+荒潮	arashio_%28kantai_collection%29	DD
+山雲	yamagumo_%28kantai_collection%29	DD
+朝雲	asagumo_%28kantai_collection%29	DD
+峯雲	minegumo_%28kantai_collection%29	DD
+霰	arare_%28kantai_collection%29	DD
+霞	kasumi_%28kantai_collection%29	DD
+陽炎	kagerou_%28kantai_collection%29	DD
+不知火	shiranui_%28kantai_collection%29	DD
+黒潮	kuroshio_%28kantai_collection%29	DD
+親潮	oyashio_%28kantai_collection%29	DD
+初風	hatsukaze_%28kantai_collection%29	DD
+雪風	yukikaze_%28kantai_collection%29	DD
+天津風	amatsukaze_%28kantai_collection%29	DD
+時津風	tokitsukaze_%28kantai_collection%29	DD
+浦風	urakaze_%28kantai_collection%29	DD
+磯風	isokaze_%28kantai_collection%29	DD
+浜風	hamakaze_%28kantai_collection%29	DD
+谷風	tanikaze_%28kantai_collection%29	DD
+野分	nowaki_%28kantai_collection%29	DD
+嵐	arashi_%28kantai_collection%29	DD
+萩風	hagikaze_%28kantai_collection%29	DD
+舞風	maikaze_%28kantai_collection%29	DD
+秋雲	akigumo_%28kantai_collection%29	DD
+夕雲	yuugumo_%28kantai_collection%29	DD
+巻雲	makigumo_%28kantai_collection%29	DD
+風雲	kazagumo_%28kantai_collection%29	DD
+長波	naganami_%28kantai_collection%29	DD
+高波	takanami_%28kantai_collection%29	DD
+藤波	fujinami_%28kantai_collection%29	DD
+早波	hayanami_%28kantai_collection%29	DD
+浜波	hamanami_%28kantai_collection%29	DD
+沖波	okinami_%28kantai_collection%29	DD
+岸波	kishinami_%28kantai_collection%29	DD
+朝霜	asashimo_%28kantai_collection%29	DD
+早霜	hayashimo_%28kantai_collection%29	DD
+清霜	kiyoshimo_%28kantai_collection%29	DD
+秋月	akizuki_%28kantai_collection%29	DD
+照月	teruzuki_%28kantai_collection%29	DD
+初月	hatsuzuki_%28kantai_collection%29	DD
+涼月	suzutsuki_%28kantai_collection%29	DD
+島風	shimakaze_%28kantai_collection%29	DD
+Z1	z1_leberecht_maass_%28kantai_collection%29	DD
+Z3	z3_max_schultz_%28kantai_collection%29	DD
+Maestrale	maestrale_%28kantai_collection%29	DD
+Grecale	grecale_%28kantai_collection%29	DD
+Libeccio	libeccio_%28kantai_collection%29	DD
+Fletcher	fletcher_%28kantai_collection%29	DD
+Johnston	johnston_%28kantai_collection%29	DD
+Jervis	jervis_%28kantai_collection%29	DD
+Janus	janus_%28kantai_collection%29	DD
+Ташкент	tashkent_%28kantai_collection%29	DD
+天龍	tenryuu_%28kantai_collection%29	CL (CLT, CT, CLV)
+龍田	tatsuta_%28kantai_collection%29	CL (CLT, CT, CLV)
+球磨	kuma_%28kantai_collection%29	CL (CLT, CT, CLV)
+多摩	tama_%28kantai_collection%29	CL (CLT, CT, CLV)
+北上	kitakami_%28kantai_collection%29	CL (CLT, CT, CLV)
+大井	ooi_%28kantai_collection%29	CL (CLT, CT, CLV)
+木曾	kiso_%28kantai_collection%29	CL (CLT, CT, CLV)
+長良	nagara_%28kantai_collection%29	CL (CLT, CT, CLV)
+五十鈴	isuzu_%28kantai_collection%29	CL (CLT, CT, CLV)
+名取	natori_%28kantai_collection%29	CL (CLT, CT, CLV)
+由良	yura_%28kantai_collection%29	CL (CLT, CT, CLV)
+鬼怒	kinu_%28kantai_collection%29	CL (CLT, CT, CLV)
+阿武隈	abukuma_%28kantai_collection%29	CL (CLT, CT, CLV)
+川内	sendai_%28kantai_collection%29	CL (CLT, CT, CLV)
+神通	jintsuu_%28kantai_collection%29	CL (CLT, CT, CLV)
+那珂	naka_%28kantai_collection%29	CL (CLT, CT, CLV)
+香取	katori_%28kantai_collection%29	CL (CLT, CT, CLV)
+鹿島	kashima_%28kantai_collection%29	CL (CLT, CT, CLV)
+阿賀野	agano_%28kantai_collection%29	CL (CLT, CT, CLV)
+能代	noshiro_%28kantai_collection%29	CL (CLT, CT, CLV)
+矢矧	yahagi_%28kantai_collection%29	CL (CLT, CT, CLV)
+酒匂	sakawa_%28kantai_collection%29	CL (CLT, CT, CLV)
+夕張	yuubari_%28kantai_collection%29	CL (CLT, CT, CLV)
+大淀	ooyodo_%28kantai_collection%29	CL (CLT, CT, CLV)
+Abruzzi	luigi_di_savoia_duca_degli_abruzzi_%28kantai_collection%29	CL (CLT, CT, CLV)
+Garibaldi	giuseppe_garibaldi_%28kantai_collection%29	CL (CLT, CT, CLV)
+Gotland	gotland_%28kantai_collection%29	CL (CLT, CT, CLV)
+古鷹	furutaka_%28kantai_collection%29	CA (CAV)
+加古	kako_%28kantai_collection%29	CA (CAV)
+青葉	aoba_%28kantai_collection%29	CA (CAV)
+衣笠	kinugasa_%28kantai_collection%29	CA (CAV)
+妙高	myoukou_%28kantai_collection%29	CA (CAV)
+那智	nachi_%28kantai_collection%29	CA (CAV)
+足柄	ashigara_%28kantai_collection%29	CA (CAV)
+羽黒	haguro_%28kantai_collection%29	CA (CAV)
+高雄	takao_%28kantai_collection%29	CA (CAV)
+愛宕	atago_%28kantai_collection%29	CA (CAV)
+摩耶	maya_%28kantai_collection%29	CA (CAV)
+鳥海	choukai_%28kantai_collection%29	CA (CAV)
+最上	mogami_%28kantai_collection%29	CA (CAV)
+三隈	mikuma_%28kantai_collection%29	CA (CAV)
+鈴谷	suzuya_%28kantai_collection%29	CA (CAV)
+熊野	kumano_%28kantai_collection%29	CA (CAV)
+利根	tone_%28kantai_collection%29	CA (CAV)
+筑摩	chikuma_%28kantai_collection%29	CA (CAV)
+Prinz Eugen	prinz_eugen_%28kantai_collection%29	CA (CAV)
+Zara	zara_%28kantai_collection%29	CA (CAV)
+Pola	pola_%28kantai_collection%29	CA (CAV)
+金剛	kongou_%28kantai_collection%29	BB (BBV)
+比叡	hiei_%28kantai_collection%29	BB (BBV)
+榛名	haruna_%28kantai_collection%29	BB (BBV)
+霧島	kirishima_%28kantai_collection%29	BB (BBV)
+扶桑	fusou_%28kantai_collection%29	BB (BBV)
+山城	yamashiro_%28kantai_collection%29	BB (BBV)
+伊勢	ise_%28kantai_collection%29	BB (BBV)
+日向	hyuuga_%28kantai_collection%29	BB (BBV)
+長門	nagato_%28kantai_collection%29	BB (BBV)
+陸奥	mutsu_%28kantai_collection%29	BB (BBV)
+大和	yamato_%28kantai_collection%29	BB (BBV)
+武蔵	musashi_%28kantai_collection%29	BB (BBV)
+Bismarck	bismarck_%28kantai_collection%29	BB (BBV)
+Littorio	littorio_%28kantai_collection%29	BB (BBV)
+Italia	italia_%28kantai_collection%29	BB (BBV)
+Roma	roma_%28kantai_collection%29	BB (BBV)
+Iowa	iowa_%28kantai_collection%29	BB (BBV)
+Warspite	warspite_%28kantai_collection%29	BB (BBV)
+Гангут	gangut_%28kantai_collection%29	BB (BBV)
+Октябрьская революция	oktyabrskaya_revolyutsiya_%28kantai_collection%29	BB (BBV)
+Richelieu	richelieu_%28kantai_collection%29	BB (BBV)
+Nelson	nelson_%28kantai_collection%29	BB (BBV)
+Colorado	colorado_%28kantai_collection%29	BB (BBV)
+鳳翔	houshou_%28kantai_collection%29	CVL (CVE)
+龍驤	ryuujou_%28kantai_collection%29	CVL (CVE)
+大鯨	taigei_%28kantai_collection%29	AS
+龍鳳	ryuuhou_%28kantai_collection%29	CVL (CVE)
+飛鷹	hiyou_%28kantai_collection%29	CVL (CVE)
+隼鷹	jun%27you_%28kantai_collection%29	CVL (CVE)
+祥鳳	shouhou_%28kantai_collection%29	CVL (CVE)
+瑞鳳	zuihou_%28kantai_collection%29	CVL (CVE)
+千歳	chitose_%28kantai_collection%29	CVL (CVE)
+千代田	chiyoda_%28kantai_collection%29	CVL (CVE)
+赤城	akagi_%28kantai_collection%29	CV
+加賀	kaga_%28kantai_collection%29	CV
+蒼龍	souryuu_%28kantai_collection%29	CV
+飛龍	hiryuu_%28kantai_collection%29	CV
+翔鶴	shoukaku_%28kantai_collection%29	CV
+瑞鶴	zuikaku_%28kantai_collection%29	CV
+大鳳	taihou_%28kantai_collection%29	CV
+雲龍	unryuu_%28kantai_collection%29	CV
+天城	amagi_%28kantai_collection%29	CV
+葛城	katsuragi_%28kantai_collection%29	CV
+Graf Zeppelin	graf_zeppelin_%28kantai_collection%29	CV
+Aquila	aquila_%28kantai_collection%29	CV
+Saratoga	saratoga_%28kantai_collection%29	CV
+春日丸	kasuga_maru_%28kantai_collection%29	CVL (CVE)
+大鷹	taiyou_%28kantai_collection%29	CVL (CVE)
+Ark Royal	ark_royal_%28kantai_collection%29	CV
+Gambier Bay	gambier_bay_%28kantai_collection%29	CVL (CVE)
+Intrepid	intrepid_%28kantai_collection%29	CV
+神鷹	shin%27you_%28kantai_collection%29	CVL (CVE)
+伊8 ("Hachi")	i-8_%28kantai_collection%29	SS (SSV)
+伊19 ("Iku")	i-19_%28kantai_collection%29	SS (SSV)
+伊26 ("Nimu")	i-26_%28kantai_collection%29	SS (SSV)
+伊58 ("Gouya")	i-58_%28kantai_collection%29	SS (SSV)
+伊168 ("Imuya")	i-168_%28kantai_collection%29	SS (SSV)
+伊400 ("Shion")	i-400_%28kantai_collection%29	SS (SSV)
+伊401 ("Shioi")	i-401_%28kantai_collection%29	SS (SSV)
+マルゆ	maru-yu_%28kantai_collection%29	SS (SSV)
+U-511 ("Yuu")	u-511_%28kantai_collection%29	SS (SSV)
+呂500 ("Ro")	ro-500_%28kantai_collection%29	SS (SSV)
+伊13 ("Hitomi")	i-13_%28kantai_collection%29	SS (SSV)
+伊14 ("Iyo")	i-14_%28kantai_collection%29	SS (SSV)
+Luigi Torelli ("Lui")	luigi_torelli_%28kantai_collection%29	SS (SSV)
+UIT-25 ("Ui")	uit-25_%28kantai_collection%29	SS (SSV)
+伊504 ("Go")	i-504_%28kantai_collection%29	SS (SSV)
+瑞穂	mizuho_%28kantai_collection%29	AV
+日進	nisshin_%28kantai_collection%29	AV
+秋津洲	akitsushima_%28kantai_collection%29	AV
+Commandant Teste	commandant_teste_%28kantai_collection%29	AV
+神威	kamoi_%28kantai_collection%29	Other
+あきつ丸	akitsu_maru_%28kantai_collection%29	Other
+明石	akashi_%28kantai_collection%29	Other
+速吸	hayasui_%28kantai_collection%29	Other
+伊良湖	irako_%28kantai_collection%29	Other
+間宮	mamiya_%28kantai_collection%29	Other

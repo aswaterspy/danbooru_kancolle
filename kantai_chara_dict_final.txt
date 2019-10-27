@@ -109,7 +109,7 @@ Samuel B. Roberts	samuel_b._roberts_%28kantai_collection%29
 照月	teruzuki_%28kantai_collection%29
 照月的长10炮酱	chou-10cm-hou-chan_%28teruzuki%27s%29
 初月	hatsuzuki_%28kantai_collection%29
-初雪的长10炮酱	chou-10cm-hou-chan_%28hatsuzuki%27s%29
+初月的长10炮酱	chou-10cm-hou-chan_%28hatsuzuki%27s%29
 涼月	suzutsuki_%28kantai_collection%29
 島風	shimakaze_%28kantai_collection%29
 连装炮酱	rensouhou-chan

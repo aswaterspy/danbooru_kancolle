@@ -10,7 +10,7 @@ PT小鬼群	pt_imp_group	Other
 駆逐水鬼	destroyer_water_oni	DD
 駆逐古鬼	ancient_destroyer_oni	DD
 駆逐古姫	ancient_destroyer_hime	DD
-深海雨雲姫	ancient_nimbus_hime	DD
+深海雨雲姫	abyssal_nimbus_hime	DD
 軽巡ホ級	ho-class_light_cruiser	CL (CLT, CT, CLV)
 軽巡ヘ級	he-class_light_cruiser	CL (CLT, CT, CLV)
 軽巡ト級	to-class_light_cruiser	CL (CLT, CT, CLV)

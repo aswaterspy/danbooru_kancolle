@@ -1,0 +1,2929 @@
+name,parent,rating,count,kanmusu_shinkai_flag,type
+占守,全部,全部,342,舰娘,DE
+占守,全部,rating:explicit,5,舰娘,DE
+占守,全部,rating:questionable,16,舰娘,DE
+占守,全部,rating:safe,321,舰娘,DE
+占守,无子项,全部,278,舰娘,DE
+占守,无子项,rating:explicit,3,舰娘,DE
+占守,无子项,rating:questionable,11,舰娘,DE
+占守,无子项,rating:safe,264,舰娘,DE
+国後,全部,全部,249,舰娘,DE
+国後,全部,rating:explicit,2,舰娘,DE
+国後,全部,rating:questionable,17,舰娘,DE
+国後,全部,rating:safe,230,舰娘,DE
+国後,无子项,全部,211,舰娘,DE
+国後,无子项,rating:explicit,2,舰娘,DE
+国後,无子项,rating:questionable,15,舰娘,DE
+国後,无子项,rating:safe,194,舰娘,DE
+八丈,全部,全部,91,舰娘,DE
+八丈,全部,rating:explicit,5,舰娘,DE
+八丈,全部,rating:questionable,9,舰娘,DE
+八丈,全部,rating:safe,77,舰娘,DE
+八丈,无子项,全部,78,舰娘,DE
+八丈,无子项,rating:explicit,3,舰娘,DE
+八丈,无子项,rating:questionable,7,舰娘,DE
+八丈,无子项,rating:safe,68,舰娘,DE
+石垣,全部,全部,54,舰娘,DE
+石垣,全部,rating:explicit,1,舰娘,DE
+石垣,全部,rating:questionable,8,舰娘,DE
+石垣,全部,rating:safe,45,舰娘,DE
+石垣,无子项,全部,48,舰娘,DE
+石垣,无子项,rating:explicit,1,舰娘,DE
+石垣,无子项,rating:questionable,7,舰娘,DE
+石垣,无子项,rating:safe,40,舰娘,DE
+択捉,全部,全部,719,舰娘,DE
+択捉,全部,rating:explicit,24,舰娘,DE
+択捉,全部,rating:questionable,64,舰娘,DE
+択捉,全部,rating:safe,631,舰娘,DE
+択捉,无子项,全部,597,舰娘,DE
+択捉,无子项,rating:explicit,15,舰娘,DE
+択捉,无子项,rating:questionable,48,舰娘,DE
+択捉,无子项,rating:safe,534,舰娘,DE
+松輪,全部,全部,436,舰娘,DE
+松輪,全部,rating:explicit,9,舰娘,DE
+松輪,全部,rating:questionable,36,舰娘,DE
+松輪,全部,rating:safe,391,舰娘,DE
+松輪,无子项,全部,358,舰娘,DE
+松輪,无子项,rating:explicit,7,舰娘,DE
+松輪,无子项,rating:questionable,27,舰娘,DE
+松輪,无子项,rating:safe,324,舰娘,DE
+佐渡,全部,全部,337,舰娘,DE
+佐渡,全部,rating:explicit,6,舰娘,DE
+佐渡,全部,rating:questionable,28,舰娘,DE
+佐渡,全部,rating:safe,303,舰娘,DE
+佐渡,无子项,全部,281,舰娘,DE
+佐渡,无子项,rating:explicit,5,舰娘,DE
+佐渡,无子项,rating:questionable,28,舰娘,DE
+佐渡,无子项,rating:safe,248,舰娘,DE
+対馬,全部,全部,469,舰娘,DE
+対馬,全部,rating:explicit,28,舰娘,DE
+対馬,全部,rating:questionable,58,舰娘,DE
+対馬,全部,rating:safe,383,舰娘,DE
+対馬,无子项,全部,382,舰娘,DE
+対馬,无子项,rating:explicit,22,舰娘,DE
+対馬,无子项,rating:questionable,49,舰娘,DE
+対馬,无子项,rating:safe,311,舰娘,DE
+福江,全部,全部,134,舰娘,DE
+福江,全部,rating:explicit,5,舰娘,DE
+福江,全部,rating:questionable,9,舰娘,DE
+福江,全部,rating:safe,120,舰娘,DE
+福江,无子项,全部,117,舰娘,DE
+福江,无子项,rating:explicit,4,舰娘,DE
+福江,无子项,rating:questionable,9,舰娘,DE
+福江,无子项,rating:safe,104,舰娘,DE
+日振,全部,全部,212,舰娘,DE
+日振,全部,rating:explicit,6,舰娘,DE
+日振,全部,rating:questionable,7,舰娘,DE
+日振,全部,rating:safe,199,舰娘,DE
+日振,无子项,全部,177,舰娘,DE
+日振,无子项,rating:explicit,4,舰娘,DE
+日振,无子项,rating:questionable,3,舰娘,DE
+日振,无子项,rating:safe,170,舰娘,DE
+大東,全部,全部,209,舰娘,DE
+大東,全部,rating:explicit,8,舰娘,DE
+大東,全部,rating:questionable,16,舰娘,DE
+大東,全部,rating:safe,185,舰娘,DE
+大東,无子项,全部,178,舰娘,DE
+大東,无子项,rating:explicit,5,舰娘,DE
+大東,无子项,rating:questionable,13,舰娘,DE
+大東,无子项,rating:safe,160,舰娘,DE
+Samuel B. Roberts,全部,全部,404,舰娘,DD
+Samuel B. Roberts,全部,rating:explicit,17,舰娘,DD
+Samuel B. Roberts,全部,rating:questionable,23,舰娘,DD
+Samuel B. Roberts,全部,rating:safe,364,舰娘,DD
+Samuel B. Roberts,无子项,全部,343,舰娘,DD
+Samuel B. Roberts,无子项,rating:explicit,10,舰娘,DD
+Samuel B. Roberts,无子项,rating:questionable,20,舰娘,DD
+Samuel B. Roberts,无子项,rating:safe,313,舰娘,DD
+御蔵,全部,全部,72,舰娘,DE
+御蔵,全部,rating:explicit,1,舰娘,DE
+御蔵,全部,rating:questionable,3,舰娘,DE
+御蔵,全部,rating:safe,68,舰娘,DE
+御蔵,无子项,全部,63,舰娘,DE
+御蔵,无子项,rating:explicit,1,舰娘,DE
+御蔵,无子项,rating:questionable,2,舰娘,DE
+御蔵,无子项,rating:safe,60,舰娘,DE
+神風,全部,全部,1416,舰娘,DD
+神風,全部,rating:explicit,35,舰娘,DD
+神風,全部,rating:questionable,125,舰娘,DD
+神風,全部,rating:safe,1256,舰娘,DD
+神風,无子项,全部,1175,舰娘,DD
+神風,无子项,rating:explicit,22,舰娘,DD
+神風,无子项,rating:questionable,96,舰娘,DD
+神風,无子项,rating:safe,1057,舰娘,DD
+春風,全部,全部,567,舰娘,DD
+春風,全部,rating:explicit,13,舰娘,DD
+春風,全部,rating:questionable,39,舰娘,DD
+春風,全部,rating:safe,515,舰娘,DD
+春風,无子项,全部,457,舰娘,DD
+春風,无子项,rating:explicit,8,舰娘,DD
+春風,无子项,rating:questionable,32,舰娘,DD
+春風,无子项,rating:safe,417,舰娘,DD
+朝風,全部,全部,505,舰娘,DD
+朝風,全部,rating:explicit,12,舰娘,DD
+朝風,全部,rating:questionable,26,舰娘,DD
+朝風,全部,rating:safe,467,舰娘,DD
+朝風,无子项,全部,415,舰娘,DD
+朝風,无子项,rating:explicit,7,舰娘,DD
+朝風,无子项,rating:questionable,21,舰娘,DD
+朝風,无子项,rating:safe,387,舰娘,DD
+松風,全部,全部,337,舰娘,DD
+松風,全部,rating:explicit,7,舰娘,DD
+松風,全部,rating:questionable,11,舰娘,DD
+松風,全部,rating:safe,319,舰娘,DD
+松風,无子项,全部,275,舰娘,DD
+松風,无子项,rating:explicit,7,舰娘,DD
+松風,无子项,rating:questionable,9,舰娘,DD
+松風,无子项,rating:safe,259,舰娘,DD
+旗風,全部,全部,353,舰娘,DD
+旗風,全部,rating:explicit,27,舰娘,DD
+旗風,全部,rating:questionable,50,舰娘,DD
+旗風,全部,rating:safe,276,舰娘,DD
+旗風,无子项,全部,284,舰娘,DD
+旗風,无子项,rating:explicit,13,舰娘,DD
+旗風,无子项,rating:questionable,35,舰娘,DD
+旗風,无子项,rating:safe,236,舰娘,DD
+睦月,全部,全部,1786,舰娘,DD
+睦月,全部,rating:explicit,33,舰娘,DD
+睦月,全部,rating:questionable,65,舰娘,DD
+睦月,全部,rating:safe,1688,舰娘,DD
+睦月,无子项,全部,1543,舰娘,DD
+睦月,无子项,rating:explicit,26,舰娘,DD
+睦月,无子项,rating:questionable,50,舰娘,DD
+睦月,无子项,rating:safe,1467,舰娘,DD
+如月,全部,全部,1634,舰娘,DD
+如月,全部,rating:explicit,49,舰娘,DD
+如月,全部,rating:questionable,107,舰娘,DD
+如月,全部,rating:safe,1478,舰娘,DD
+如月,无子项,全部,1421,舰娘,DD
+如月,无子项,rating:explicit,37,舰娘,DD
+如月,无子项,rating:questionable,97,舰娘,DD
+如月,无子项,rating:safe,1287,舰娘,DD
+弥生,全部,全部,1297,舰娘,DD
+弥生,全部,rating:explicit,18,舰娘,DD
+弥生,全部,rating:questionable,90,舰娘,DD
+弥生,全部,rating:safe,1189,舰娘,DD
+弥生,无子项,全部,1137,舰娘,DD
+弥生,无子项,rating:explicit,15,舰娘,DD
+弥生,无子项,rating:questionable,74,舰娘,DD
+弥生,无子项,rating:safe,1048,舰娘,DD
+卯月,全部,全部,1944,舰娘,DD
+卯月,全部,rating:explicit,26,舰娘,DD
+卯月,全部,rating:questionable,117,舰娘,DD
+卯月,全部,rating:safe,1801,舰娘,DD
+卯月,无子项,全部,1714,舰娘,DD
+卯月,无子项,rating:explicit,21,舰娘,DD
+卯月,无子项,rating:questionable,93,舰娘,DD
+卯月,无子项,rating:safe,1600,舰娘,DD
+皐月,全部,全部,1974,舰娘,DD
+皐月,全部,rating:explicit,26,舰娘,DD
+皐月,全部,rating:questionable,86,舰娘,DD
+皐月,全部,rating:safe,1862,舰娘,DD
+皐月,无子项,全部,1766,舰娘,DD
+皐月,无子项,rating:explicit,23,舰娘,DD
+皐月,无子项,rating:questionable,69,舰娘,DD
+皐月,无子项,rating:safe,1674,舰娘,DD
+水無月,全部,全部,405,舰娘,DD
+水無月,全部,rating:explicit,7,舰娘,DD
+水無月,全部,rating:questionable,16,舰娘,DD
+水無月,全部,rating:safe,382,舰娘,DD
+水無月,无子项,全部,357,舰娘,DD
+水無月,无子项,rating:explicit,7,舰娘,DD
+水無月,无子项,rating:questionable,14,舰娘,DD
+水無月,无子项,rating:safe,336,舰娘,DD
+文月,全部,全部,863,舰娘,DD
+文月,全部,rating:explicit,21,舰娘,DD
+文月,全部,rating:questionable,40,舰娘,DD
+文月,全部,rating:safe,802,舰娘,DD
+文月,无子项,全部,758,舰娘,DD
+文月,无子项,rating:explicit,20,舰娘,DD
+文月,无子项,rating:questionable,36,舰娘,DD
+文月,无子项,rating:safe,702,舰娘,DD
+長月,全部,全部,1410,舰娘,DD
+長月,全部,rating:explicit,9,舰娘,DD
+長月,全部,rating:questionable,61,舰娘,DD
+長月,全部,rating:safe,1340,舰娘,DD
+長月,无子项,全部,1286,舰娘,DD
+長月,无子项,rating:explicit,6,舰娘,DD
+長月,无子项,rating:questionable,52,舰娘,DD
+長月,无子项,rating:safe,1228,舰娘,DD
+菊月,全部,全部,555,舰娘,DD
+菊月,全部,rating:explicit,4,舰娘,DD
+菊月,全部,rating:questionable,20,舰娘,DD
+菊月,全部,rating:safe,531,舰娘,DD
+菊月,无子项,全部,484,舰娘,DD
+菊月,无子项,rating:explicit,3,舰娘,DD
+菊月,无子项,rating:questionable,17,舰娘,DD
+菊月,无子项,rating:safe,464,舰娘,DD
+三日月,全部,全部,616,舰娘,DD
+三日月,全部,rating:explicit,1,舰娘,DD
+三日月,全部,rating:questionable,25,舰娘,DD
+三日月,全部,rating:safe,590,舰娘,DD
+三日月,无子项,全部,539,舰娘,DD
+三日月,无子项,rating:explicit,1,舰娘,DD
+三日月,无子项,rating:questionable,19,舰娘,DD
+三日月,无子项,rating:safe,519,舰娘,DD
+望月,全部,全部,821,舰娘,DD
+望月,全部,rating:explicit,13,舰娘,DD
+望月,全部,rating:questionable,50,舰娘,DD
+望月,全部,rating:safe,758,舰娘,DD
+望月,无子项,全部,713,舰娘,DD
+望月,无子项,rating:explicit,12,舰娘,DD
+望月,无子项,rating:questionable,44,舰娘,DD
+望月,无子项,rating:safe,657,舰娘,DD
+吹雪,全部,全部,7339,舰娘,DD
+吹雪,全部,rating:explicit,153,舰娘,DD
+吹雪,全部,rating:questionable,283,舰娘,DD
+吹雪,全部,rating:safe,6903,舰娘,DD
+吹雪,无子项,全部,6541,舰娘,DD
+吹雪,无子项,rating:explicit,115,舰娘,DD
+吹雪,无子项,rating:questionable,219,舰娘,DD
+吹雪,无子项,rating:safe,6207,舰娘,DD
+白雪,全部,全部,1308,舰娘,DD
+白雪,全部,rating:explicit,26,舰娘,DD
+白雪,全部,rating:questionable,41,舰娘,DD
+白雪,全部,rating:safe,1241,舰娘,DD
+白雪,无子项,全部,1162,舰娘,DD
+白雪,无子项,rating:explicit,14,舰娘,DD
+白雪,无子项,rating:questionable,31,舰娘,DD
+白雪,无子项,rating:safe,1117,舰娘,DD
+初雪,全部,全部,1742,舰娘,DD
+初雪,全部,rating:explicit,21,舰娘,DD
+初雪,全部,rating:questionable,59,舰娘,DD
+初雪,全部,rating:safe,1662,舰娘,DD
+初雪,无子项,全部,1526,舰娘,DD
+初雪,无子项,rating:explicit,18,舰娘,DD
+初雪,无子项,rating:questionable,48,舰娘,DD
+初雪,无子项,rating:safe,1460,舰娘,DD
+深雪,全部,全部,1411,舰娘,DD
+深雪,全部,rating:explicit,29,舰娘,DD
+深雪,全部,rating:questionable,41,舰娘,DD
+深雪,全部,rating:safe,1341,舰娘,DD
+深雪,无子项,全部,1266,舰娘,DD
+深雪,无子项,rating:explicit,20,舰娘,DD
+深雪,无子项,rating:questionable,34,舰娘,DD
+深雪,无子项,rating:safe,1212,舰娘,DD
+叢雲,全部,全部,5529,舰娘,DD
+叢雲,全部,rating:explicit,184,舰娘,DD
+叢雲,全部,rating:questionable,450,舰娘,DD
+叢雲,全部,rating:safe,4895,舰娘,DD
+叢雲,无子项,全部,4766,舰娘,DD
+叢雲,无子项,rating:explicit,108,舰娘,DD
+叢雲,无子项,rating:questionable,325,舰娘,DD
+叢雲,无子项,rating:safe,4333,舰娘,DD
+磯波,全部,全部,1063,舰娘,DD
+磯波,全部,rating:explicit,32,舰娘,DD
+磯波,全部,rating:questionable,100,舰娘,DD
+磯波,全部,rating:safe,931,舰娘,DD
+磯波,无子项,全部,895,舰娘,DD
+磯波,无子项,rating:explicit,18,舰娘,DD
+磯波,无子项,rating:questionable,71,舰娘,DD
+磯波,无子项,rating:safe,806,舰娘,DD
+浦波,全部,全部,333,舰娘,DD
+浦波,全部,rating:explicit,7,舰娘,DD
+浦波,全部,rating:questionable,20,舰娘,DD
+浦波,全部,rating:safe,306,舰娘,DD
+浦波,无子项,全部,251,舰娘,DD
+浦波,无子项,rating:explicit,3,舰娘,DD
+浦波,无子项,rating:questionable,12,舰娘,DD
+浦波,无子项,rating:safe,236,舰娘,DD
+綾波,全部,全部,1107,舰娘,DD
+綾波,全部,rating:explicit,16,舰娘,DD
+綾波,全部,rating:questionable,66,舰娘,DD
+綾波,全部,rating:safe,1025,舰娘,DD
+綾波,无子项,全部,963,舰娘,DD
+綾波,无子项,rating:explicit,13,舰娘,DD
+綾波,无子项,rating:questionable,52,舰娘,DD
+綾波,无子项,rating:safe,898,舰娘,DD
+敷波,全部,全部,1224,舰娘,DD
+敷波,全部,rating:explicit,20,舰娘,DD
+敷波,全部,rating:questionable,68,舰娘,DD
+敷波,全部,rating:safe,1136,舰娘,DD
+敷波,无子项,全部,1025,舰娘,DD
+敷波,无子项,rating:explicit,12,舰娘,DD
+敷波,无子项,rating:questionable,52,舰娘,DD
+敷波,无子项,rating:safe,961,舰娘,DD
+朧,全部,全部,1901,舰娘,DD
+朧,全部,rating:explicit,29,舰娘,DD
+朧,全部,rating:questionable,73,舰娘,DD
+朧,全部,rating:safe,1799,舰娘,DD
+朧,无子项,全部,1582,舰娘,DD
+朧,无子项,rating:explicit,16,舰娘,DD
+朧,无子项,rating:questionable,60,舰娘,DD
+朧,无子项,rating:safe,1506,舰娘,DD
+曙,全部,全部,4607,舰娘,DD
+曙,全部,rating:explicit,79,舰娘,DD
+曙,全部,rating:questionable,277,舰娘,DD
+曙,全部,rating:safe,4251,舰娘,DD
+曙,无子项,全部,3763,舰娘,DD
+曙,无子项,rating:explicit,47,舰娘,DD
+曙,无子项,rating:questionable,215,舰娘,DD
+曙,无子项,rating:safe,3501,舰娘,DD
+漣,全部,全部,3568,舰娘,DD
+漣,全部,rating:explicit,52,舰娘,DD
+漣,全部,rating:questionable,195,舰娘,DD
+漣,全部,rating:safe,3321,舰娘,DD
+漣,无子项,全部,2971,舰娘,DD
+漣,无子项,rating:explicit,36,舰娘,DD
+漣,无子项,rating:questionable,159,舰娘,DD
+漣,无子项,rating:safe,2776,舰娘,DD
+潮,全部,全部,5445,舰娘,DD
+潮,全部,rating:explicit,240,舰娘,DD
+潮,全部,rating:questionable,570,舰娘,DD
+潮,全部,rating:safe,4635,舰娘,DD
+潮,无子项,全部,4288,舰娘,DD
+潮,无子项,rating:explicit,173,舰娘,DD
+潮,无子项,rating:questionable,450,舰娘,DD
+潮,无子项,rating:safe,3665,舰娘,DD
+天霧,全部,全部,196,舰娘,DD
+天霧,全部,rating:explicit,3,舰娘,DD
+天霧,全部,rating:questionable,7,舰娘,DD
+天霧,全部,rating:safe,186,舰娘,DD
+天霧,无子项,全部,153,舰娘,DD
+天霧,无子项,rating:explicit,2,舰娘,DD
+天霧,无子项,rating:questionable,5,舰娘,DD
+天霧,无子项,rating:safe,146,舰娘,DD
+狭霧,全部,全部,292,舰娘,DD
+狭霧,全部,rating:explicit,10,舰娘,DD
+狭霧,全部,rating:questionable,20,舰娘,DD
+狭霧,全部,rating:safe,262,舰娘,DD
+狭霧,无子项,全部,239,舰娘,DD
+狭霧,无子项,rating:explicit,6,舰娘,DD
+狭霧,无子项,rating:questionable,16,舰娘,DD
+狭霧,无子项,rating:safe,217,舰娘,DD
+暁,全部,全部,8272,舰娘,DD
+暁,全部,rating:explicit,214,舰娘,DD
+暁,全部,rating:questionable,498,舰娘,DD
+暁,全部,rating:safe,7560,舰娘,DD
+暁,无子项,全部,7224,舰娘,DD
+暁,无子项,rating:explicit,174,舰娘,DD
+暁,无子项,rating:questionable,394,舰娘,DD
+暁,无子项,rating:safe,6656,舰娘,DD
+響,全部,全部,12837,舰娘,DD
+響,全部,rating:explicit,231,舰娘,DD
+響,全部,rating:questionable,913,舰娘,DD
+響,全部,rating:safe,11693,舰娘,DD
+響,无子项,全部,11215,舰娘,DD
+響,无子项,rating:explicit,171,舰娘,DD
+響,无子项,rating:questionable,723,舰娘,DD
+響,无子项,rating:safe,10321,舰娘,DD
+Верный,全部,全部,3523,舰娘,DD
+Верный,全部,rating:explicit,48,舰娘,DD
+Верный,全部,rating:questionable,245,舰娘,DD
+Верный,全部,rating:safe,3230,舰娘,DD
+Верный,无子项,全部,3025,舰娘,DD
+Верный,无子项,rating:explicit,37,舰娘,DD
+Верный,无子项,rating:questionable,200,舰娘,DD
+Верный,无子项,rating:safe,2788,舰娘,DD
+雷,全部,全部,9276,舰娘,DD
+雷,全部,rating:explicit,231,舰娘,DD
+雷,全部,rating:questionable,499,舰娘,DD
+雷,全部,rating:safe,8546,舰娘,DD
+雷,无子项,全部,8150,舰娘,DD
+雷,无子项,rating:explicit,179,舰娘,DD
+雷,无子项,rating:questionable,407,舰娘,DD
+雷,无子项,rating:safe,7564,舰娘,DD
+電,全部,全部,10828,舰娘,DD
+電,全部,rating:explicit,208,舰娘,DD
+電,全部,rating:questionable,520,舰娘,DD
+電,全部,rating:safe,10100,舰娘,DD
+電,无子项,全部,9586,舰娘,DD
+電,无子项,rating:explicit,164,舰娘,DD
+電,无子项,rating:questionable,424,舰娘,DD
+電,无子项,rating:safe,8998,舰娘,DD
+初春,全部,全部,717,舰娘,DD
+初春,全部,rating:explicit,28,舰娘,DD
+初春,全部,rating:questionable,46,舰娘,DD
+初春,全部,rating:safe,643,舰娘,DD
+初春,无子项,全部,625,舰娘,DD
+初春,无子项,rating:explicit,24,舰娘,DD
+初春,无子项,rating:questionable,41,舰娘,DD
+初春,无子项,rating:safe,560,舰娘,DD
+子日,全部,全部,747,舰娘,DD
+子日,全部,rating:explicit,12,舰娘,DD
+子日,全部,rating:questionable,28,舰娘,DD
+子日,全部,rating:safe,707,舰娘,DD
+子日,无子项,全部,636,舰娘,DD
+子日,无子项,rating:explicit,4,舰娘,DD
+子日,无子项,rating:questionable,23,舰娘,DD
+子日,无子项,rating:safe,609,舰娘,DD
+若葉,全部,全部,538,舰娘,DD
+若葉,全部,rating:explicit,5,舰娘,DD
+若葉,全部,rating:questionable,17,舰娘,DD
+若葉,全部,rating:safe,516,舰娘,DD
+若葉,无子项,全部,442,舰娘,DD
+若葉,无子项,rating:explicit,5,舰娘,DD
+若葉,无子项,rating:questionable,16,舰娘,DD
+若葉,无子项,rating:safe,421,舰娘,DD
+初霜,全部,全部,877,舰娘,DD
+初霜,全部,rating:explicit,11,舰娘,DD
+初霜,全部,rating:questionable,33,舰娘,DD
+初霜,全部,rating:safe,833,舰娘,DD
+初霜,无子项,全部,741,舰娘,DD
+初霜,无子项,rating:explicit,6,舰娘,DD
+初霜,无子项,rating:questionable,27,舰娘,DD
+初霜,无子项,rating:safe,708,舰娘,DD
+白露,全部,全部,1643,舰娘,DD
+白露,全部,rating:explicit,26,舰娘,DD
+白露,全部,rating:questionable,88,舰娘,DD
+白露,全部,rating:safe,1529,舰娘,DD
+白露,无子项,全部,1391,舰娘,DD
+白露,无子项,rating:explicit,21,舰娘,DD
+白露,无子项,rating:questionable,59,舰娘,DD
+白露,无子项,rating:safe,1311,舰娘,DD
+時雨,全部,全部,10133,舰娘,DD
+時雨,全部,rating:explicit,210,舰娘,DD
+時雨,全部,rating:questionable,719,舰娘,DD
+時雨,全部,rating:safe,9204,舰娘,DD
+時雨,无子项,全部,8657,舰娘,DD
+時雨,无子项,rating:explicit,159,舰娘,DD
+時雨,无子项,rating:questionable,518,舰娘,DD
+時雨,无子项,rating:safe,7980,舰娘,DD
+村雨,全部,全部,2201,舰娘,DD
+村雨,全部,rating:explicit,82,舰娘,DD
+村雨,全部,rating:questionable,245,舰娘,DD
+村雨,全部,rating:safe,1874,舰娘,DD
+村雨,无子项,全部,1854,舰娘,DD
+村雨,无子项,rating:explicit,66,舰娘,DD
+村雨,无子项,rating:questionable,192,舰娘,DD
+村雨,无子项,rating:safe,1596,舰娘,DD
+夕立,全部,全部,8093,舰娘,DD
+夕立,全部,rating:explicit,200,舰娘,DD
+夕立,全部,rating:questionable,529,舰娘,DD
+夕立,全部,rating:safe,7364,舰娘,DD
+夕立,无子项,全部,6940,舰娘,DD
+夕立,无子项,rating:explicit,133,舰娘,DD
+夕立,无子项,rating:questionable,396,舰娘,DD
+夕立,无子项,rating:safe,6411,舰娘,DD
+迷之像夕立的生物,全部,全部,246,其他,不适用
+迷之像夕立的生物,全部,rating:explicit,4,其他,不适用
+迷之像夕立的生物,全部,rating:questionable,9,其他,不适用
+迷之像夕立的生物,全部,rating:safe,233,其他,不适用
+迷之像夕立的生物,无子项,全部,207,其他,不适用
+迷之像夕立的生物,无子项,rating:explicit,3,其他,不适用
+迷之像夕立的生物,无子项,rating:questionable,7,其他,不适用
+迷之像夕立的生物,无子项,rating:safe,197,其他,不适用
+春雨,全部,全部,1762,舰娘,DD
+春雨,全部,rating:explicit,49,舰娘,DD
+春雨,全部,rating:questionable,138,舰娘,DD
+春雨,全部,rating:safe,1575,舰娘,DD
+春雨,无子项,全部,1458,舰娘,DD
+春雨,无子项,rating:explicit,33,舰娘,DD
+春雨,无子项,rating:questionable,116,舰娘,DD
+春雨,无子项,rating:safe,1309,舰娘,DD
+像春雨的晴天娃娃,全部,全部,8,其他,不适用
+像春雨的晴天娃娃,全部,rating:explicit,0,其他,不适用
+像春雨的晴天娃娃,全部,rating:questionable,0,其他,不适用
+像春雨的晴天娃娃,全部,rating:safe,8,其他,不适用
+像春雨的晴天娃娃,无子项,全部,8,其他,不适用
+像春雨的晴天娃娃,无子项,rating:explicit,0,其他,不适用
+像春雨的晴天娃娃,无子项,rating:questionable,0,其他,不适用
+像春雨的晴天娃娃,无子项,rating:safe,8,其他,不适用
+五月雨,全部,全部,3172,舰娘,DD
+五月雨,全部,rating:explicit,43,舰娘,DD
+五月雨,全部,rating:questionable,139,舰娘,DD
+五月雨,全部,rating:safe,2990,舰娘,DD
+五月雨,无子项,全部,2724,舰娘,DD
+五月雨,无子项,rating:explicit,33,舰娘,DD
+五月雨,无子项,rating:questionable,117,舰娘,DD
+五月雨,无子项,rating:safe,2574,舰娘,DD
+海風,全部,全部,941,舰娘,DD
+海風,全部,rating:explicit,44,舰娘,DD
+海風,全部,rating:questionable,47,舰娘,DD
+海風,全部,rating:safe,850,舰娘,DD
+海風,无子项,全部,745,舰娘,DD
+海風,无子项,rating:explicit,7,舰娘,DD
+海風,无子项,rating:questionable,33,舰娘,DD
+海風,无子项,rating:safe,705,舰娘,DD
+山風,全部,全部,2015,舰娘,DD
+山風,全部,rating:explicit,82,舰娘,DD
+山風,全部,rating:questionable,167,舰娘,DD
+山風,全部,rating:safe,1766,舰娘,DD
+山風,无子项,全部,1631,舰娘,DD
+山風,无子项,rating:explicit,59,舰娘,DD
+山風,无子项,rating:questionable,125,舰娘,DD
+山風,无子项,rating:safe,1447,舰娘,DD
+江風,全部,全部,1167,舰娘,DD
+江風,全部,rating:explicit,58,舰娘,DD
+江風,全部,rating:questionable,53,舰娘,DD
+江風,全部,rating:safe,1056,舰娘,DD
+江風,无子项,全部,944,舰娘,DD
+江風,无子项,rating:explicit,20,舰娘,DD
+江風,无子项,rating:questionable,37,舰娘,DD
+江風,无子项,rating:safe,887,舰娘,DD
+涼風,全部,全部,1334,舰娘,DD
+涼風,全部,rating:explicit,18,舰娘,DD
+涼風,全部,rating:questionable,48,舰娘,DD
+涼風,全部,rating:safe,1268,舰娘,DD
+涼風,无子项,全部,1154,舰娘,DD
+涼風,无子项,rating:explicit,11,舰娘,DD
+涼風,无子项,rating:questionable,40,舰娘,DD
+涼風,无子项,rating:safe,1103,舰娘,DD
+朝潮,全部,全部,3523,舰娘,DD
+朝潮,全部,rating:explicit,310,舰娘,DD
+朝潮,全部,rating:questionable,462,舰娘,DD
+朝潮,全部,rating:safe,2751,舰娘,DD
+朝潮,无子项,全部,2953,舰娘,DD
+朝潮,无子项,rating:explicit,236,舰娘,DD
+朝潮,无子项,rating:questionable,349,舰娘,DD
+朝潮,无子项,rating:safe,2368,舰娘,DD
+大潮,全部,全部,941,舰娘,DD
+大潮,全部,rating:explicit,15,舰娘,DD
+大潮,全部,rating:questionable,42,舰娘,DD
+大潮,全部,rating:safe,884,舰娘,DD
+大潮,无子项,全部,799,舰娘,DD
+大潮,无子项,rating:explicit,12,舰娘,DD
+大潮,无子项,rating:questionable,31,舰娘,DD
+大潮,无子项,rating:safe,756,舰娘,DD
+満潮,全部,全部,1681,舰娘,DD
+満潮,全部,rating:explicit,41,舰娘,DD
+満潮,全部,rating:questionable,88,舰娘,DD
+満潮,全部,rating:safe,1552,舰娘,DD
+満潮,无子项,全部,1432,舰娘,DD
+満潮,无子项,rating:explicit,31,舰娘,DD
+満潮,无子项,rating:questionable,72,舰娘,DD
+満潮,无子项,rating:safe,1329,舰娘,DD
+荒潮,全部,全部,1132,舰娘,DD
+荒潮,全部,rating:explicit,33,舰娘,DD
+荒潮,全部,rating:questionable,83,舰娘,DD
+荒潮,全部,rating:safe,1016,舰娘,DD
+荒潮,无子项,全部,924,舰娘,DD
+荒潮,无子项,rating:explicit,25,舰娘,DD
+荒潮,无子项,rating:questionable,70,舰娘,DD
+荒潮,无子项,rating:safe,829,舰娘,DD
+山雲,全部,全部,620,舰娘,DD
+山雲,全部,rating:explicit,2,舰娘,DD
+山雲,全部,rating:questionable,19,舰娘,DD
+山雲,全部,rating:safe,599,舰娘,DD
+山雲,无子项,全部,527,舰娘,DD
+山雲,无子项,rating:explicit,2,舰娘,DD
+山雲,无子项,rating:questionable,15,舰娘,DD
+山雲,无子项,rating:safe,510,舰娘,DD
+朝雲,全部,全部,806,舰娘,DD
+朝雲,全部,rating:explicit,9,舰娘,DD
+朝雲,全部,rating:questionable,27,舰娘,DD
+朝雲,全部,rating:safe,770,舰娘,DD
+朝雲,无子项,全部,680,舰娘,DD
+朝雲,无子项,rating:explicit,5,舰娘,DD
+朝雲,无子项,rating:questionable,24,舰娘,DD
+朝雲,无子项,rating:safe,651,舰娘,DD
+峯雲,全部,全部,276,舰娘,DD
+峯雲,全部,rating:explicit,13,舰娘,DD
+峯雲,全部,rating:questionable,27,舰娘,DD
+峯雲,全部,rating:safe,236,舰娘,DD
+峯雲,无子项,全部,224,舰娘,DD
+峯雲,无子项,rating:explicit,7,舰娘,DD
+峯雲,无子项,rating:questionable,16,舰娘,DD
+峯雲,无子项,rating:safe,201,舰娘,DD
+霰,全部,全部,658,舰娘,DD
+霰,全部,rating:explicit,13,舰娘,DD
+霰,全部,rating:questionable,31,舰娘,DD
+霰,全部,rating:safe,614,舰娘,DD
+霰,无子项,全部,553,舰娘,DD
+霰,无子项,rating:explicit,9,舰娘,DD
+霰,无子项,rating:questionable,22,舰娘,DD
+霰,无子项,rating:safe,522,舰娘,DD
+霞,全部,全部,2931,舰娘,DD
+霞,全部,rating:explicit,111,舰娘,DD
+霞,全部,rating:questionable,245,舰娘,DD
+霞,全部,rating:safe,2575,舰娘,DD
+霞,无子项,全部,2479,舰娘,DD
+霞,无子项,rating:explicit,66,舰娘,DD
+霞,无子项,rating:questionable,189,舰娘,DD
+霞,无子项,rating:safe,2224,舰娘,DD
+陽炎,全部,全部,1924,舰娘,DD
+陽炎,全部,rating:explicit,33,舰娘,DD
+陽炎,全部,rating:questionable,70,舰娘,DD
+陽炎,全部,rating:safe,1821,舰娘,DD
+陽炎,无子项,全部,1667,舰娘,DD
+陽炎,无子项,rating:explicit,25,舰娘,DD
+陽炎,无子项,rating:questionable,48,舰娘,DD
+陽炎,无子项,rating:safe,1594,舰娘,DD
+不知火,全部,全部,3866,舰娘,DD
+不知火,全部,rating:explicit,95,舰娘,DD
+不知火,全部,rating:questionable,165,舰娘,DD
+不知火,全部,rating:safe,3606,舰娘,DD
+不知火,无子项,全部,3420,舰娘,DD
+不知火,无子项,rating:explicit,58,舰娘,DD
+不知火,无子项,rating:questionable,126,舰娘,DD
+不知火,无子项,rating:safe,3236,舰娘,DD
+黒潮,全部,全部,1230,舰娘,DD
+黒潮,全部,rating:explicit,18,舰娘,DD
+黒潮,全部,rating:questionable,79,舰娘,DD
+黒潮,全部,rating:safe,1133,舰娘,DD
+黒潮,无子项,全部,1015,舰娘,DD
+黒潮,无子项,rating:explicit,12,舰娘,DD
+黒潮,无子项,rating:questionable,56,舰娘,DD
+黒潮,无子项,rating:safe,947,舰娘,DD
+親潮,全部,全部,598,舰娘,DD
+親潮,全部,rating:explicit,35,舰娘,DD
+親潮,全部,rating:questionable,88,舰娘,DD
+親潮,全部,rating:safe,475,舰娘,DD
+親潮,无子项,全部,457,舰娘,DD
+親潮,无子项,rating:explicit,20,舰娘,DD
+親潮,无子项,rating:questionable,57,舰娘,DD
+親潮,无子项,rating:safe,380,舰娘,DD
+初風,全部,全部,870,舰娘,DD
+初風,全部,rating:explicit,15,舰娘,DD
+初風,全部,rating:questionable,40,舰娘,DD
+初風,全部,rating:safe,815,舰娘,DD
+初風,无子项,全部,727,舰娘,DD
+初風,无子项,rating:explicit,11,舰娘,DD
+初風,无子项,rating:questionable,29,舰娘,DD
+初風,无子项,rating:safe,687,舰娘,DD
+雪風,全部,全部,5194,舰娘,DD
+雪風,全部,rating:explicit,97,舰娘,DD
+雪風,全部,rating:questionable,249,舰娘,DD
+雪風,全部,rating:safe,4848,舰娘,DD
+雪風,无子项,全部,4583,舰娘,DD
+雪風,无子项,rating:explicit,76,舰娘,DD
+雪風,无子项,rating:questionable,209,舰娘,DD
+雪風,无子项,rating:safe,4298,舰娘,DD
+丹陽,全部,全部,85,其他,不适用
+丹陽,全部,rating:explicit,0,其他,不适用
+丹陽,全部,rating:questionable,0,其他,不适用
+丹陽,全部,rating:safe,85,其他,不适用
+丹陽,无子项,全部,83,其他,不适用
+丹陽,无子项,rating:explicit,0,其他,不适用
+丹陽,无子项,rating:questionable,0,其他,不适用
+丹陽,无子项,rating:safe,83,其他,不适用
+天津風,全部,全部,5079,舰娘,DD
+天津風,全部,rating:explicit,276,舰娘,DD
+天津風,全部,rating:questionable,766,舰娘,DD
+天津風,全部,rating:safe,4037,舰娘,DD
+天津風,无子项,全部,4298,舰娘,DD
+天津風,无子项,rating:explicit,187,舰娘,DD
+天津風,无子项,rating:questionable,594,舰娘,DD
+天津風,无子项,rating:safe,3517,舰娘,DD
+连装炮君,全部,全部,1437,其他,不适用
+连装炮君,全部,rating:explicit,18,其他,不适用
+连装炮君,全部,rating:questionable,130,其他,不适用
+连装炮君,全部,rating:safe,1289,其他,不适用
+连装炮君,无子项,全部,1249,其他,不适用
+连装炮君,无子项,rating:explicit,10,其他,不适用
+连装炮君,无子项,rating:questionable,96,其他,不适用
+连装炮君,无子项,rating:safe,1143,其他,不适用
+時津風,全部,全部,2092,舰娘,DD
+時津風,全部,rating:explicit,69,舰娘,DD
+時津風,全部,rating:questionable,235,舰娘,DD
+時津風,全部,rating:safe,1788,舰娘,DD
+時津風,无子项,全部,1779,舰娘,DD
+時津風,无子项,rating:explicit,48,舰娘,DD
+時津風,无子项,rating:questionable,186,舰娘,DD
+時津風,无子项,rating:safe,1545,舰娘,DD
+浦風,全部,全部,2013,舰娘,DD
+浦風,全部,rating:explicit,147,舰娘,DD
+浦風,全部,rating:questionable,435,舰娘,DD
+浦風,全部,rating:safe,1431,舰娘,DD
+浦風,无子项,全部,1639,舰娘,DD
+浦風,无子项,rating:explicit,101,舰娘,DD
+浦風,无子项,rating:questionable,348,舰娘,DD
+浦風,无子项,rating:safe,1190,舰娘,DD
+磯風,全部,全部,2054,舰娘,DD
+磯風,全部,rating:explicit,98,舰娘,DD
+磯風,全部,rating:questionable,323,舰娘,DD
+磯風,全部,rating:safe,1633,舰娘,DD
+磯風,无子项,全部,1653,舰娘,DD
+磯風,无子项,rating:explicit,62,舰娘,DD
+磯風,无子项,rating:questionable,239,舰娘,DD
+磯風,无子项,rating:safe,1352,舰娘,DD
+浜風,全部,全部,7070,舰娘,DD
+浜風,全部,rating:explicit,678,舰娘,DD
+浜風,全部,rating:questionable,1796,舰娘,DD
+浜風,全部,rating:safe,4596,舰娘,DD
+浜風,无子项,全部,5522,舰娘,DD
+浜風,无子项,rating:explicit,461,舰娘,DD
+浜風,无子项,rating:questionable,1275,舰娘,DD
+浜風,无子项,rating:safe,3786,舰娘,DD
+谷風,全部,全部,668,舰娘,DD
+谷風,全部,rating:explicit,17,舰娘,DD
+谷風,全部,rating:questionable,56,舰娘,DD
+谷風,全部,rating:safe,595,舰娘,DD
+谷風,无子项,全部,546,舰娘,DD
+谷風,无子项,rating:explicit,15,舰娘,DD
+谷風,无子项,rating:questionable,44,舰娘,DD
+谷風,无子项,rating:safe,487,舰娘,DD
+野分,全部,全部,794,舰娘,DD
+野分,全部,rating:explicit,14,舰娘,DD
+野分,全部,rating:questionable,38,舰娘,DD
+野分,全部,rating:safe,742,舰娘,DD
+野分,无子项,全部,665,舰娘,DD
+野分,无子项,rating:explicit,13,舰娘,DD
+野分,无子项,rating:questionable,33,舰娘,DD
+野分,无子项,rating:safe,619,舰娘,DD
+嵐,全部,全部,943,舰娘,DD
+嵐,全部,rating:explicit,43,舰娘,DD
+嵐,全部,rating:questionable,67,舰娘,DD
+嵐,全部,rating:safe,833,舰娘,DD
+嵐,无子项,全部,761,舰娘,DD
+嵐,无子项,rating:explicit,31,舰娘,DD
+嵐,无子项,rating:questionable,53,舰娘,DD
+嵐,无子项,rating:safe,677,舰娘,DD
+萩風,全部,全部,1032,舰娘,DD
+萩風,全部,rating:explicit,34,舰娘,DD
+萩風,全部,rating:questionable,116,舰娘,DD
+萩風,全部,rating:safe,882,舰娘,DD
+萩風,无子项,全部,828,舰娘,DD
+萩風,无子项,rating:explicit,30,舰娘,DD
+萩風,无子项,rating:questionable,83,舰娘,DD
+萩風,无子项,rating:safe,715,舰娘,DD
+舞風,全部,全部,1036,舰娘,DD
+舞風,全部,rating:explicit,19,舰娘,DD
+舞風,全部,rating:questionable,37,舰娘,DD
+舞風,全部,rating:safe,980,舰娘,DD
+舞風,无子项,全部,893,舰娘,DD
+舞風,无子项,rating:explicit,15,舰娘,DD
+舞風,无子项,rating:questionable,32,舰娘,DD
+舞風,无子项,rating:safe,846,舰娘,DD
+秋雲,全部,全部,1847,舰娘,DD
+秋雲,全部,rating:explicit,58,舰娘,DD
+秋雲,全部,rating:questionable,85,舰娘,DD
+秋雲,全部,rating:safe,1704,舰娘,DD
+秋雲,无子项,全部,1607,舰娘,DD
+秋雲,无子项,rating:explicit,46,舰娘,DD
+秋雲,无子项,rating:questionable,72,舰娘,DD
+秋雲,无子项,rating:safe,1489,舰娘,DD
+夕雲,全部,全部,1272,舰娘,DD
+夕雲,全部,rating:explicit,67,舰娘,DD
+夕雲,全部,rating:questionable,131,舰娘,DD
+夕雲,全部,rating:safe,1074,舰娘,DD
+夕雲,无子项,全部,1058,舰娘,DD
+夕雲,无子项,rating:explicit,51,舰娘,DD
+夕雲,无子项,rating:questionable,99,舰娘,DD
+夕雲,无子项,rating:safe,908,舰娘,DD
+巻雲,全部,全部,1263,舰娘,DD
+巻雲,全部,rating:explicit,19,舰娘,DD
+巻雲,全部,rating:questionable,57,舰娘,DD
+巻雲,全部,rating:safe,1187,舰娘,DD
+巻雲,无子项,全部,1115,舰娘,DD
+巻雲,无子项,rating:explicit,16,舰娘,DD
+巻雲,无子项,rating:questionable,50,舰娘,DD
+巻雲,无子项,rating:safe,1049,舰娘,DD
+風雲,全部,全部,543,舰娘,DD
+風雲,全部,rating:explicit,11,舰娘,DD
+風雲,全部,rating:questionable,26,舰娘,DD
+風雲,全部,rating:safe,506,舰娘,DD
+風雲,无子项,全部,452,舰娘,DD
+風雲,无子项,rating:explicit,9,舰娘,DD
+風雲,无子项,rating:questionable,17,舰娘,DD
+風雲,无子项,rating:safe,426,舰娘,DD
+長波,全部,全部,1933,舰娘,DD
+長波,全部,rating:explicit,56,舰娘,DD
+長波,全部,rating:questionable,230,舰娘,DD
+長波,全部,rating:safe,1647,舰娘,DD
+長波,无子项,全部,1639,舰娘,DD
+長波,无子项,rating:explicit,40,舰娘,DD
+長波,无子项,rating:questionable,168,舰娘,DD
+長波,无子项,rating:safe,1431,舰娘,DD
+高波,全部,全部,625,舰娘,DD
+高波,全部,rating:explicit,9,舰娘,DD
+高波,全部,rating:questionable,38,舰娘,DD
+高波,全部,rating:safe,578,舰娘,DD
+高波,无子项,全部,522,舰娘,DD
+高波,无子项,rating:explicit,7,舰娘,DD
+高波,无子项,rating:questionable,27,舰娘,DD
+高波,无子项,rating:safe,488,舰娘,DD
+藤波,全部,全部,348,舰娘,DD
+藤波,全部,rating:explicit,2,舰娘,DD
+藤波,全部,rating:questionable,16,舰娘,DD
+藤波,全部,rating:safe,330,舰娘,DD
+藤波,无子项,全部,278,舰娘,DD
+藤波,无子项,rating:explicit,2,舰娘,DD
+藤波,无子项,rating:questionable,13,舰娘,DD
+藤波,无子项,rating:safe,263,舰娘,DD
+早波,全部,全部,104,舰娘,DD
+早波,全部,rating:explicit,1,舰娘,DD
+早波,全部,rating:questionable,5,舰娘,DD
+早波,全部,rating:safe,98,舰娘,DD
+早波,无子项,全部,89,舰娘,DD
+早波,无子项,rating:explicit,1,舰娘,DD
+早波,无子项,rating:questionable,3,舰娘,DD
+早波,无子项,rating:safe,85,舰娘,DD
+浜波,全部,全部,305,舰娘,DD
+浜波,全部,rating:explicit,11,舰娘,DD
+浜波,全部,rating:questionable,20,舰娘,DD
+浜波,全部,rating:safe,274,舰娘,DD
+浜波,无子项,全部,245,舰娘,DD
+浜波,无子项,rating:explicit,9,舰娘,DD
+浜波,无子项,rating:questionable,14,舰娘,DD
+浜波,无子项,rating:safe,222,舰娘,DD
+沖波,全部,全部,415,舰娘,DD
+沖波,全部,rating:explicit,7,舰娘,DD
+沖波,全部,rating:questionable,22,舰娘,DD
+沖波,全部,rating:safe,386,舰娘,DD
+沖波,无子项,全部,342,舰娘,DD
+沖波,无子项,rating:explicit,4,舰娘,DD
+沖波,无子项,rating:questionable,16,舰娘,DD
+沖波,无子项,rating:safe,322,舰娘,DD
+岸波,全部,全部,282,舰娘,DD
+岸波,全部,rating:explicit,10,舰娘,DD
+岸波,全部,rating:questionable,18,舰娘,DD
+岸波,全部,rating:safe,254,舰娘,DD
+岸波,无子项,全部,230,舰娘,DD
+岸波,无子项,rating:explicit,9,舰娘,DD
+岸波,无子项,rating:questionable,13,舰娘,DD
+岸波,无子项,rating:safe,208,舰娘,DD
+朝霜,全部,全部,1137,舰娘,DD
+朝霜,全部,rating:explicit,24,舰娘,DD
+朝霜,全部,rating:questionable,48,舰娘,DD
+朝霜,全部,rating:safe,1065,舰娘,DD
+朝霜,无子项,全部,981,舰娘,DD
+朝霜,无子项,rating:explicit,21,舰娘,DD
+朝霜,无子项,rating:questionable,40,舰娘,DD
+朝霜,无子项,rating:safe,920,舰娘,DD
+早霜,全部,全部,1070,舰娘,DD
+早霜,全部,rating:explicit,21,舰娘,DD
+早霜,全部,rating:questionable,74,舰娘,DD
+早霜,全部,rating:safe,975,舰娘,DD
+早霜,无子项,全部,905,舰娘,DD
+早霜,无子项,rating:explicit,17,舰娘,DD
+早霜,无子项,rating:questionable,60,舰娘,DD
+早霜,无子项,rating:safe,828,舰娘,DD
+清霜,全部,全部,2020,舰娘,DD
+清霜,全部,rating:explicit,42,舰娘,DD
+清霜,全部,rating:questionable,156,舰娘,DD
+清霜,全部,rating:safe,1822,舰娘,DD
+清霜,无子项,全部,1683,舰娘,DD
+清霜,无子项,rating:explicit,31,舰娘,DD
+清霜,无子项,rating:questionable,110,舰娘,DD
+清霜,无子项,rating:safe,1542,舰娘,DD
+秋月,全部,全部,1593,舰娘,DD
+秋月,全部,rating:explicit,49,舰娘,DD
+秋月,全部,rating:questionable,148,舰娘,DD
+秋月,全部,rating:safe,1396,舰娘,DD
+秋月,无子项,全部,1319,舰娘,DD
+秋月,无子项,rating:explicit,34,舰娘,DD
+秋月,无子项,rating:questionable,107,舰娘,DD
+秋月,无子项,rating:safe,1178,舰娘,DD
+长10炮酱,全部,全部,381,其他,不适用
+长10炮酱,全部,rating:explicit,4,其他,不适用
+长10炮酱,全部,rating:questionable,25,其他,不适用
+长10炮酱,全部,rating:safe,352,其他,不适用
+长10炮酱,无子项,全部,314,其他,不适用
+长10炮酱,无子项,rating:explicit,1,其他,不适用
+长10炮酱,无子项,rating:questionable,17,其他,不适用
+长10炮酱,无子项,rating:safe,296,其他,不适用
+照月,全部,全部,1182,舰娘,DD
+照月,全部,rating:explicit,84,舰娘,DD
+照月,全部,rating:questionable,155,舰娘,DD
+照月,全部,rating:safe,943,舰娘,DD
+照月,无子项,全部,945,舰娘,DD
+照月,无子项,rating:explicit,52,舰娘,DD
+照月,无子项,rating:questionable,125,舰娘,DD
+照月,无子项,rating:safe,768,舰娘,DD
+照月的长10炮酱,全部,全部,180,其他,不适用
+照月的长10炮酱,全部,rating:explicit,6,其他,不适用
+照月的长10炮酱,全部,rating:questionable,11,其他,不适用
+照月的长10炮酱,全部,rating:safe,163,其他,不适用
+照月的长10炮酱,无子项,全部,144,其他,不适用
+照月的长10炮酱,无子项,rating:explicit,2,其他,不适用
+照月的长10炮酱,无子项,rating:questionable,9,其他,不适用
+照月的长10炮酱,无子项,rating:safe,133,其他,不适用
+初月,全部,全部,1533,舰娘,DD
+初月,全部,rating:explicit,75,舰娘,DD
+初月,全部,rating:questionable,205,舰娘,DD
+初月,全部,rating:safe,1253,舰娘,DD
+初月,无子项,全部,1155,舰娘,DD
+初月,无子项,rating:explicit,41,舰娘,DD
+初月,无子项,rating:questionable,132,舰娘,DD
+初月,无子项,rating:safe,982,舰娘,DD
+初月的长10炮酱,全部,全部,180,其他,不适用
+初月的长10炮酱,全部,rating:explicit,0,其他,不适用
+初月的长10炮酱,全部,rating:questionable,16,其他,不适用
+初月的长10炮酱,全部,rating:safe,164,其他,不适用
+初月的长10炮酱,无子项,全部,147,其他,不适用
+初月的长10炮酱,无子项,rating:explicit,0,其他,不适用
+初月的长10炮酱,无子项,rating:questionable,11,其他,不适用
+初月的长10炮酱,无子项,rating:safe,136,其他,不适用
+涼月,全部,全部,704,舰娘,DD
+涼月,全部,rating:explicit,33,舰娘,DD
+涼月,全部,rating:questionable,107,舰娘,DD
+涼月,全部,rating:safe,564,舰娘,DD
+涼月,无子项,全部,521,舰娘,DD
+涼月,无子项,rating:explicit,18,舰娘,DD
+涼月,无子项,rating:questionable,68,舰娘,DD
+涼月,无子项,rating:safe,435,舰娘,DD
+島風,全部,全部,11749,舰娘,DD
+島風,全部,rating:explicit,972,舰娘,DD
+島風,全部,rating:questionable,1818,舰娘,DD
+島風,全部,rating:safe,8959,舰娘,DD
+島風,无子项,全部,10101,舰娘,DD
+島風,无子项,rating:explicit,655,舰娘,DD
+島風,无子项,rating:questionable,1482,舰娘,DD
+島風,无子项,rating:safe,7964,舰娘,DD
+连装炮酱,全部,全部,5161,其他,不适用
+连装炮酱,全部,rating:explicit,156,其他,不适用
+连装炮酱,全部,rating:questionable,646,其他,不适用
+连装炮酱,全部,rating:safe,4359,其他,不适用
+连装炮酱,无子项,全部,4567,其他,不适用
+连装炮酱,无子项,rating:explicit,106,其他,不适用
+连装炮酱,无子项,rating:questionable,543,其他,不适用
+连装炮酱,无子项,rating:safe,3918,其他,不适用
+Z1,全部,全部,2387,舰娘,DD
+Z1,全部,rating:explicit,217,舰娘,DD
+Z1,全部,rating:questionable,231,舰娘,DD
+Z1,全部,rating:safe,1939,舰娘,DD
+Z1,无子项,全部,2068,舰娘,DD
+Z1,无子项,rating:explicit,164,舰娘,DD
+Z1,无子项,rating:questionable,196,舰娘,DD
+Z1,无子项,rating:safe,1708,舰娘,DD
+Z3,全部,全部,2357,舰娘,DD
+Z3,全部,rating:explicit,163,舰娘,DD
+Z3,全部,rating:questionable,332,舰娘,DD
+Z3,全部,rating:safe,1862,舰娘,DD
+Z3,无子项,全部,1975,舰娘,DD
+Z3,无子项,rating:explicit,117,舰娘,DD
+Z3,无子项,rating:questionable,253,舰娘,DD
+Z3,无子项,rating:safe,1605,舰娘,DD
+Maestrale,全部,全部,148,舰娘,DD
+Maestrale,全部,rating:explicit,18,舰娘,DD
+Maestrale,全部,rating:questionable,30,舰娘,DD
+Maestrale,全部,rating:safe,100,舰娘,DD
+Maestrale,无子项,全部,120,舰娘,DD
+Maestrale,无子项,rating:explicit,8,舰娘,DD
+Maestrale,无子项,rating:questionable,24,舰娘,DD
+Maestrale,无子项,rating:safe,88,舰娘,DD
+Grecale,全部,全部,103,舰娘,DD
+Grecale,全部,rating:explicit,5,舰娘,DD
+Grecale,全部,rating:questionable,23,舰娘,DD
+Grecale,全部,rating:safe,75,舰娘,DD
+Grecale,无子项,全部,80,舰娘,DD
+Grecale,无子项,rating:explicit,1,舰娘,DD
+Grecale,无子项,rating:questionable,17,舰娘,DD
+Grecale,无子项,rating:safe,62,舰娘,DD
+Libeccio,全部,全部,1083,舰娘,DD
+Libeccio,全部,rating:explicit,51,舰娘,DD
+Libeccio,全部,rating:questionable,190,舰娘,DD
+Libeccio,全部,rating:safe,842,舰娘,DD
+Libeccio,无子项,全部,899,舰娘,DD
+Libeccio,无子项,rating:explicit,30,舰娘,DD
+Libeccio,无子项,rating:questionable,144,舰娘,DD
+Libeccio,无子项,rating:safe,725,舰娘,DD
+Fletcher,全部,全部,233,舰娘,DD
+Fletcher,全部,rating:explicit,8,舰娘,DD
+Fletcher,全部,rating:questionable,21,舰娘,DD
+Fletcher,全部,rating:safe,204,舰娘,DD
+Fletcher,无子项,全部,198,舰娘,DD
+Fletcher,无子项,rating:explicit,5,舰娘,DD
+Fletcher,无子项,rating:questionable,16,舰娘,DD
+Fletcher,无子项,rating:safe,177,舰娘,DD
+Johnston,全部,全部,409,舰娘,DD
+Johnston,全部,rating:explicit,10,舰娘,DD
+Johnston,全部,rating:questionable,31,舰娘,DD
+Johnston,全部,rating:safe,368,舰娘,DD
+Johnston,无子项,全部,342,舰娘,DD
+Johnston,无子项,rating:explicit,8,舰娘,DD
+Johnston,无子项,rating:questionable,25,舰娘,DD
+Johnston,无子项,rating:safe,309,舰娘,DD
+Jervis,全部,全部,642,舰娘,DD
+Jervis,全部,rating:explicit,19,舰娘,DD
+Jervis,全部,rating:questionable,33,舰娘,DD
+Jervis,全部,rating:safe,590,舰娘,DD
+Jervis,无子项,全部,536,舰娘,DD
+Jervis,无子项,rating:explicit,13,舰娘,DD
+Jervis,无子项,rating:questionable,29,舰娘,DD
+Jervis,无子项,rating:safe,494,舰娘,DD
+Janus,全部,全部,100,舰娘,DD
+Janus,全部,rating:explicit,1,舰娘,DD
+Janus,全部,rating:questionable,7,舰娘,DD
+Janus,全部,rating:safe,92,舰娘,DD
+Janus,无子项,全部,85,舰娘,DD
+Janus,无子项,rating:explicit,1,舰娘,DD
+Janus,无子项,rating:questionable,7,舰娘,DD
+Janus,无子项,rating:safe,77,舰娘,DD
+Ташкент,全部,全部,703,舰娘,DD
+Ташкент,全部,rating:explicit,23,舰娘,DD
+Ташкент,全部,rating:questionable,51,舰娘,DD
+Ташкент,全部,rating:safe,629,舰娘,DD
+Ташкент,无子项,全部,545,舰娘,DD
+Ташкент,无子项,rating:explicit,10,舰娘,DD
+Ташкент,无子项,rating:questionable,35,舰娘,DD
+Ташкент,无子项,rating:safe,500,舰娘,DD
+天龍,全部,全部,10159,舰娘,"CL (CLT, CT, CLV)"
+天龍,全部,rating:explicit,475,舰娘,"CL (CLT, CT, CLV)"
+天龍,全部,rating:questionable,917,舰娘,"CL (CLT, CT, CLV)"
+天龍,全部,rating:safe,8767,舰娘,"CL (CLT, CT, CLV)"
+天龍,无子项,全部,8927,舰娘,"CL (CLT, CT, CLV)"
+天龍,无子项,rating:explicit,346,舰娘,"CL (CLT, CT, CLV)"
+天龍,无子项,rating:questionable,721,舰娘,"CL (CLT, CT, CLV)"
+天龍,无子项,rating:safe,7860,舰娘,"CL (CLT, CT, CLV)"
+龍田,全部,全部,4839,舰娘,"CL (CLT, CT, CLV)"
+龍田,全部,rating:explicit,219,舰娘,"CL (CLT, CT, CLV)"
+龍田,全部,rating:questionable,378,舰娘,"CL (CLT, CT, CLV)"
+龍田,全部,rating:safe,4242,舰娘,"CL (CLT, CT, CLV)"
+龍田,无子项,全部,4327,舰娘,"CL (CLT, CT, CLV)"
+龍田,无子项,rating:explicit,170,舰娘,"CL (CLT, CT, CLV)"
+龍田,无子项,rating:questionable,316,舰娘,"CL (CLT, CT, CLV)"
+龍田,无子项,rating:safe,3841,舰娘,"CL (CLT, CT, CLV)"
+球磨,全部,全部,2473,舰娘,"CL (CLT, CT, CLV)"
+球磨,全部,rating:explicit,14,舰娘,"CL (CLT, CT, CLV)"
+球磨,全部,rating:questionable,84,舰娘,"CL (CLT, CT, CLV)"
+球磨,全部,rating:safe,2375,舰娘,"CL (CLT, CT, CLV)"
+球磨,无子项,全部,2227,舰娘,"CL (CLT, CT, CLV)"
+球磨,无子项,rating:explicit,11,舰娘,"CL (CLT, CT, CLV)"
+球磨,无子项,rating:questionable,68,舰娘,"CL (CLT, CT, CLV)"
+球磨,无子项,rating:safe,2148,舰娘,"CL (CLT, CT, CLV)"
+多摩,全部,全部,1466,舰娘,"CL (CLT, CT, CLV)"
+多摩,全部,rating:explicit,12,舰娘,"CL (CLT, CT, CLV)"
+多摩,全部,rating:questionable,56,舰娘,"CL (CLT, CT, CLV)"
+多摩,全部,rating:safe,1398,舰娘,"CL (CLT, CT, CLV)"
+多摩,无子项,全部,1298,舰娘,"CL (CLT, CT, CLV)"
+多摩,无子项,rating:explicit,7,舰娘,"CL (CLT, CT, CLV)"
+多摩,无子项,rating:questionable,47,舰娘,"CL (CLT, CT, CLV)"
+多摩,无子项,rating:safe,1244,舰娘,"CL (CLT, CT, CLV)"
+北上,全部,全部,5022,舰娘,"CL (CLT, CT, CLV)"
+北上,全部,rating:explicit,98,舰娘,"CL (CLT, CT, CLV)"
+北上,全部,rating:questionable,264,舰娘,"CL (CLT, CT, CLV)"
+北上,全部,rating:safe,4660,舰娘,"CL (CLT, CT, CLV)"
+北上,无子项,全部,4540,舰娘,"CL (CLT, CT, CLV)"
+北上,无子项,rating:explicit,80,舰娘,"CL (CLT, CT, CLV)"
+北上,无子项,rating:questionable,214,舰娘,"CL (CLT, CT, CLV)"
+北上,无子项,rating:safe,4246,舰娘,"CL (CLT, CT, CLV)"
+大井,全部,全部,4071,舰娘,"CL (CLT, CT, CLV)"
+大井,全部,rating:explicit,129,舰娘,"CL (CLT, CT, CLV)"
+大井,全部,rating:questionable,239,舰娘,"CL (CLT, CT, CLV)"
+大井,全部,rating:safe,3703,舰娘,"CL (CLT, CT, CLV)"
+大井,无子项,全部,3578,舰娘,"CL (CLT, CT, CLV)"
+大井,无子项,rating:explicit,101,舰娘,"CL (CLT, CT, CLV)"
+大井,无子项,rating:questionable,195,舰娘,"CL (CLT, CT, CLV)"
+大井,无子项,rating:safe,3282,舰娘,"CL (CLT, CT, CLV)"
+木曾,全部,全部,3600,舰娘,"CL (CLT, CT, CLV)"
+木曾,全部,rating:explicit,22,舰娘,"CL (CLT, CT, CLV)"
+木曾,全部,rating:questionable,89,舰娘,"CL (CLT, CT, CLV)"
+木曾,全部,rating:safe,3489,舰娘,"CL (CLT, CT, CLV)"
+木曾,无子项,全部,3347,舰娘,"CL (CLT, CT, CLV)"
+木曾,无子项,rating:explicit,16,舰娘,"CL (CLT, CT, CLV)"
+木曾,无子项,rating:questionable,82,舰娘,"CL (CLT, CT, CLV)"
+木曾,无子项,rating:safe,3249,舰娘,"CL (CLT, CT, CLV)"
+長良,全部,全部,625,舰娘,"CL (CLT, CT, CLV)"
+長良,全部,rating:explicit,10,舰娘,"CL (CLT, CT, CLV)"
+長良,全部,rating:questionable,27,舰娘,"CL (CLT, CT, CLV)"
+長良,全部,rating:safe,588,舰娘,"CL (CLT, CT, CLV)"
+長良,无子项,全部,553,舰娘,"CL (CLT, CT, CLV)"
+長良,无子项,rating:explicit,8,舰娘,"CL (CLT, CT, CLV)"
+長良,无子项,rating:questionable,24,舰娘,"CL (CLT, CT, CLV)"
+長良,无子项,rating:safe,521,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,全部,全部,1249,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,全部,rating:explicit,135,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,全部,rating:questionable,142,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,全部,rating:safe,972,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,无子项,全部,1058,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,无子项,rating:explicit,100,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,无子项,rating:questionable,114,舰娘,"CL (CLT, CT, CLV)"
+五十鈴,无子项,rating:safe,844,舰娘,"CL (CLT, CT, CLV)"
+名取,全部,全部,576,舰娘,"CL (CLT, CT, CLV)"
+名取,全部,rating:explicit,21,舰娘,"CL (CLT, CT, CLV)"
+名取,全部,rating:questionable,38,舰娘,"CL (CLT, CT, CLV)"
+名取,全部,rating:safe,517,舰娘,"CL (CLT, CT, CLV)"
+名取,无子项,全部,493,舰娘,"CL (CLT, CT, CLV)"
+名取,无子项,rating:explicit,15,舰娘,"CL (CLT, CT, CLV)"
+名取,无子项,rating:questionable,30,舰娘,"CL (CLT, CT, CLV)"
+名取,无子项,rating:safe,448,舰娘,"CL (CLT, CT, CLV)"
+由良,全部,全部,1425,舰娘,"CL (CLT, CT, CLV)"
+由良,全部,rating:explicit,37,舰娘,"CL (CLT, CT, CLV)"
+由良,全部,rating:questionable,59,舰娘,"CL (CLT, CT, CLV)"
+由良,全部,rating:safe,1329,舰娘,"CL (CLT, CT, CLV)"
+由良,无子项,全部,1239,舰娘,"CL (CLT, CT, CLV)"
+由良,无子项,rating:explicit,19,舰娘,"CL (CLT, CT, CLV)"
+由良,无子项,rating:questionable,45,舰娘,"CL (CLT, CT, CLV)"
+由良,无子项,rating:safe,1175,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,全部,全部,725,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,全部,rating:explicit,15,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,全部,rating:questionable,27,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,全部,rating:safe,683,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,无子项,全部,604,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,无子项,rating:explicit,9,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,无子项,rating:questionable,23,舰娘,"CL (CLT, CT, CLV)"
+鬼怒,无子项,rating:safe,572,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,全部,全部,1765,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,全部,rating:explicit,28,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,全部,rating:questionable,89,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,全部,rating:safe,1648,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,无子项,全部,1520,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,无子项,rating:explicit,22,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,无子项,rating:questionable,71,舰娘,"CL (CLT, CT, CLV)"
+阿武隈,无子项,rating:safe,1427,舰娘,"CL (CLT, CT, CLV)"
+川内,全部,全部,3960,舰娘,"CL (CLT, CT, CLV)"
+川内,全部,rating:explicit,108,舰娘,"CL (CLT, CT, CLV)"
+川内,全部,rating:questionable,229,舰娘,"CL (CLT, CT, CLV)"
+川内,全部,rating:safe,3623,舰娘,"CL (CLT, CT, CLV)"
+川内,无子项,全部,3356,舰娘,"CL (CLT, CT, CLV)"
+川内,无子项,rating:explicit,65,舰娘,"CL (CLT, CT, CLV)"
+川内,无子项,rating:questionable,176,舰娘,"CL (CLT, CT, CLV)"
+川内,无子项,rating:safe,3115,舰娘,"CL (CLT, CT, CLV)"
+神通,全部,全部,2143,舰娘,"CL (CLT, CT, CLV)"
+神通,全部,rating:explicit,67,舰娘,"CL (CLT, CT, CLV)"
+神通,全部,rating:questionable,127,舰娘,"CL (CLT, CT, CLV)"
+神通,全部,rating:safe,1949,舰娘,"CL (CLT, CT, CLV)"
+神通,无子项,全部,1837,舰娘,"CL (CLT, CT, CLV)"
+神通,无子项,rating:explicit,43,舰娘,"CL (CLT, CT, CLV)"
+神通,无子项,rating:questionable,98,舰娘,"CL (CLT, CT, CLV)"
+神通,无子项,rating:safe,1696,舰娘,"CL (CLT, CT, CLV)"
+那珂,全部,全部,3111,舰娘,"CL (CLT, CT, CLV)"
+那珂,全部,rating:explicit,56,舰娘,"CL (CLT, CT, CLV)"
+那珂,全部,rating:questionable,96,舰娘,"CL (CLT, CT, CLV)"
+那珂,全部,rating:safe,2959,舰娘,"CL (CLT, CT, CLV)"
+那珂,无子项,全部,2737,舰娘,"CL (CLT, CT, CLV)"
+那珂,无子项,rating:explicit,43,舰娘,"CL (CLT, CT, CLV)"
+那珂,无子项,rating:questionable,74,舰娘,"CL (CLT, CT, CLV)"
+那珂,无子项,rating:safe,2620,舰娘,"CL (CLT, CT, CLV)"
+香取,全部,全部,1052,舰娘,"CL (CLT, CT, CLV)"
+香取,全部,rating:explicit,71,舰娘,"CL (CLT, CT, CLV)"
+香取,全部,rating:questionable,156,舰娘,"CL (CLT, CT, CLV)"
+香取,全部,rating:safe,825,舰娘,"CL (CLT, CT, CLV)"
+香取,无子项,全部,887,舰娘,"CL (CLT, CT, CLV)"
+香取,无子项,rating:explicit,48,舰娘,"CL (CLT, CT, CLV)"
+香取,无子项,rating:questionable,127,舰娘,"CL (CLT, CT, CLV)"
+香取,无子项,rating:safe,712,舰娘,"CL (CLT, CT, CLV)"
+鹿島,全部,全部,6804,舰娘,"CL (CLT, CT, CLV)"
+鹿島,全部,rating:explicit,631,舰娘,"CL (CLT, CT, CLV)"
+鹿島,全部,rating:questionable,1498,舰娘,"CL (CLT, CT, CLV)"
+鹿島,全部,rating:safe,4675,舰娘,"CL (CLT, CT, CLV)"
+鹿島,无子项,全部,5333,舰娘,"CL (CLT, CT, CLV)"
+鹿島,无子项,rating:explicit,420,舰娘,"CL (CLT, CT, CLV)"
+鹿島,无子项,rating:questionable,1074,舰娘,"CL (CLT, CT, CLV)"
+鹿島,无子项,rating:safe,3839,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,全部,全部,1234,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,全部,rating:explicit,95,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,全部,rating:questionable,151,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,全部,rating:safe,988,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,无子项,全部,1058,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,无子项,rating:explicit,75,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,无子项,rating:questionable,120,舰娘,"CL (CLT, CT, CLV)"
+阿賀野,无子项,rating:safe,863,舰娘,"CL (CLT, CT, CLV)"
+能代,全部,全部,1096,舰娘,"CL (CLT, CT, CLV)"
+能代,全部,rating:explicit,69,舰娘,"CL (CLT, CT, CLV)"
+能代,全部,rating:questionable,146,舰娘,"CL (CLT, CT, CLV)"
+能代,全部,rating:safe,881,舰娘,"CL (CLT, CT, CLV)"
+能代,无子项,全部,920,舰娘,"CL (CLT, CT, CLV)"
+能代,无子项,rating:explicit,50,舰娘,"CL (CLT, CT, CLV)"
+能代,无子项,rating:questionable,108,舰娘,"CL (CLT, CT, CLV)"
+能代,无子项,rating:safe,762,舰娘,"CL (CLT, CT, CLV)"
+矢矧,全部,全部,1489,舰娘,"CL (CLT, CT, CLV)"
+矢矧,全部,rating:explicit,42,舰娘,"CL (CLT, CT, CLV)"
+矢矧,全部,rating:questionable,106,舰娘,"CL (CLT, CT, CLV)"
+矢矧,全部,rating:safe,1341,舰娘,"CL (CLT, CT, CLV)"
+矢矧,无子项,全部,1257,舰娘,"CL (CLT, CT, CLV)"
+矢矧,无子项,rating:explicit,35,舰娘,"CL (CLT, CT, CLV)"
+矢矧,无子项,rating:questionable,86,舰娘,"CL (CLT, CT, CLV)"
+矢矧,无子项,rating:safe,1136,舰娘,"CL (CLT, CT, CLV)"
+酒匂,全部,全部,648,舰娘,"CL (CLT, CT, CLV)"
+酒匂,全部,rating:explicit,8,舰娘,"CL (CLT, CT, CLV)"
+酒匂,全部,rating:questionable,21,舰娘,"CL (CLT, CT, CLV)"
+酒匂,全部,rating:safe,619,舰娘,"CL (CLT, CT, CLV)"
+酒匂,无子项,全部,557,舰娘,"CL (CLT, CT, CLV)"
+酒匂,无子项,rating:explicit,7,舰娘,"CL (CLT, CT, CLV)"
+酒匂,无子项,rating:questionable,19,舰娘,"CL (CLT, CT, CLV)"
+酒匂,无子项,rating:safe,531,舰娘,"CL (CLT, CT, CLV)"
+夕張,全部,全部,3124,舰娘,"CL (CLT, CT, CLV)"
+夕張,全部,rating:explicit,78,舰娘,"CL (CLT, CT, CLV)"
+夕張,全部,rating:questionable,232,舰娘,"CL (CLT, CT, CLV)"
+夕張,全部,rating:safe,2814,舰娘,"CL (CLT, CT, CLV)"
+夕張,无子项,全部,2752,舰娘,"CL (CLT, CT, CLV)"
+夕張,无子项,rating:explicit,52,舰娘,"CL (CLT, CT, CLV)"
+夕張,无子项,rating:questionable,194,舰娘,"CL (CLT, CT, CLV)"
+夕張,无子项,rating:safe,2506,舰娘,"CL (CLT, CT, CLV)"
+大淀,全部,全部,3937,舰娘,"CL (CLT, CT, CLV)"
+大淀,全部,rating:explicit,102,舰娘,"CL (CLT, CT, CLV)"
+大淀,全部,rating:questionable,215,舰娘,"CL (CLT, CT, CLV)"
+大淀,全部,rating:safe,3620,舰娘,"CL (CLT, CT, CLV)"
+大淀,无子项,全部,3404,舰娘,"CL (CLT, CT, CLV)"
+大淀,无子项,rating:explicit,76,舰娘,"CL (CLT, CT, CLV)"
+大淀,无子项,rating:questionable,173,舰娘,"CL (CLT, CT, CLV)"
+大淀,无子项,rating:safe,3155,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,全部,全部,57,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,全部,rating:explicit,4,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,全部,rating:questionable,13,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,全部,rating:safe,40,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,无子项,全部,44,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,无子项,rating:explicit,2,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,无子项,rating:questionable,9,舰娘,"CL (CLT, CT, CLV)"
+Abruzzi,无子项,rating:safe,33,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,全部,全部,93,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,全部,rating:explicit,1,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,全部,rating:questionable,16,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,全部,rating:safe,76,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,无子项,全部,79,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,无子项,rating:explicit,1,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,无子项,rating:questionable,12,舰娘,"CL (CLT, CT, CLV)"
+Garibaldi,无子项,rating:safe,66,舰娘,"CL (CLT, CT, CLV)"
+Gotland,全部,全部,499,舰娘,"CL (CLT, CT, CLV)"
+Gotland,全部,rating:explicit,8,舰娘,"CL (CLT, CT, CLV)"
+Gotland,全部,rating:questionable,42,舰娘,"CL (CLT, CT, CLV)"
+Gotland,全部,rating:safe,449,舰娘,"CL (CLT, CT, CLV)"
+Gotland,无子项,全部,397,舰娘,"CL (CLT, CT, CLV)"
+Gotland,无子项,rating:explicit,7,舰娘,"CL (CLT, CT, CLV)"
+Gotland,无子项,rating:questionable,31,舰娘,"CL (CLT, CT, CLV)"
+Gotland,无子项,rating:safe,359,舰娘,"CL (CLT, CT, CLV)"
+古鷹,全部,全部,1050,舰娘,CA (CAV)
+古鷹,全部,rating:explicit,21,舰娘,CA (CAV)
+古鷹,全部,rating:questionable,68,舰娘,CA (CAV)
+古鷹,全部,rating:safe,961,舰娘,CA (CAV)
+古鷹,无子项,全部,935,舰娘,CA (CAV)
+古鷹,无子项,rating:explicit,15,舰娘,CA (CAV)
+古鷹,无子项,rating:questionable,57,舰娘,CA (CAV)
+古鷹,无子项,rating:safe,863,舰娘,CA (CAV)
+加古,全部,全部,866,舰娘,CA (CAV)
+加古,全部,rating:explicit,37,舰娘,CA (CAV)
+加古,全部,rating:questionable,86,舰娘,CA (CAV)
+加古,全部,rating:safe,743,舰娘,CA (CAV)
+加古,无子项,全部,751,舰娘,CA (CAV)
+加古,无子项,rating:explicit,21,舰娘,CA (CAV)
+加古,无子项,rating:questionable,75,舰娘,CA (CAV)
+加古,无子项,rating:safe,655,舰娘,CA (CAV)
+青葉,全部,全部,2169,舰娘,CA (CAV)
+青葉,全部,rating:explicit,25,舰娘,CA (CAV)
+青葉,全部,rating:questionable,132,舰娘,CA (CAV)
+青葉,全部,rating:safe,2012,舰娘,CA (CAV)
+青葉,无子项,全部,1921,舰娘,CA (CAV)
+青葉,无子项,rating:explicit,18,舰娘,CA (CAV)
+青葉,无子项,rating:questionable,105,舰娘,CA (CAV)
+青葉,无子项,rating:safe,1798,舰娘,CA (CAV)
+衣笠,全部,全部,992,舰娘,CA (CAV)
+衣笠,全部,rating:explicit,20,舰娘,CA (CAV)
+衣笠,全部,rating:questionable,56,舰娘,CA (CAV)
+衣笠,全部,rating:safe,916,舰娘,CA (CAV)
+衣笠,无子项,全部,853,舰娘,CA (CAV)
+衣笠,无子项,rating:explicit,10,舰娘,CA (CAV)
+衣笠,无子项,rating:questionable,47,舰娘,CA (CAV)
+衣笠,无子项,rating:safe,796,舰娘,CA (CAV)
+妙高,全部,全部,1119,舰娘,CA (CAV)
+妙高,全部,rating:explicit,23,舰娘,CA (CAV)
+妙高,全部,rating:questionable,53,舰娘,CA (CAV)
+妙高,全部,rating:safe,1043,舰娘,CA (CAV)
+妙高,无子项,全部,985,舰娘,CA (CAV)
+妙高,无子项,rating:explicit,21,舰娘,CA (CAV)
+妙高,无子项,rating:questionable,47,舰娘,CA (CAV)
+妙高,无子项,rating:safe,917,舰娘,CA (CAV)
+那智,全部,全部,1483,舰娘,CA (CAV)
+那智,全部,rating:explicit,44,舰娘,CA (CAV)
+那智,全部,rating:questionable,84,舰娘,CA (CAV)
+那智,全部,rating:safe,1355,舰娘,CA (CAV)
+那智,无子项,全部,1307,舰娘,CA (CAV)
+那智,无子项,rating:explicit,38,舰娘,CA (CAV)
+那智,无子项,rating:questionable,68,舰娘,CA (CAV)
+那智,无子项,rating:safe,1201,舰娘,CA (CAV)
+足柄,全部,全部,2060,舰娘,CA (CAV)
+足柄,全部,rating:explicit,58,舰娘,CA (CAV)
+足柄,全部,rating:questionable,163,舰娘,CA (CAV)
+足柄,全部,rating:safe,1839,舰娘,CA (CAV)
+足柄,无子项,全部,1777,舰娘,CA (CAV)
+足柄,无子项,rating:explicit,44,舰娘,CA (CAV)
+足柄,无子项,rating:questionable,130,舰娘,CA (CAV)
+足柄,无子项,rating:safe,1603,舰娘,CA (CAV)
+羽黒,全部,全部,1678,舰娘,CA (CAV)
+羽黒,全部,rating:explicit,96,舰娘,CA (CAV)
+羽黒,全部,rating:questionable,171,舰娘,CA (CAV)
+羽黒,全部,rating:safe,1411,舰娘,CA (CAV)
+羽黒,无子项,全部,1466,舰娘,CA (CAV)
+羽黒,无子项,rating:explicit,83,舰娘,CA (CAV)
+羽黒,无子项,rating:questionable,141,舰娘,CA (CAV)
+羽黒,无子项,rating:safe,1242,舰娘,CA (CAV)
+高雄,全部,全部,3905,舰娘,CA (CAV)
+高雄,全部,rating:explicit,418,舰娘,CA (CAV)
+高雄,全部,rating:questionable,962,舰娘,CA (CAV)
+高雄,全部,rating:safe,2525,舰娘,CA (CAV)
+高雄,无子项,全部,3186,舰娘,CA (CAV)
+高雄,无子项,rating:explicit,321,舰娘,CA (CAV)
+高雄,无子项,rating:questionable,723,舰娘,CA (CAV)
+高雄,无子项,rating:safe,2142,舰娘,CA (CAV)
+愛宕,全部,全部,5646,舰娘,CA (CAV)
+愛宕,全部,rating:explicit,573,舰娘,CA (CAV)
+愛宕,全部,rating:questionable,1461,舰娘,CA (CAV)
+愛宕,全部,rating:safe,3612,舰娘,CA (CAV)
+愛宕,无子项,全部,4719,舰娘,CA (CAV)
+愛宕,无子项,rating:explicit,408,舰娘,CA (CAV)
+愛宕,无子项,rating:questionable,1155,舰娘,CA (CAV)
+愛宕,无子项,rating:safe,3156,舰娘,CA (CAV)
+摩耶,全部,全部,2623,舰娘,CA (CAV)
+摩耶,全部,rating:explicit,108,舰娘,CA (CAV)
+摩耶,全部,rating:questionable,238,舰娘,CA (CAV)
+摩耶,全部,rating:safe,2277,舰娘,CA (CAV)
+摩耶,无子项,全部,2287,舰娘,CA (CAV)
+摩耶,无子项,rating:explicit,94,舰娘,CA (CAV)
+摩耶,无子项,rating:questionable,194,舰娘,CA (CAV)
+摩耶,无子项,rating:safe,1999,舰娘,CA (CAV)
+鳥海,全部,全部,1446,舰娘,CA (CAV)
+鳥海,全部,rating:explicit,55,舰娘,CA (CAV)
+鳥海,全部,rating:questionable,152,舰娘,CA (CAV)
+鳥海,全部,rating:safe,1239,舰娘,CA (CAV)
+鳥海,无子项,全部,1214,舰娘,CA (CAV)
+鳥海,无子项,rating:explicit,40,舰娘,CA (CAV)
+鳥海,无子项,rating:questionable,123,舰娘,CA (CAV)
+鳥海,无子项,rating:safe,1051,舰娘,CA (CAV)
+最上,全部,全部,1944,舰娘,CA (CAV)
+最上,全部,rating:explicit,98,舰娘,CA (CAV)
+最上,全部,rating:questionable,151,舰娘,CA (CAV)
+最上,全部,rating:safe,1695,舰娘,CA (CAV)
+最上,无子项,全部,1662,舰娘,CA (CAV)
+最上,无子项,rating:explicit,83,舰娘,CA (CAV)
+最上,无子项,rating:questionable,110,舰娘,CA (CAV)
+最上,无子项,rating:safe,1469,舰娘,CA (CAV)
+三隈,全部,全部,884,舰娘,CA (CAV)
+三隈,全部,rating:explicit,31,舰娘,CA (CAV)
+三隈,全部,rating:questionable,53,舰娘,CA (CAV)
+三隈,全部,rating:safe,800,舰娘,CA (CAV)
+三隈,无子项,全部,736,舰娘,CA (CAV)
+三隈,无子项,rating:explicit,21,舰娘,CA (CAV)
+三隈,无子项,rating:questionable,37,舰娘,CA (CAV)
+三隈,无子项,rating:safe,678,舰娘,CA (CAV)
+鈴谷,全部,全部,6028,舰娘,CA (CAV)
+鈴谷,全部,rating:explicit,367,舰娘,CA (CAV)
+鈴谷,全部,rating:questionable,972,舰娘,CA (CAV)
+鈴谷,全部,rating:safe,4689,舰娘,CA (CAV)
+鈴谷,无子项,全部,4881,舰娘,CA (CAV)
+鈴谷,无子项,rating:explicit,289,舰娘,CA (CAV)
+鈴谷,无子项,rating:questionable,693,舰娘,CA (CAV)
+鈴谷,无子项,rating:safe,3899,舰娘,CA (CAV)
+熊野,全部,全部,2159,舰娘,CA (CAV)
+熊野,全部,rating:explicit,57,舰娘,CA (CAV)
+熊野,全部,rating:questionable,180,舰娘,CA (CAV)
+熊野,全部,rating:safe,1922,舰娘,CA (CAV)
+熊野,无子项,全部,1868,舰娘,CA (CAV)
+熊野,无子项,rating:explicit,41,舰娘,CA (CAV)
+熊野,无子项,rating:questionable,147,舰娘,CA (CAV)
+熊野,无子项,rating:safe,1680,舰娘,CA (CAV)
+利根,全部,全部,1738,舰娘,CA (CAV)
+利根,全部,rating:explicit,60,舰娘,CA (CAV)
+利根,全部,rating:questionable,176,舰娘,CA (CAV)
+利根,全部,rating:safe,1502,舰娘,CA (CAV)
+利根,无子项,全部,1544,舰娘,CA (CAV)
+利根,无子项,rating:explicit,44,舰娘,CA (CAV)
+利根,无子项,rating:questionable,141,舰娘,CA (CAV)
+利根,无子项,rating:safe,1359,舰娘,CA (CAV)
+筑摩,全部,全部,952,舰娘,CA (CAV)
+筑摩,全部,rating:explicit,41,舰娘,CA (CAV)
+筑摩,全部,rating:questionable,120,舰娘,CA (CAV)
+筑摩,全部,rating:safe,791,舰娘,CA (CAV)
+筑摩,无子项,全部,825,舰娘,CA (CAV)
+筑摩,无子项,rating:explicit,20,舰娘,CA (CAV)
+筑摩,无子项,rating:questionable,99,舰娘,CA (CAV)
+筑摩,无子项,rating:safe,706,舰娘,CA (CAV)
+Prinz Eugen,全部,全部,4657,舰娘,CA (CAV)
+Prinz Eugen,全部,rating:explicit,313,舰娘,CA (CAV)
+Prinz Eugen,全部,rating:questionable,705,舰娘,CA (CAV)
+Prinz Eugen,全部,rating:safe,3639,舰娘,CA (CAV)
+Prinz Eugen,无子项,全部,3710,舰娘,CA (CAV)
+Prinz Eugen,无子项,rating:explicit,201,舰娘,CA (CAV)
+Prinz Eugen,无子项,rating:questionable,497,舰娘,CA (CAV)
+Prinz Eugen,无子项,rating:safe,3012,舰娘,CA (CAV)
+Zara,全部,全部,750,舰娘,CA (CAV)
+Zara,全部,rating:explicit,29,舰娘,CA (CAV)
+Zara,全部,rating:questionable,66,舰娘,CA (CAV)
+Zara,全部,rating:safe,655,舰娘,CA (CAV)
+Zara,无子项,全部,603,舰娘,CA (CAV)
+Zara,无子项,rating:explicit,23,舰娘,CA (CAV)
+Zara,无子项,rating:questionable,45,舰娘,CA (CAV)
+Zara,无子项,rating:safe,535,舰娘,CA (CAV)
+Pola,全部,全部,1230,舰娘,CA (CAV)
+Pola,全部,rating:explicit,19,舰娘,CA (CAV)
+Pola,全部,rating:questionable,195,舰娘,CA (CAV)
+Pola,全部,rating:safe,1016,舰娘,CA (CAV)
+Pola,无子项,全部,972,舰娘,CA (CAV)
+Pola,无子项,rating:explicit,14,舰娘,CA (CAV)
+Pola,无子项,rating:questionable,137,舰娘,CA (CAV)
+Pola,无子项,rating:safe,821,舰娘,CA (CAV)
+金剛,全部,全部,11438,舰娘,BB (BBV)
+金剛,全部,rating:explicit,405,舰娘,BB (BBV)
+金剛,全部,rating:questionable,896,舰娘,BB (BBV)
+金剛,全部,rating:safe,10137,舰娘,BB (BBV)
+金剛,无子项,全部,10086,舰娘,BB (BBV)
+金剛,无子项,rating:explicit,301,舰娘,BB (BBV)
+金剛,无子项,rating:questionable,700,舰娘,BB (BBV)
+金剛,无子项,rating:safe,9085,舰娘,BB (BBV)
+比叡,全部,全部,3773,舰娘,BB (BBV)
+比叡,全部,rating:explicit,70,舰娘,BB (BBV)
+比叡,全部,rating:questionable,152,舰娘,BB (BBV)
+比叡,全部,rating:safe,3551,舰娘,BB (BBV)
+比叡,无子项,全部,3386,舰娘,BB (BBV)
+比叡,无子项,rating:explicit,58,舰娘,BB (BBV)
+比叡,无子项,rating:questionable,129,舰娘,BB (BBV)
+比叡,无子项,rating:safe,3199,舰娘,BB (BBV)
+榛名,全部,全部,7296,舰娘,BB (BBV)
+榛名,全部,rating:explicit,277,舰娘,BB (BBV)
+榛名,全部,rating:questionable,867,舰娘,BB (BBV)
+榛名,全部,rating:safe,6152,舰娘,BB (BBV)
+榛名,无子项,全部,6260,舰娘,BB (BBV)
+榛名,无子项,rating:explicit,204,舰娘,BB (BBV)
+榛名,无子项,rating:questionable,673,舰娘,BB (BBV)
+榛名,无子项,rating:safe,5383,舰娘,BB (BBV)
+霧島,全部,全部,3657,舰娘,BB (BBV)
+霧島,全部,rating:explicit,131,舰娘,BB (BBV)
+霧島,全部,rating:questionable,249,舰娘,BB (BBV)
+霧島,全部,rating:safe,3277,舰娘,BB (BBV)
+霧島,无子项,全部,3231,舰娘,BB (BBV)
+霧島,无子项,rating:explicit,94,舰娘,BB (BBV)
+霧島,无子项,rating:questionable,211,舰娘,BB (BBV)
+霧島,无子项,rating:safe,2926,舰娘,BB (BBV)
+扶桑,全部,全部,2347,舰娘,BB (BBV)
+扶桑,全部,rating:explicit,43,舰娘,BB (BBV)
+扶桑,全部,rating:questionable,167,舰娘,BB (BBV)
+扶桑,全部,rating:safe,2137,舰娘,BB (BBV)
+扶桑,无子项,全部,2056,舰娘,BB (BBV)
+扶桑,无子项,rating:explicit,30,舰娘,BB (BBV)
+扶桑,无子项,rating:questionable,137,舰娘,BB (BBV)
+扶桑,无子项,rating:safe,1889,舰娘,BB (BBV)
+山城,全部,全部,3416,舰娘,BB (BBV)
+山城,全部,rating:explicit,62,舰娘,BB (BBV)
+山城,全部,rating:questionable,200,舰娘,BB (BBV)
+山城,全部,rating:safe,3154,舰娘,BB (BBV)
+山城,无子项,全部,2979,舰娘,BB (BBV)
+山城,无子项,rating:explicit,54,舰娘,BB (BBV)
+山城,无子项,rating:questionable,158,舰娘,BB (BBV)
+山城,无子项,rating:safe,2767,舰娘,BB (BBV)
+伊勢,全部,全部,1679,舰娘,BB (BBV)
+伊勢,全部,rating:explicit,22,舰娘,BB (BBV)
+伊勢,全部,rating:questionable,92,舰娘,BB (BBV)
+伊勢,全部,rating:safe,1565,舰娘,BB (BBV)
+伊勢,无子项,全部,1512,舰娘,BB (BBV)
+伊勢,无子项,rating:explicit,17,舰娘,BB (BBV)
+伊勢,无子项,rating:questionable,78,舰娘,BB (BBV)
+伊勢,无子项,rating:safe,1417,舰娘,BB (BBV)
+日向,全部,全部,2200,舰娘,BB (BBV)
+日向,全部,rating:explicit,31,舰娘,BB (BBV)
+日向,全部,rating:questionable,116,舰娘,BB (BBV)
+日向,全部,rating:safe,2053,舰娘,BB (BBV)
+日向,无子项,全部,1978,舰娘,BB (BBV)
+日向,无子项,rating:explicit,24,舰娘,BB (BBV)
+日向,无子项,rating:questionable,96,舰娘,BB (BBV)
+日向,无子项,rating:safe,1858,舰娘,BB (BBV)
+長門,全部,全部,7689,舰娘,BB (BBV)
+長門,全部,rating:explicit,277,舰娘,BB (BBV)
+長門,全部,rating:questionable,599,舰娘,BB (BBV)
+長門,全部,rating:safe,6813,舰娘,BB (BBV)
+長門,无子项,全部,6615,舰娘,BB (BBV)
+長門,无子项,rating:explicit,203,舰娘,BB (BBV)
+長門,无子项,rating:questionable,487,舰娘,BB (BBV)
+長門,无子项,rating:safe,5925,舰娘,BB (BBV)
+陸奥,全部,全部,4378,舰娘,BB (BBV)
+陸奥,全部,rating:explicit,287,舰娘,BB (BBV)
+陸奥,全部,rating:questionable,484,舰娘,BB (BBV)
+陸奥,全部,rating:safe,3607,舰娘,BB (BBV)
+陸奥,无子项,全部,3691,舰娘,BB (BBV)
+陸奥,无子项,rating:explicit,176,舰娘,BB (BBV)
+陸奥,无子项,rating:questionable,374,舰娘,BB (BBV)
+陸奥,无子项,rating:safe,3141,舰娘,BB (BBV)
+大和,全部,全部,4339,舰娘,BB (BBV)
+大和,全部,rating:explicit,181,舰娘,BB (BBV)
+大和,全部,rating:questionable,424,舰娘,BB (BBV)
+大和,全部,rating:safe,3734,舰娘,BB (BBV)
+大和,无子项,全部,3623,舰娘,BB (BBV)
+大和,无子项,rating:explicit,121,舰娘,BB (BBV)
+大和,无子项,rating:questionable,323,舰娘,BB (BBV)
+大和,无子项,rating:safe,3179,舰娘,BB (BBV)
+武蔵,全部,全部,3252,舰娘,BB (BBV)
+武蔵,全部,rating:explicit,167,舰娘,BB (BBV)
+武蔵,全部,rating:questionable,459,舰娘,BB (BBV)
+武蔵,全部,rating:safe,2626,舰娘,BB (BBV)
+武蔵,无子项,全部,2741,舰娘,BB (BBV)
+武蔵,无子项,rating:explicit,135,舰娘,BB (BBV)
+武蔵,无子项,rating:questionable,366,舰娘,BB (BBV)
+武蔵,无子项,rating:safe,2240,舰娘,BB (BBV)
+Bismarck,全部,全部,4166,舰娘,BB (BBV)
+Bismarck,全部,rating:explicit,196,舰娘,BB (BBV)
+Bismarck,全部,rating:questionable,506,舰娘,BB (BBV)
+Bismarck,全部,rating:safe,3464,舰娘,BB (BBV)
+Bismarck,无子项,全部,3352,舰娘,BB (BBV)
+Bismarck,无子项,rating:explicit,133,舰娘,BB (BBV)
+Bismarck,无子项,rating:questionable,381,舰娘,BB (BBV)
+Bismarck,无子项,rating:safe,2838,舰娘,BB (BBV)
+Littorio,全部,全部,873,舰娘,BB (BBV)
+Littorio,全部,rating:explicit,43,舰娘,BB (BBV)
+Littorio,全部,rating:questionable,54,舰娘,BB (BBV)
+Littorio,全部,rating:safe,776,舰娘,BB (BBV)
+Littorio,无子项,全部,722,舰娘,BB (BBV)
+Littorio,无子项,rating:explicit,23,舰娘,BB (BBV)
+Littorio,无子项,rating:questionable,41,舰娘,BB (BBV)
+Littorio,无子项,rating:safe,658,舰娘,BB (BBV)
+Italia,全部,全部,103,舰娘,BB (BBV)
+Italia,全部,rating:explicit,2,舰娘,BB (BBV)
+Italia,全部,rating:questionable,5,舰娘,BB (BBV)
+Italia,全部,rating:safe,96,舰娘,BB (BBV)
+Italia,无子项,全部,96,舰娘,BB (BBV)
+Italia,无子项,rating:explicit,2,舰娘,BB (BBV)
+Italia,无子项,rating:questionable,5,舰娘,BB (BBV)
+Italia,无子项,rating:safe,89,舰娘,BB (BBV)
+Roma,全部,全部,755,舰娘,BB (BBV)
+Roma,全部,rating:explicit,24,舰娘,BB (BBV)
+Roma,全部,rating:questionable,41,舰娘,BB (BBV)
+Roma,全部,rating:safe,690,舰娘,BB (BBV)
+Roma,无子项,全部,629,舰娘,BB (BBV)
+Roma,无子项,rating:explicit,15,舰娘,BB (BBV)
+Roma,无子项,rating:questionable,33,舰娘,BB (BBV)
+Roma,无子项,rating:safe,581,舰娘,BB (BBV)
+罗马雪人,全部,全部,21,其他,不适用
+罗马雪人,全部,rating:explicit,0,其他,不适用
+罗马雪人,全部,rating:questionable,0,其他,不适用
+罗马雪人,全部,rating:safe,21,其他,不适用
+罗马雪人,无子项,全部,18,其他,不适用
+罗马雪人,无子项,rating:explicit,0,其他,不适用
+罗马雪人,无子项,rating:questionable,0,其他,不适用
+罗马雪人,无子项,rating:safe,18,其他,不适用
+Iowa,全部,全部,3117,舰娘,BB (BBV)
+Iowa,全部,rating:explicit,212,舰娘,BB (BBV)
+Iowa,全部,rating:questionable,383,舰娘,BB (BBV)
+Iowa,全部,rating:safe,2522,舰娘,BB (BBV)
+Iowa,无子项,全部,2386,舰娘,BB (BBV)
+Iowa,无子项,rating:explicit,101,舰娘,BB (BBV)
+Iowa,无子项,rating:questionable,263,舰娘,BB (BBV)
+Iowa,无子项,rating:safe,2022,舰娘,BB (BBV)
+Warspite,全部,全部,2016,舰娘,BB (BBV)
+Warspite,全部,rating:explicit,86,舰娘,BB (BBV)
+Warspite,全部,rating:questionable,130,舰娘,BB (BBV)
+Warspite,全部,rating:safe,1800,舰娘,BB (BBV)
+Warspite,无子项,全部,1553,舰娘,BB (BBV)
+Warspite,无子项,rating:explicit,55,舰娘,BB (BBV)
+Warspite,无子项,rating:questionable,81,舰娘,BB (BBV)
+Warspite,无子项,rating:safe,1417,舰娘,BB (BBV)
+Гангут,全部,全部,1419,舰娘,BB (BBV)
+Гангут,全部,rating:explicit,33,舰娘,BB (BBV)
+Гангут,全部,rating:questionable,47,舰娘,BB (BBV)
+Гангут,全部,rating:safe,1339,舰娘,BB (BBV)
+Гангут,无子项,全部,1128,舰娘,BB (BBV)
+Гангут,无子项,rating:explicit,30,舰娘,BB (BBV)
+Гангут,无子项,rating:questionable,38,舰娘,BB (BBV)
+Гангут,无子项,rating:safe,1060,舰娘,BB (BBV)
+Октябрьская революция,全部,全部,41,舰娘,BB (BBV)
+Октябрьская революция,全部,rating:explicit,1,舰娘,BB (BBV)
+Октябрьская революция,全部,rating:questionable,0,舰娘,BB (BBV)
+Октябрьская революция,全部,rating:safe,40,舰娘,BB (BBV)
+Октябрьская революция,无子项,全部,31,舰娘,BB (BBV)
+Октябрьская революция,无子项,rating:explicit,1,舰娘,BB (BBV)
+Октябрьская революция,无子项,rating:questionable,0,舰娘,BB (BBV)
+Октябрьская революция,无子项,rating:safe,30,舰娘,BB (BBV)
+Richelieu,全部,全部,571,舰娘,BB (BBV)
+Richelieu,全部,rating:explicit,19,舰娘,BB (BBV)
+Richelieu,全部,rating:questionable,55,舰娘,BB (BBV)
+Richelieu,全部,rating:safe,497,舰娘,BB (BBV)
+Richelieu,无子项,全部,431,舰娘,BB (BBV)
+Richelieu,无子项,rating:explicit,14,舰娘,BB (BBV)
+Richelieu,无子项,rating:questionable,39,舰娘,BB (BBV)
+Richelieu,无子项,rating:safe,378,舰娘,BB (BBV)
+Nelson,全部,全部,356,舰娘,BB (BBV)
+Nelson,全部,rating:explicit,45,舰娘,BB (BBV)
+Nelson,全部,rating:questionable,19,舰娘,BB (BBV)
+Nelson,全部,rating:safe,292,舰娘,BB (BBV)
+Nelson,无子项,全部,269,舰娘,BB (BBV)
+Nelson,无子项,rating:explicit,16,舰娘,BB (BBV)
+Nelson,无子项,rating:questionable,14,舰娘,BB (BBV)
+Nelson,无子项,rating:safe,239,舰娘,BB (BBV)
+Colorado,全部,全部,435,舰娘,BB (BBV)
+Colorado,全部,rating:explicit,6,舰娘,BB (BBV)
+Colorado,全部,rating:questionable,62,舰娘,BB (BBV)
+Colorado,全部,rating:safe,367,舰娘,BB (BBV)
+Colorado,无子项,全部,355,舰娘,BB (BBV)
+Colorado,无子项,rating:explicit,4,舰娘,BB (BBV)
+Colorado,无子项,rating:questionable,44,舰娘,BB (BBV)
+Colorado,无子项,rating:safe,307,舰娘,BB (BBV)
+鳳翔,全部,全部,5935,舰娘,CVL (CVE)
+鳳翔,全部,rating:explicit,170,舰娘,CVL (CVE)
+鳳翔,全部,rating:questionable,338,舰娘,CVL (CVE)
+鳳翔,全部,rating:safe,5427,舰娘,CVL (CVE)
+鳳翔,无子项,全部,5236,舰娘,CVL (CVE)
+鳳翔,无子项,rating:explicit,135,舰娘,CVL (CVE)
+鳳翔,无子项,rating:questionable,268,舰娘,CVL (CVE)
+鳳翔,无子项,rating:safe,4833,舰娘,CVL (CVE)
+龍驤,全部,全部,6720,舰娘,CVL (CVE)
+龍驤,全部,rating:explicit,154,舰娘,CVL (CVE)
+龍驤,全部,rating:questionable,531,舰娘,CVL (CVE)
+龍驤,全部,rating:safe,6035,舰娘,CVL (CVE)
+龍驤,无子项,全部,5867,舰娘,CVL (CVE)
+龍驤,无子项,rating:explicit,114,舰娘,CVL (CVE)
+龍驤,无子项,rating:questionable,422,舰娘,CVL (CVE)
+龍驤,无子项,rating:safe,5331,舰娘,CVL (CVE)
+大鯨,全部,全部,1973,舰娘,AS
+大鯨,全部,rating:explicit,130,舰娘,AS
+大鯨,全部,rating:questionable,265,舰娘,AS
+大鯨,全部,rating:safe,1578,舰娘,AS
+大鯨,无子项,全部,1680,舰娘,AS
+大鯨,无子项,rating:explicit,97,舰娘,AS
+大鯨,无子项,rating:questionable,203,舰娘,AS
+大鯨,无子项,rating:safe,1380,舰娘,AS
+龍鳳,全部,全部,407,舰娘,CVL (CVE)
+龍鳳,全部,rating:explicit,27,舰娘,CVL (CVE)
+龍鳳,全部,rating:questionable,46,舰娘,CVL (CVE)
+龍鳳,全部,rating:safe,334,舰娘,CVL (CVE)
+龍鳳,无子项,全部,350,舰娘,CVL (CVE)
+龍鳳,无子项,rating:explicit,21,舰娘,CVL (CVE)
+龍鳳,无子项,rating:questionable,34,舰娘,CVL (CVE)
+龍鳳,无子项,rating:safe,295,舰娘,CVL (CVE)
+飛鷹,全部,全部,698,舰娘,CVL (CVE)
+飛鷹,全部,rating:explicit,9,舰娘,CVL (CVE)
+飛鷹,全部,rating:questionable,45,舰娘,CVL (CVE)
+飛鷹,全部,rating:safe,644,舰娘,CVL (CVE)
+飛鷹,无子项,全部,611,舰娘,CVL (CVE)
+飛鷹,无子项,rating:explicit,6,舰娘,CVL (CVE)
+飛鷹,无子项,rating:questionable,35,舰娘,CVL (CVE)
+飛鷹,无子项,rating:safe,570,舰娘,CVL (CVE)
+隼鷹,全部,全部,1725,舰娘,CVL (CVE)
+隼鷹,全部,rating:explicit,23,舰娘,CVL (CVE)
+隼鷹,全部,rating:questionable,116,舰娘,CVL (CVE)
+隼鷹,全部,rating:safe,1586,舰娘,CVL (CVE)
+隼鷹,无子项,全部,1513,舰娘,CVL (CVE)
+隼鷹,无子项,rating:explicit,19,舰娘,CVL (CVE)
+隼鷹,无子项,rating:questionable,98,舰娘,CVL (CVE)
+隼鷹,无子项,rating:safe,1396,舰娘,CVL (CVE)
+祥鳳,全部,全部,983,舰娘,CVL (CVE)
+祥鳳,全部,rating:explicit,11,舰娘,CVL (CVE)
+祥鳳,全部,rating:questionable,75,舰娘,CVL (CVE)
+祥鳳,全部,rating:safe,897,舰娘,CVL (CVE)
+祥鳳,无子项,全部,874,舰娘,CVL (CVE)
+祥鳳,无子项,rating:explicit,10,舰娘,CVL (CVE)
+祥鳳,无子项,rating:questionable,65,舰娘,CVL (CVE)
+祥鳳,无子项,rating:safe,799,舰娘,CVL (CVE)
+瑞鳳,全部,全部,2643,舰娘,CVL (CVE)
+瑞鳳,全部,rating:explicit,83,舰娘,CVL (CVE)
+瑞鳳,全部,rating:questionable,243,舰娘,CVL (CVE)
+瑞鳳,全部,rating:safe,2317,舰娘,CVL (CVE)
+瑞鳳,无子项,全部,2287,舰娘,CVL (CVE)
+瑞鳳,无子项,rating:explicit,61,舰娘,CVL (CVE)
+瑞鳳,无子项,rating:questionable,198,舰娘,CVL (CVE)
+瑞鳳,无子项,rating:safe,2028,舰娘,CVL (CVE)
+千歳,全部,全部,945,舰娘,CVL (CVE)
+千歳,全部,rating:explicit,27,舰娘,CVL (CVE)
+千歳,全部,rating:questionable,73,舰娘,CVL (CVE)
+千歳,全部,rating:safe,845,舰娘,CVL (CVE)
+千歳,无子项,全部,825,舰娘,CVL (CVE)
+千歳,无子项,rating:explicit,23,舰娘,CVL (CVE)
+千歳,无子项,rating:questionable,62,舰娘,CVL (CVE)
+千歳,无子项,rating:safe,740,舰娘,CVL (CVE)
+千代田,全部,全部,643,舰娘,CVL (CVE)
+千代田,全部,rating:explicit,21,舰娘,CVL (CVE)
+千代田,全部,rating:questionable,80,舰娘,CVL (CVE)
+千代田,全部,rating:safe,542,舰娘,CVL (CVE)
+千代田,无子项,全部,550,舰娘,CVL (CVE)
+千代田,无子项,rating:explicit,16,舰娘,CVL (CVE)
+千代田,无子项,rating:questionable,70,舰娘,CVL (CVE)
+千代田,无子项,rating:safe,464,舰娘,CVL (CVE)
+赤城,全部,全部,10735,舰娘,CV
+赤城,全部,rating:explicit,186,舰娘,CV
+赤城,全部,rating:questionable,482,舰娘,CV
+赤城,全部,rating:safe,10067,舰娘,CV
+赤城,无子项,全部,9518,舰娘,CV
+赤城,无子项,rating:explicit,142,舰娘,CV
+赤城,无子项,rating:questionable,382,舰娘,CV
+赤城,无子项,rating:safe,8994,舰娘,CV
+加賀,全部,全部,17413,舰娘,CV
+加賀,全部,rating:explicit,658,舰娘,CV
+加賀,全部,rating:questionable,1518,舰娘,CV
+加賀,全部,rating:safe,15237,舰娘,CV
+加賀,无子项,全部,15133,舰娘,CV
+加賀,无子项,rating:explicit,482,舰娘,CV
+加賀,无子项,rating:questionable,1192,舰娘,CV
+加賀,无子项,rating:safe,13459,舰娘,CV
+蒼龍,全部,全部,3702,舰娘,CV
+蒼龍,全部,rating:explicit,126,舰娘,CV
+蒼龍,全部,rating:questionable,449,舰娘,CV
+蒼龍,全部,rating:safe,3127,舰娘,CV
+蒼龍,无子项,全部,3116,舰娘,CV
+蒼龍,无子项,rating:explicit,92,舰娘,CV
+蒼龍,无子项,rating:questionable,334,舰娘,CV
+蒼龍,无子项,rating:safe,2690,舰娘,CV
+飛龍,全部,全部,3184,舰娘,CV
+飛龍,全部,rating:explicit,66,舰娘,CV
+飛龍,全部,rating:questionable,205,舰娘,CV
+飛龍,全部,rating:safe,2913,舰娘,CV
+飛龍,无子项,全部,2753,舰娘,CV
+飛龍,无子项,rating:explicit,57,舰娘,CV
+飛龍,无子项,rating:questionable,152,舰娘,CV
+飛龍,无子项,rating:safe,2544,舰娘,CV
+翔鶴,全部,全部,5401,舰娘,CV
+翔鶴,全部,rating:explicit,264,舰娘,CV
+翔鶴,全部,rating:questionable,505,舰娘,CV
+翔鶴,全部,rating:safe,4632,舰娘,CV
+翔鶴,无子项,全部,4690,舰娘,CV
+翔鶴,无子项,rating:explicit,212,舰娘,CV
+翔鶴,无子项,rating:questionable,404,舰娘,CV
+翔鶴,无子项,rating:safe,4074,舰娘,CV
+瑞鶴,全部,全部,8134,舰娘,CV
+瑞鶴,全部,rating:explicit,253,舰娘,CV
+瑞鶴,全部,rating:questionable,469,舰娘,CV
+瑞鶴,全部,rating:safe,7412,舰娘,CV
+瑞鶴,无子项,全部,6939,舰娘,CV
+瑞鶴,无子项,rating:explicit,196,舰娘,CV
+瑞鶴,无子项,rating:questionable,390,舰娘,CV
+瑞鶴,无子项,rating:safe,6353,舰娘,CV
+大鳳,全部,全部,2415,舰娘,CV
+大鳳,全部,rating:explicit,101,舰娘,CV
+大鳳,全部,rating:questionable,298,舰娘,CV
+大鳳,全部,rating:safe,2016,舰娘,CV
+大鳳,无子项,全部,2031,舰娘,CV
+大鳳,无子项,rating:explicit,86,舰娘,CV
+大鳳,无子项,rating:questionable,224,舰娘,CV
+大鳳,无子项,rating:safe,1721,舰娘,CV
+雲龍,全部,全部,2086,舰娘,CV
+雲龍,全部,rating:explicit,74,舰娘,CV
+雲龍,全部,rating:questionable,457,舰娘,CV
+雲龍,全部,rating:safe,1555,舰娘,CV
+雲龍,无子项,全部,1586,舰娘,CV
+雲龍,无子项,rating:explicit,48,舰娘,CV
+雲龍,无子项,rating:questionable,301,舰娘,CV
+雲龍,无子项,rating:safe,1237,舰娘,CV
+天城,全部,全部,798,舰娘,CV
+天城,全部,rating:explicit,14,舰娘,CV
+天城,全部,rating:questionable,67,舰娘,CV
+天城,全部,rating:safe,717,舰娘,CV
+天城,无子项,全部,644,舰娘,CV
+天城,无子项,rating:explicit,9,舰娘,CV
+天城,无子项,rating:questionable,48,舰娘,CV
+天城,无子项,rating:safe,587,舰娘,CV
+葛城,全部,全部,1423,舰娘,CV
+葛城,全部,rating:explicit,9,舰娘,CV
+葛城,全部,rating:questionable,77,舰娘,CV
+葛城,全部,rating:safe,1337,舰娘,CV
+葛城,无子项,全部,1094,舰娘,CV
+葛城,无子项,rating:explicit,6,舰娘,CV
+葛城,无子项,rating:questionable,54,舰娘,CV
+葛城,无子项,rating:safe,1034,舰娘,CV
+Graf Zeppelin,全部,全部,3037,舰娘,CV
+Graf Zeppelin,全部,rating:explicit,140,舰娘,CV
+Graf Zeppelin,全部,rating:questionable,385,舰娘,CV
+Graf Zeppelin,全部,rating:safe,2512,舰娘,CV
+Graf Zeppelin,无子项,全部,2378,舰娘,CV
+Graf Zeppelin,无子项,rating:explicit,80,舰娘,CV
+Graf Zeppelin,无子项,rating:questionable,267,舰娘,CV
+Graf Zeppelin,无子项,rating:safe,2031,舰娘,CV
+Aquila,全部,全部,735,舰娘,CV
+Aquila,全部,rating:explicit,11,舰娘,CV
+Aquila,全部,rating:questionable,21,舰娘,CV
+Aquila,全部,rating:safe,703,舰娘,CV
+Aquila,无子项,全部,591,舰娘,CV
+Aquila,无子项,rating:explicit,8,舰娘,CV
+Aquila,无子项,rating:questionable,15,舰娘,CV
+Aquila,无子项,rating:safe,568,舰娘,CV
+Saratoga,全部,全部,1590,舰娘,CV
+Saratoga,全部,rating:explicit,83,舰娘,CV
+Saratoga,全部,rating:questionable,206,舰娘,CV
+Saratoga,全部,rating:safe,1301,舰娘,CV
+Saratoga,无子项,全部,1219,舰娘,CV
+Saratoga,无子项,rating:explicit,58,舰娘,CV
+Saratoga,无子项,rating:questionable,134,舰娘,CV
+Saratoga,无子项,rating:safe,1027,舰娘,CV
+春日丸,全部,全部,405,舰娘,CVL (CVE)
+春日丸,全部,rating:explicit,9,舰娘,CVL (CVE)
+春日丸,全部,rating:questionable,20,舰娘,CVL (CVE)
+春日丸,全部,rating:safe,376,舰娘,CVL (CVE)
+春日丸,无子项,全部,322,舰娘,CVL (CVE)
+春日丸,无子项,rating:explicit,3,舰娘,CVL (CVE)
+春日丸,无子项,rating:questionable,13,舰娘,CVL (CVE)
+春日丸,无子项,rating:safe,306,舰娘,CVL (CVE)
+大鷹,全部,全部,216,舰娘,CVL (CVE)
+大鷹,全部,rating:explicit,5,舰娘,CVL (CVE)
+大鷹,全部,rating:questionable,12,舰娘,CVL (CVE)
+大鷹,全部,rating:safe,199,舰娘,CVL (CVE)
+大鷹,无子项,全部,159,舰娘,CVL (CVE)
+大鷹,无子项,rating:explicit,0,舰娘,CVL (CVE)
+大鷹,无子项,rating:questionable,5,舰娘,CVL (CVE)
+大鷹,无子项,rating:safe,154,舰娘,CVL (CVE)
+Ark Royal,全部,全部,896,舰娘,CV
+Ark Royal,全部,rating:explicit,18,舰娘,CV
+Ark Royal,全部,rating:questionable,49,舰娘,CV
+Ark Royal,全部,rating:safe,829,舰娘,CV
+Ark Royal,无子项,全部,689,舰娘,CV
+Ark Royal,无子项,rating:explicit,15,舰娘,CV
+Ark Royal,无子项,rating:questionable,38,舰娘,CV
+Ark Royal,无子项,rating:safe,636,舰娘,CV
+Gambier Bay,全部,全部,1251,舰娘,CVL (CVE)
+Gambier Bay,全部,rating:explicit,35,舰娘,CVL (CVE)
+Gambier Bay,全部,rating:questionable,92,舰娘,CVL (CVE)
+Gambier Bay,全部,rating:safe,1124,舰娘,CVL (CVE)
+Gambier Bay,无子项,全部,1015,舰娘,CVL (CVE)
+Gambier Bay,无子项,rating:explicit,19,舰娘,CVL (CVE)
+Gambier Bay,无子项,rating:questionable,59,舰娘,CVL (CVE)
+Gambier Bay,无子项,rating:safe,937,舰娘,CVL (CVE)
+Intrepid,全部,全部,441,舰娘,CV
+Intrepid,全部,rating:explicit,19,舰娘,CV
+Intrepid,全部,rating:questionable,44,舰娘,CV
+Intrepid,全部,rating:safe,378,舰娘,CV
+Intrepid,无子项,全部,327,舰娘,CV
+Intrepid,无子项,rating:explicit,12,舰娘,CV
+Intrepid,无子项,rating:questionable,30,舰娘,CV
+Intrepid,无子项,rating:safe,285,舰娘,CV
+神鷹,全部,全部,168,舰娘,CVL (CVE)
+神鷹,全部,rating:explicit,3,舰娘,CVL (CVE)
+神鷹,全部,rating:questionable,11,舰娘,CVL (CVE)
+神鷹,全部,rating:safe,154,舰娘,CVL (CVE)
+神鷹,无子项,全部,149,舰娘,CVL (CVE)
+神鷹,无子项,rating:explicit,3,舰娘,CVL (CVE)
+神鷹,无子项,rating:questionable,9,舰娘,CVL (CVE)
+神鷹,无子项,rating:safe,137,舰娘,CVL (CVE)
+"伊8 (""Hachi"")",全部,全部,1763,舰娘,SS (SSV)
+"伊8 (""Hachi"")",全部,rating:explicit,63,舰娘,SS (SSV)
+"伊8 (""Hachi"")",全部,rating:questionable,139,舰娘,SS (SSV)
+"伊8 (""Hachi"")",全部,rating:safe,1561,舰娘,SS (SSV)
+"伊8 (""Hachi"")",无子项,全部,1519,舰娘,SS (SSV)
+"伊8 (""Hachi"")",无子项,rating:explicit,49,舰娘,SS (SSV)
+"伊8 (""Hachi"")",无子项,rating:questionable,117,舰娘,SS (SSV)
+"伊8 (""Hachi"")",无子项,rating:safe,1353,舰娘,SS (SSV)
+"伊19 (""Iku"")",全部,全部,2925,舰娘,SS (SSV)
+"伊19 (""Iku"")",全部,rating:explicit,201,舰娘,SS (SSV)
+"伊19 (""Iku"")",全部,rating:questionable,381,舰娘,SS (SSV)
+"伊19 (""Iku"")",全部,rating:safe,2343,舰娘,SS (SSV)
+"伊19 (""Iku"")",无子项,全部,2542,舰娘,SS (SSV)
+"伊19 (""Iku"")",无子项,rating:explicit,133,舰娘,SS (SSV)
+"伊19 (""Iku"")",无子项,rating:questionable,316,舰娘,SS (SSV)
+"伊19 (""Iku"")",无子项,rating:safe,2093,舰娘,SS (SSV)
+"伊26 (""Nimu"")",全部,全部,897,舰娘,SS (SSV)
+"伊26 (""Nimu"")",全部,rating:explicit,70,舰娘,SS (SSV)
+"伊26 (""Nimu"")",全部,rating:questionable,163,舰娘,SS (SSV)
+"伊26 (""Nimu"")",全部,rating:safe,664,舰娘,SS (SSV)
+"伊26 (""Nimu"")",无子项,全部,708,舰娘,SS (SSV)
+"伊26 (""Nimu"")",无子项,rating:explicit,43,舰娘,SS (SSV)
+"伊26 (""Nimu"")",无子项,rating:questionable,117,舰娘,SS (SSV)
+"伊26 (""Nimu"")",无子项,rating:safe,548,舰娘,SS (SSV)
+"伊58 (""Gouya"")",全部,全部,2773,舰娘,SS (SSV)
+"伊58 (""Gouya"")",全部,rating:explicit,46,舰娘,SS (SSV)
+"伊58 (""Gouya"")",全部,rating:questionable,116,舰娘,SS (SSV)
+"伊58 (""Gouya"")",全部,rating:safe,2611,舰娘,SS (SSV)
+"伊58 (""Gouya"")",无子项,全部,2439,舰娘,SS (SSV)
+"伊58 (""Gouya"")",无子项,rating:explicit,39,舰娘,SS (SSV)
+"伊58 (""Gouya"")",无子项,rating:questionable,98,舰娘,SS (SSV)
+"伊58 (""Gouya"")",无子项,rating:safe,2302,舰娘,SS (SSV)
+"伊168 (""Imuya"")",全部,全部,1655,舰娘,SS (SSV)
+"伊168 (""Imuya"")",全部,rating:explicit,41,舰娘,SS (SSV)
+"伊168 (""Imuya"")",全部,rating:questionable,97,舰娘,SS (SSV)
+"伊168 (""Imuya"")",全部,rating:safe,1517,舰娘,SS (SSV)
+"伊168 (""Imuya"")",无子项,全部,1441,舰娘,SS (SSV)
+"伊168 (""Imuya"")",无子项,rating:explicit,35,舰娘,SS (SSV)
+"伊168 (""Imuya"")",无子项,rating:questionable,78,舰娘,SS (SSV)
+"伊168 (""Imuya"")",无子项,rating:safe,1328,舰娘,SS (SSV)
+"伊400 (""Shion"")",全部,全部,168,舰娘,SS (SSV)
+"伊400 (""Shion"")",全部,rating:explicit,8,舰娘,SS (SSV)
+"伊400 (""Shion"")",全部,rating:questionable,29,舰娘,SS (SSV)
+"伊400 (""Shion"")",全部,rating:safe,131,舰娘,SS (SSV)
+"伊400 (""Shion"")",无子项,全部,132,舰娘,SS (SSV)
+"伊400 (""Shion"")",无子项,rating:explicit,5,舰娘,SS (SSV)
+"伊400 (""Shion"")",无子项,rating:questionable,20,舰娘,SS (SSV)
+"伊400 (""Shion"")",无子项,rating:safe,107,舰娘,SS (SSV)
+"伊401 (""Shioi"")",全部,全部,2348,舰娘,SS (SSV)
+"伊401 (""Shioi"")",全部,rating:explicit,125,舰娘,SS (SSV)
+"伊401 (""Shioi"")",全部,rating:questionable,303,舰娘,SS (SSV)
+"伊401 (""Shioi"")",全部,rating:safe,1920,舰娘,SS (SSV)
+"伊401 (""Shioi"")",无子项,全部,1945,舰娘,SS (SSV)
+"伊401 (""Shioi"")",无子项,rating:explicit,86,舰娘,SS (SSV)
+"伊401 (""Shioi"")",无子项,rating:questionable,215,舰娘,SS (SSV)
+"伊401 (""Shioi"")",无子项,rating:safe,1644,舰娘,SS (SSV)
+マルゆ,全部,全部,1500,舰娘,SS (SSV)
+マルゆ,全部,rating:explicit,43,舰娘,SS (SSV)
+マルゆ,全部,rating:questionable,53,舰娘,SS (SSV)
+マルゆ,全部,rating:safe,1404,舰娘,SS (SSV)
+マルゆ,无子项,全部,1317,舰娘,SS (SSV)
+マルゆ,无子项,rating:explicit,10,舰娘,SS (SSV)
+マルゆ,无子项,rating:questionable,38,舰娘,SS (SSV)
+マルゆ,无子项,rating:safe,1269,舰娘,SS (SSV)
+"U-511 (""Yuu"")",全部,全部,1923,舰娘,SS (SSV)
+"U-511 (""Yuu"")",全部,rating:explicit,19,舰娘,SS (SSV)
+"U-511 (""Yuu"")",全部,rating:questionable,98,舰娘,SS (SSV)
+"U-511 (""Yuu"")",全部,rating:safe,1806,舰娘,SS (SSV)
+"U-511 (""Yuu"")",无子项,全部,1645,舰娘,SS (SSV)
+"U-511 (""Yuu"")",无子项,rating:explicit,12,舰娘,SS (SSV)
+"U-511 (""Yuu"")",无子项,rating:questionable,82,舰娘,SS (SSV)
+"U-511 (""Yuu"")",无子项,rating:safe,1551,舰娘,SS (SSV)
+"呂500 (""Ro"")",全部,全部,3711,舰娘,SS (SSV)
+"呂500 (""Ro"")",全部,rating:explicit,242,舰娘,SS (SSV)
+"呂500 (""Ro"")",全部,rating:questionable,516,舰娘,SS (SSV)
+"呂500 (""Ro"")",全部,rating:safe,2953,舰娘,SS (SSV)
+"呂500 (""Ro"")",无子项,全部,3048,舰娘,SS (SSV)
+"呂500 (""Ro"")",无子项,rating:explicit,147,舰娘,SS (SSV)
+"呂500 (""Ro"")",无子项,rating:questionable,376,舰娘,SS (SSV)
+"呂500 (""Ro"")",无子项,rating:safe,2525,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",全部,全部,507,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",全部,rating:explicit,14,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",全部,rating:questionable,60,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",全部,rating:safe,433,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",无子项,全部,421,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",无子项,rating:explicit,11,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",无子项,rating:questionable,47,舰娘,SS (SSV)
+"伊13 (""Hitomi"")",无子项,rating:safe,363,舰娘,SS (SSV)
+"伊14 (""Iyo"")",全部,全部,442,舰娘,SS (SSV)
+"伊14 (""Iyo"")",全部,rating:explicit,11,舰娘,SS (SSV)
+"伊14 (""Iyo"")",全部,rating:questionable,46,舰娘,SS (SSV)
+"伊14 (""Iyo"")",全部,rating:safe,385,舰娘,SS (SSV)
+"伊14 (""Iyo"")",无子项,全部,357,舰娘,SS (SSV)
+"伊14 (""Iyo"")",无子项,rating:explicit,8,舰娘,SS (SSV)
+"伊14 (""Iyo"")",无子项,rating:questionable,32,舰娘,SS (SSV)
+"伊14 (""Iyo"")",无子项,rating:safe,317,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",全部,全部,175,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",全部,rating:explicit,7,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",全部,rating:questionable,18,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",全部,rating:safe,150,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",无子项,全部,144,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",无子项,rating:explicit,4,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",无子项,rating:questionable,13,舰娘,SS (SSV)
+"Luigi Torelli (""Lui"")",无子项,rating:safe,127,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",全部,全部,17,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",全部,rating:explicit,0,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",全部,rating:questionable,4,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",全部,rating:safe,13,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",无子项,全部,16,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",无子项,rating:explicit,0,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",无子项,rating:questionable,3,舰娘,SS (SSV)
+"UIT-25 (""Ui"")",无子项,rating:safe,13,舰娘,SS (SSV)
+"伊504 (""Go"")",全部,全部,60,舰娘,SS (SSV)
+"伊504 (""Go"")",全部,rating:explicit,4,舰娘,SS (SSV)
+"伊504 (""Go"")",全部,rating:questionable,8,舰娘,SS (SSV)
+"伊504 (""Go"")",全部,rating:safe,48,舰娘,SS (SSV)
+"伊504 (""Go"")",无子项,全部,44,舰娘,SS (SSV)
+"伊504 (""Go"")",无子项,rating:explicit,3,舰娘,SS (SSV)
+"伊504 (""Go"")",无子项,rating:questionable,4,舰娘,SS (SSV)
+"伊504 (""Go"")",无子项,rating:safe,37,舰娘,SS (SSV)
+瑞穂,全部,全部,434,舰娘,AV
+瑞穂,全部,rating:explicit,12,舰娘,AV
+瑞穂,全部,rating:questionable,25,舰娘,AV
+瑞穂,全部,rating:safe,397,舰娘,AV
+瑞穂,无子项,全部,364,舰娘,AV
+瑞穂,无子项,rating:explicit,8,舰娘,AV
+瑞穂,无子项,rating:questionable,21,舰娘,AV
+瑞穂,无子项,rating:safe,335,舰娘,AV
+日進,全部,全部,147,舰娘,AV
+日進,全部,rating:explicit,4,舰娘,AV
+日進,全部,rating:questionable,9,舰娘,AV
+日進,全部,rating:safe,134,舰娘,AV
+日進,无子项,全部,127,舰娘,AV
+日進,无子项,rating:explicit,2,舰娘,AV
+日進,无子项,rating:questionable,8,舰娘,AV
+日進,无子项,rating:safe,117,舰娘,AV
+秋津洲,全部,全部,736,舰娘,AV
+秋津洲,全部,rating:explicit,23,舰娘,AV
+秋津洲,全部,rating:questionable,72,舰娘,AV
+秋津洲,全部,rating:safe,641,舰娘,AV
+秋津洲,无子项,全部,615,舰娘,AV
+秋津洲,无子项,rating:explicit,19,舰娘,AV
+秋津洲,无子项,rating:questionable,55,舰娘,AV
+秋津洲,无子项,rating:safe,541,舰娘,AV
+二式大艇酱,全部,全部,241,其他,不适用
+二式大艇酱,全部,rating:explicit,5,其他,不适用
+二式大艇酱,全部,rating:questionable,10,其他,不适用
+二式大艇酱,全部,rating:safe,226,其他,不适用
+二式大艇酱,无子项,全部,189,其他,不适用
+二式大艇酱,无子项,rating:explicit,3,其他,不适用
+二式大艇酱,无子项,rating:questionable,6,其他,不适用
+二式大艇酱,无子项,rating:safe,180,其他,不适用
+Commandant Teste,全部,全部,645,舰娘,AV
+Commandant Teste,全部,rating:explicit,4,舰娘,AV
+Commandant Teste,全部,rating:questionable,30,舰娘,AV
+Commandant Teste,全部,rating:safe,611,舰娘,AV
+Commandant Teste,无子项,全部,486,舰娘,AV
+Commandant Teste,无子项,rating:explicit,4,舰娘,AV
+Commandant Teste,无子项,rating:questionable,23,舰娘,AV
+Commandant Teste,无子项,rating:safe,459,舰娘,AV
+神威,全部,全部,1118,舰娘,其他
+神威,全部,rating:explicit,109,舰娘,其他
+神威,全部,rating:questionable,275,舰娘,其他
+神威,全部,rating:safe,734,舰娘,其他
+神威,无子项,全部,863,舰娘,其他
+神威,无子项,rating:explicit,69,舰娘,其他
+神威,无子项,rating:questionable,194,舰娘,其他
+神威,无子项,rating:safe,600,舰娘,其他
+あきつ丸,全部,全部,2029,舰娘,其他
+あきつ丸,全部,rating:explicit,134,舰娘,其他
+あきつ丸,全部,rating:questionable,243,舰娘,其他
+あきつ丸,全部,rating:safe,1652,舰娘,其他
+あきつ丸,无子项,全部,1770,舰娘,其他
+あきつ丸,无子项,rating:explicit,111,舰娘,其他
+あきつ丸,无子项,rating:questionable,191,舰娘,其他
+あきつ丸,无子项,rating:safe,1468,舰娘,其他
+明石,全部,全部,3817,舰娘,其他
+明石,全部,rating:explicit,101,舰娘,其他
+明石,全部,rating:questionable,256,舰娘,其他
+明石,全部,rating:safe,3460,舰娘,其他
+明石,无子项,全部,3347,舰娘,其他
+明石,无子项,rating:explicit,67,舰娘,其他
+明石,无子项,rating:questionable,206,舰娘,其他
+明石,无子项,rating:safe,3074,舰娘,其他
+速吸,全部,全部,846,舰娘,其他
+速吸,全部,rating:explicit,66,舰娘,其他
+速吸,全部,rating:questionable,98,舰娘,其他
+速吸,全部,rating:safe,682,舰娘,其他
+速吸,无子项,全部,707,舰娘,其他
+速吸,无子项,rating:explicit,43,舰娘,其他
+速吸,无子项,rating:questionable,74,舰娘,其他
+速吸,无子项,rating:safe,590,舰娘,其他
+伊良湖,全部,全部,438,舰娘,其他
+伊良湖,全部,rating:explicit,3,舰娘,其他
+伊良湖,全部,rating:questionable,31,舰娘,其他
+伊良湖,全部,rating:safe,404,舰娘,其他
+伊良湖,无子项,全部,376,舰娘,其他
+伊良湖,无子项,rating:explicit,3,舰娘,其他
+伊良湖,无子项,rating:questionable,24,舰娘,其他
+伊良湖,无子项,rating:safe,349,舰娘,其他
+間宮,全部,全部,941,舰娘,其他
+間宮,全部,rating:explicit,21,舰娘,其他
+間宮,全部,rating:questionable,67,舰娘,其他
+間宮,全部,rating:safe,853,舰娘,其他
+間宮,无子项,全部,809,舰娘,其他
+間宮,无子项,rating:explicit,19,舰娘,其他
+間宮,无子项,rating:questionable,49,舰娘,其他
+間宮,无子项,rating:safe,741,舰娘,其他
+提督,全部,全部,25366,其他,不适用
+提督,全部,rating:explicit,1893,其他,不适用
+提督,全部,rating:questionable,1467,其他,不适用
+提督,全部,rating:safe,22006,其他,不适用
+提督,无子项,全部,22167,其他,不适用
+提督,无子项,rating:explicit,1424,其他,不适用
+提督,无子项,rating:questionable,1168,其他,不适用
+提督,无子项,rating:safe,19575,其他,不适用
+正太提督,全部,全部,1090,其他,不适用
+正太提督,全部,rating:explicit,165,其他,不适用
+正太提督,全部,rating:questionable,111,其他,不适用
+正太提督,全部,rating:safe,814,其他,不适用
+正太提督,无子项,全部,973,其他,不适用
+正太提督,无子项,rating:explicit,132,其他,不适用
+正太提督,无子项,rating:questionable,91,其他,不适用
+正太提督,无子项,rating:safe,750,其他,不适用
+深海提督,全部,全部,520,其他,不适用
+深海提督,全部,rating:explicit,5,其他,不适用
+深海提督,全部,rating:questionable,25,其他,不适用
+深海提督,全部,rating:safe,490,其他,不适用
+深海提督,无子项,全部,494,其他,不适用
+深海提督,无子项,rating:explicit,4,其他,不适用
+深海提督,无子项,rating:questionable,25,其他,不适用
+深海提督,无子项,rating:safe,465,其他,不适用
+深海正太提督,全部,全部,9,其他,不适用
+深海正太提督,全部,rating:explicit,0,其他,不适用
+深海正太提督,全部,rating:questionable,0,其他,不适用
+深海正太提督,全部,rating:safe,9,其他,不适用
+深海正太提督,无子项,全部,9,其他,不适用
+深海正太提督,无子项,rating:explicit,0,其他,不适用
+深海正太提督,无子项,rating:questionable,0,其他,不适用
+深海正太提督,无子项,rating:safe,9,其他,不适用
+女提督,全部,全部,4774,其他,不适用
+女提督,全部,rating:explicit,88,其他,不适用
+女提督,全部,rating:questionable,246,其他,不适用
+女提督,全部,rating:safe,4440,其他,不适用
+女提督,无子项,全部,4264,其他,不适用
+女提督,无子项,rating:explicit,66,其他,不适用
+女提督,无子项,rating:questionable,215,其他,不适用
+女提督,无子项,rating:safe,3983,其他,不适用
+幼女提督,全部,全部,288,其他,不适用
+幼女提督,全部,rating:explicit,13,其他,不适用
+幼女提督,全部,rating:questionable,4,其他,不适用
+幼女提督,全部,rating:safe,271,其他,不适用
+幼女提督,无子项,全部,273,其他,不适用
+幼女提督,无子项,rating:explicit,12,其他,不适用
+幼女提督,无子项,rating:questionable,3,其他,不适用
+幼女提督,无子项,rating:safe,258,其他,不适用
+深海女提督,全部,全部,151,其他,不适用
+深海女提督,全部,rating:explicit,1,其他,不适用
+深海女提督,全部,rating:questionable,2,其他,不适用
+深海女提督,全部,rating:safe,148,其他,不适用
+深海女提督,无子项,全部,133,其他,不适用
+深海女提督,无子项,rating:explicit,1,其他,不适用
+深海女提督,无子项,rating:questionable,2,其他,不适用
+深海女提督,无子项,rating:safe,130,其他,不适用
+非人类提督,全部,全部,2593,其他,不适用
+非人类提督,全部,rating:explicit,0,其他,不适用
+非人类提督,全部,rating:questionable,4,其他,不适用
+非人类提督,全部,rating:safe,2589,其他,不适用
+非人类提督,无子项,全部,2509,其他,不适用
+非人类提督,无子项,rating:explicit,0,其他,不适用
+非人类提督,无子项,rating:questionable,4,其他,不适用
+非人类提督,无子项,rating:safe,2505,其他,不适用
+T头提督,全部,全部,1362,其他,不适用
+T头提督,全部,rating:explicit,23,其他,不适用
+T头提督,全部,rating:questionable,106,其他,不适用
+T头提督,全部,rating:safe,1233,其他,不适用
+T头提督,无子项,全部,1238,其他,不适用
+T头提督,无子项,rating:explicit,16,其他,不适用
+T头提督,无子项,rating:questionable,87,其他,不适用
+T头提督,无子项,rating:safe,1135,其他,不适用
+駆逐イ級,全部,全部,1308,深海,DD
+駆逐イ級,全部,rating:explicit,8,深海,DD
+駆逐イ級,全部,rating:questionable,21,深海,DD
+駆逐イ級,全部,rating:safe,1279,深海,DD
+駆逐イ級,无子项,全部,1169,深海,DD
+駆逐イ級,无子项,rating:explicit,5,深海,DD
+駆逐イ級,无子项,rating:questionable,13,深海,DD
+駆逐イ級,无子项,rating:safe,1151,深海,DD
+萌化駆逐イ級,全部,全部,140,深海,DD
+萌化駆逐イ級,全部,rating:explicit,0,深海,DD
+萌化駆逐イ級,全部,rating:questionable,0,深海,DD
+萌化駆逐イ級,全部,rating:safe,140,深海,DD
+萌化駆逐イ級,无子项,全部,125,深海,DD
+萌化駆逐イ級,无子项,rating:explicit,0,深海,DD
+萌化駆逐イ級,无子项,rating:questionable,0,深海,DD
+萌化駆逐イ級,无子项,rating:safe,125,深海,DD
+駆逐ロ級,全部,全部,330,深海,DD
+駆逐ロ級,全部,rating:explicit,0,深海,DD
+駆逐ロ級,全部,rating:questionable,6,深海,DD
+駆逐ロ級,全部,rating:safe,324,深海,DD
+駆逐ロ級,无子项,全部,297,深海,DD
+駆逐ロ級,无子项,rating:explicit,0,深海,DD
+駆逐ロ級,无子项,rating:questionable,6,深海,DD
+駆逐ロ級,无子项,rating:safe,291,深海,DD
+駆逐ハ級,全部,全部,396,深海,DD
+駆逐ハ級,全部,rating:explicit,7,深海,DD
+駆逐ハ級,全部,rating:questionable,4,深海,DD
+駆逐ハ級,全部,rating:safe,385,深海,DD
+駆逐ハ級,无子项,全部,353,深海,DD
+駆逐ハ級,无子项,rating:explicit,2,深海,DD
+駆逐ハ級,无子项,rating:questionable,4,深海,DD
+駆逐ハ級,无子项,rating:safe,347,深海,DD
+駆逐ニ級,全部,全部,216,深海,DD
+駆逐ニ級,全部,rating:explicit,1,深海,DD
+駆逐ニ級,全部,rating:questionable,0,深海,DD
+駆逐ニ級,全部,rating:safe,215,深海,DD
+駆逐ニ級,无子项,全部,190,深海,DD
+駆逐ニ級,无子项,rating:explicit,1,深海,DD
+駆逐ニ級,无子项,rating:questionable,0,深海,DD
+駆逐ニ級,无子项,rating:safe,189,深海,DD
+駆逐ナ級,全部,全部,9,深海,DD
+駆逐ナ級,全部,rating:explicit,0,深海,DD
+駆逐ナ級,全部,rating:questionable,0,深海,DD
+駆逐ナ級,全部,rating:safe,9,深海,DD
+駆逐ナ級,无子项,全部,5,深海,DD
+駆逐ナ級,无子项,rating:explicit,0,深海,DD
+駆逐ナ級,无子项,rating:questionable,0,深海,DD
+駆逐ナ級,无子项,rating:safe,5,深海,DD
+駆逐棲姫,全部,全部,592,深海,DD
+駆逐棲姫,全部,rating:explicit,4,深海,DD
+駆逐棲姫,全部,rating:questionable,16,深海,DD
+駆逐棲姫,全部,rating:safe,572,深海,DD
+駆逐棲姫,无子项,全部,528,深海,DD
+駆逐棲姫,无子项,rating:explicit,4,深海,DD
+駆逐棲姫,无子项,rating:questionable,14,深海,DD
+駆逐棲姫,无子项,rating:safe,510,深海,DD
+防空棲姫,全部,全部,176,深海,DD
+防空棲姫,全部,rating:explicit,6,深海,DD
+防空棲姫,全部,rating:questionable,14,深海,DD
+防空棲姫,全部,rating:safe,156,深海,DD
+防空棲姫,无子项,全部,151,深海,DD
+防空棲姫,无子项,rating:explicit,3,深海,DD
+防空棲姫,无子项,rating:questionable,12,深海,DD
+防空棲姫,无子项,rating:safe,136,深海,DD
+PT小鬼群,全部,全部,153,深海,其他
+PT小鬼群,全部,rating:explicit,0,深海,其他
+PT小鬼群,全部,rating:questionable,1,深海,其他
+PT小鬼群,全部,rating:safe,152,深海,其他
+PT小鬼群,无子项,全部,128,深海,其他
+PT小鬼群,无子项,rating:explicit,0,深海,其他
+PT小鬼群,无子项,rating:questionable,1,深海,其他
+PT小鬼群,无子项,rating:safe,127,深海,其他
+駆逐水鬼,全部,全部,118,深海,DD
+駆逐水鬼,全部,rating:explicit,0,深海,DD
+駆逐水鬼,全部,rating:questionable,2,深海,DD
+駆逐水鬼,全部,rating:safe,116,深海,DD
+駆逐水鬼,无子项,全部,96,深海,DD
+駆逐水鬼,无子项,rating:explicit,0,深海,DD
+駆逐水鬼,无子项,rating:questionable,2,深海,DD
+駆逐水鬼,无子项,rating:safe,94,深海,DD
+駆逐古鬼,全部,全部,151,深海,DD
+駆逐古鬼,全部,rating:explicit,6,深海,DD
+駆逐古鬼,全部,rating:questionable,4,深海,DD
+駆逐古鬼,全部,rating:safe,141,深海,DD
+駆逐古鬼,无子项,全部,122,深海,DD
+駆逐古鬼,无子项,rating:explicit,4,深海,DD
+駆逐古鬼,无子项,rating:questionable,4,深海,DD
+駆逐古鬼,无子项,rating:safe,114,深海,DD
+駆逐古姫,全部,全部,40,深海,DD
+駆逐古姫,全部,rating:explicit,1,深海,DD
+駆逐古姫,全部,rating:questionable,2,深海,DD
+駆逐古姫,全部,rating:safe,37,深海,DD
+駆逐古姫,无子项,全部,35,深海,DD
+駆逐古姫,无子项,rating:explicit,1,深海,DD
+駆逐古姫,无子项,rating:questionable,2,深海,DD
+駆逐古姫,无子项,rating:safe,32,深海,DD
+深海雨雲姫,全部,全部,26,深海,DD
+深海雨雲姫,全部,rating:explicit,0,深海,DD
+深海雨雲姫,全部,rating:questionable,0,深海,DD
+深海雨雲姫,全部,rating:safe,26,深海,DD
+深海雨雲姫,无子项,全部,20,深海,DD
+深海雨雲姫,无子项,rating:explicit,0,深海,DD
+深海雨雲姫,无子项,rating:questionable,0,深海,DD
+深海雨雲姫,无子项,rating:safe,20,深海,DD
+軽巡ホ級,全部,全部,167,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,全部,rating:explicit,1,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,全部,rating:questionable,3,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,全部,rating:safe,163,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,无子项,全部,155,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,无子项,rating:explicit,1,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,无子项,rating:questionable,3,深海,"CL (CLT, CT, CLV)"
+軽巡ホ級,无子项,rating:safe,151,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,全部,全部,123,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,全部,rating:explicit,0,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,全部,rating:questionable,0,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,全部,rating:safe,123,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,无子项,全部,110,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,无子项,rating:explicit,0,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,无子项,rating:questionable,0,深海,"CL (CLT, CT, CLV)"
+軽巡ヘ級,无子项,rating:safe,110,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,全部,全部,99,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,全部,rating:explicit,0,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,全部,rating:questionable,1,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,全部,rating:safe,98,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,无子项,全部,90,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,无子项,rating:explicit,0,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,无子项,rating:questionable,1,深海,"CL (CLT, CT, CLV)"
+軽巡ト級,无子项,rating:safe,89,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,全部,全部,160,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,全部,rating:explicit,0,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,全部,rating:questionable,1,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,全部,rating:safe,159,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,无子项,全部,131,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,无子项,rating:explicit,0,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,无子项,rating:questionable,1,深海,"CL (CLT, CT, CLV)"
+軽巡ツ級,无子项,rating:safe,130,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,全部,全部,307,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,全部,rating:explicit,12,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,全部,rating:questionable,11,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,全部,rating:safe,284,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,无子项,全部,258,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,无子项,rating:explicit,10,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,无子项,rating:questionable,10,深海,"CL (CLT, CT, CLV)"
+軽巡棲鬼,无子项,rating:safe,238,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,全部,全部,205,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,全部,rating:explicit,7,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,全部,rating:questionable,7,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,全部,rating:safe,191,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,无子项,全部,175,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,无子项,rating:explicit,6,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,无子项,rating:questionable,6,深海,"CL (CLT, CT, CLV)"
+軽巡棲姫,无子项,rating:safe,163,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,全部,全部,552,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,全部,rating:explicit,9,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,全部,rating:questionable,5,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,全部,rating:safe,538,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,无子项,全部,511,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,无子项,rating:explicit,7,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,无子项,rating:questionable,5,深海,"CL (CLT, CT, CLV)"
+雷巡チ級,无子项,rating:safe,499,深海,"CL (CLT, CT, CLV)"
+重巡リ級,全部,全部,731,深海,CA
+重巡リ級,全部,rating:explicit,8,深海,CA
+重巡リ級,全部,rating:questionable,12,深海,CA
+重巡リ級,全部,rating:safe,711,深海,CA
+重巡リ級,无子项,全部,686,深海,CA
+重巡リ級,无子项,rating:explicit,3,深海,CA
+重巡リ級,无子项,rating:questionable,11,深海,CA
+重巡リ級,无子项,rating:safe,672,深海,CA
+重巡ネ級,全部,全部,295,深海,CA
+重巡ネ級,全部,rating:explicit,0,深海,CA
+重巡ネ級,全部,rating:questionable,4,深海,CA
+重巡ネ級,全部,rating:safe,291,深海,CA
+重巡ネ級,无子项,全部,258,深海,CA
+重巡ネ級,无子项,rating:explicit,0,深海,CA
+重巡ネ級,无子项,rating:questionable,2,深海,CA
+重巡ネ級,无子项,rating:safe,256,深海,CA
+重巡棲姫,全部,全部,231,深海,CA
+重巡棲姫,全部,rating:explicit,1,深海,CA
+重巡棲姫,全部,rating:questionable,11,深海,CA
+重巡棲姫,全部,rating:safe,219,深海,CA
+重巡棲姫,无子项,全部,199,深海,CA
+重巡棲姫,无子项,rating:explicit,1,深海,CA
+重巡棲姫,无子项,rating:questionable,9,深海,CA
+重巡棲姫,无子项,rating:safe,189,深海,CA
+重巡夏姫,全部,全部,55,深海,CA
+重巡夏姫,全部,rating:explicit,1,深海,CA
+重巡夏姫,全部,rating:questionable,1,深海,CA
+重巡夏姫,全部,rating:safe,53,深海,CA
+重巡夏姫,无子项,全部,44,深海,CA
+重巡夏姫,无子项,rating:explicit,1,深海,CA
+重巡夏姫,无子项,rating:questionable,1,深海,CA
+重巡夏姫,无子项,rating:safe,42,深海,CA
+軽母ヌ級,全部,全部,164,深海,CVL (CVE)
+軽母ヌ級,全部,rating:explicit,0,深海,CVL (CVE)
+軽母ヌ級,全部,rating:questionable,2,深海,CVL (CVE)
+軽母ヌ級,全部,rating:safe,162,深海,CVL (CVE)
+軽母ヌ級,无子项,全部,148,深海,CVL (CVE)
+軽母ヌ級,无子项,rating:explicit,0,深海,CVL (CVE)
+軽母ヌ級,无子项,rating:questionable,2,深海,CVL (CVE)
+軽母ヌ級,无子项,rating:safe,146,深海,CVL (CVE)
+護衛棲姫,全部,全部,40,深海,CVL (CVE)
+護衛棲姫,全部,rating:explicit,0,深海,CVL (CVE)
+護衛棲姫,全部,rating:questionable,2,深海,CVL (CVE)
+護衛棲姫,全部,rating:safe,38,深海,CVL (CVE)
+護衛棲姫,无子项,全部,27,深海,CVL (CVE)
+護衛棲姫,无子项,rating:explicit,0,深海,CVL (CVE)
+護衛棲姫,无子项,rating:questionable,1,深海,CVL (CVE)
+護衛棲姫,无子项,rating:safe,26,深海,CVL (CVE)
+水母棲姫,全部,全部,160,深海,AV
+水母棲姫,全部,rating:explicit,0,深海,AV
+水母棲姫,全部,rating:questionable,4,深海,AV
+水母棲姫,全部,rating:safe,156,深海,AV
+水母棲姫,无子项,全部,140,深海,AV
+水母棲姫,无子项,rating:explicit,0,深海,AV
+水母棲姫,无子项,rating:questionable,2,深海,AV
+水母棲姫,无子项,rating:safe,138,深海,AV
+水母水姫,全部,全部,57,深海,AV
+水母水姫,全部,rating:explicit,0,深海,AV
+水母水姫,全部,rating:questionable,0,深海,AV
+水母水姫,全部,rating:safe,57,深海,AV
+水母水姫,无子项,全部,48,深海,AV
+水母水姫,无子项,rating:explicit,0,深海,AV
+水母水姫,无子项,rating:questionable,0,深海,AV
+水母水姫,无子项,rating:safe,48,深海,AV
+空母ヲ級,全部,全部,4273,深海,CV
+空母ヲ級,全部,rating:explicit,102,深海,CV
+空母ヲ級,全部,rating:questionable,167,深海,CV
+空母ヲ級,全部,rating:safe,4004,深海,CV
+空母ヲ級,无子项,全部,3852,深海,CV
+空母ヲ級,无子项,rating:explicit,67,深海,CV
+空母ヲ級,无子项,rating:questionable,142,深海,CV
+空母ヲ級,无子项,rating:safe,3643,深海,CV
+空母棲鬼,全部,全部,492,深海,CV
+空母棲鬼,全部,rating:explicit,3,深海,CV
+空母棲鬼,全部,rating:questionable,14,深海,CV
+空母棲鬼,全部,rating:safe,475,深海,CV
+空母棲鬼,无子项,全部,441,深海,CV
+空母棲鬼,无子项,rating:explicit,3,深海,CV
+空母棲鬼,无子项,rating:questionable,13,深海,CV
+空母棲鬼,无子项,rating:safe,425,深海,CV
+空母夏鬼,全部,全部,21,深海,CV
+空母夏鬼,全部,rating:explicit,0,深海,CV
+空母夏鬼,全部,rating:questionable,0,深海,CV
+空母夏鬼,全部,rating:safe,21,深海,CV
+空母夏鬼,无子项,全部,14,深海,CV
+空母夏鬼,无子项,rating:explicit,0,深海,CV
+空母夏鬼,无子项,rating:questionable,0,深海,CV
+空母夏鬼,无子项,rating:safe,14,深海,CV
+空母棲姫,全部,全部,413,深海,CV
+空母棲姫,全部,rating:explicit,7,深海,CV
+空母棲姫,全部,rating:questionable,48,深海,CV
+空母棲姫,全部,rating:safe,358,深海,CV
+空母棲姫,无子项,全部,365,深海,CV
+空母棲姫,无子项,rating:explicit,5,深海,CV
+空母棲姫,无子项,rating:questionable,40,深海,CV
+空母棲姫,无子项,rating:safe,320,深海,CV
+空母夏姬,全部,全部,32,深海,CV
+空母夏姬,全部,rating:explicit,0,深海,CV
+空母夏姬,全部,rating:questionable,3,深海,CV
+空母夏姬,全部,rating:safe,29,深海,CV
+空母夏姬,无子项,全部,23,深海,CV
+空母夏姬,无子项,rating:explicit,0,深海,CV
+空母夏姬,无子项,rating:questionable,2,深海,CV
+空母夏姬,无子项,rating:safe,21,深海,CV
+空母水鬼,全部,全部,372,深海,CV
+空母水鬼,全部,rating:explicit,7,深海,CV
+空母水鬼,全部,rating:questionable,20,深海,CV
+空母水鬼,全部,rating:safe,345,深海,CV
+空母水鬼,无子项,全部,322,深海,CV
+空母水鬼,无子项,rating:explicit,5,深海,CV
+空母水鬼,无子项,rating:questionable,19,深海,CV
+空母水鬼,无子项,rating:safe,298,深海,CV
+深海海月姫,全部,全部,63,深海,CV
+深海海月姫,全部,rating:explicit,0,深海,CV
+深海海月姫,全部,rating:questionable,3,深海,CV
+深海海月姫,全部,rating:safe,60,深海,CV
+深海海月姫,无子项,全部,53,深海,CV
+深海海月姫,无子项,rating:explicit,0,深海,CV
+深海海月姫,无子项,rating:questionable,2,深海,CV
+深海海月姫,无子项,rating:safe,51,深海,CV
+輸送ワ級,全部,全部,175,深海,其他
+輸送ワ級,全部,rating:explicit,19,深海,其他
+輸送ワ級,全部,rating:questionable,15,深海,其他
+輸送ワ級,全部,rating:safe,141,深海,其他
+輸送ワ級,无子项,全部,152,深海,其他
+輸送ワ級,无子项,rating:explicit,19,深海,其他
+輸送ワ級,无子项,rating:questionable,15,深海,其他
+輸送ワ級,无子项,rating:safe,118,深海,其他
+潜水カ級,全部,全部,258,深海,SS (SSV)
+潜水カ級,全部,rating:explicit,2,深海,SS (SSV)
+潜水カ級,全部,rating:questionable,7,深海,SS (SSV)
+潜水カ級,全部,rating:safe,249,深海,SS (SSV)
+潜水カ級,无子项,全部,233,深海,SS (SSV)
+潜水カ級,无子项,rating:explicit,2,深海,SS (SSV)
+潜水カ級,无子项,rating:questionable,7,深海,SS (SSV)
+潜水カ級,无子项,rating:safe,224,深海,SS (SSV)
+潜水ソ級,全部,全部,139,深海,SS (SSV)
+潜水ソ級,全部,rating:explicit,1,深海,SS (SSV)
+潜水ソ級,全部,rating:questionable,4,深海,SS (SSV)
+潜水ソ級,全部,rating:safe,134,深海,SS (SSV)
+潜水ソ級,无子项,全部,127,深海,SS (SSV)
+潜水ソ級,无子项,rating:explicit,1,深海,SS (SSV)
+潜水ソ級,无子项,rating:questionable,4,深海,SS (SSV)
+潜水ソ級,无子项,rating:safe,122,深海,SS (SSV)
+潜水ヨ級,全部,全部,143,深海,SS (SSV)
+潜水ヨ級,全部,rating:explicit,3,深海,SS (SSV)
+潜水ヨ級,全部,rating:questionable,11,深海,SS (SSV)
+潜水ヨ級,全部,rating:safe,129,深海,SS (SSV)
+潜水ヨ級,无子项,全部,124,深海,SS (SSV)
+潜水ヨ級,无子项,rating:explicit,2,深海,SS (SSV)
+潜水ヨ級,无子项,rating:questionable,10,深海,SS (SSV)
+潜水ヨ級,无子项,rating:safe,112,深海,SS (SSV)
+潜水棲姫,全部,全部,130,深海,SS (SSV)
+潜水棲姫,全部,rating:explicit,0,深海,SS (SSV)
+潜水棲姫,全部,rating:questionable,2,深海,SS (SSV)
+潜水棲姫,全部,rating:safe,128,深海,SS (SSV)
+潜水棲姫,无子项,全部,107,深海,SS (SSV)
+潜水棲姫,无子项,rating:explicit,0,深海,SS (SSV)
+潜水棲姫,无子项,rating:questionable,2,深海,SS (SSV)
+潜水棲姫,无子项,rating:safe,105,深海,SS (SSV)
+潜水新栖姬,全部,全部,121,深海,SS (SSV)
+潜水新栖姬,全部,rating:explicit,3,深海,SS (SSV)
+潜水新栖姬,全部,rating:questionable,2,深海,SS (SSV)
+潜水新栖姬,全部,rating:safe,116,深海,SS (SSV)
+潜水新栖姬,无子项,全部,101,深海,SS (SSV)
+潜水新栖姬,无子项,rating:explicit,2,深海,SS (SSV)
+潜水新栖姬,无子项,rating:questionable,1,深海,SS (SSV)
+潜水新栖姬,无子项,rating:safe,98,深海,SS (SSV)
+戦艦ル級,全部,全部,1032,深海,BB (BBV)
+戦艦ル級,全部,rating:explicit,11,深海,BB (BBV)
+戦艦ル級,全部,rating:questionable,19,深海,BB (BBV)
+戦艦ル級,全部,rating:safe,1002,深海,BB (BBV)
+戦艦ル級,无子项,全部,936,深海,BB (BBV)
+戦艦ル級,无子项,rating:explicit,6,深海,BB (BBV)
+戦艦ル級,无子项,rating:questionable,16,深海,BB (BBV)
+戦艦ル級,无子项,rating:safe,914,深海,BB (BBV)
+戦艦タ級,全部,全部,1001,深海,BB (BBV)
+戦艦タ級,全部,rating:explicit,33,深海,BB (BBV)
+戦艦タ級,全部,rating:questionable,56,深海,BB (BBV)
+戦艦タ級,全部,rating:safe,912,深海,BB (BBV)
+戦艦タ級,无子项,全部,870,深海,BB (BBV)
+戦艦タ級,无子项,rating:explicit,23,深海,BB (BBV)
+戦艦タ級,无子项,rating:questionable,44,深海,BB (BBV)
+戦艦タ級,无子项,rating:safe,803,深海,BB (BBV)
+戦艦棲姫,全部,全部,1875,深海,BB (BBV)
+戦艦棲姫,全部,rating:explicit,60,深海,BB (BBV)
+戦艦棲姫,全部,rating:questionable,128,深海,BB (BBV)
+戦艦棲姫,全部,rating:safe,1687,深海,BB (BBV)
+戦艦棲姫,无子项,全部,1672,深海,BB (BBV)
+戦艦棲姫,无子项,rating:explicit,36,深海,BB (BBV)
+戦艦棲姫,无子项,rating:questionable,101,深海,BB (BBV)
+戦艦棲姫,无子项,rating:safe,1535,深海,BB (BBV)
+戦艦夏姫,全部,全部,121,深海,BB (BBV)
+戦艦夏姫,全部,rating:explicit,16,深海,BB (BBV)
+戦艦夏姫,全部,rating:questionable,24,深海,BB (BBV)
+戦艦夏姫,全部,rating:safe,81,深海,BB (BBV)
+戦艦夏姫,无子项,全部,88,深海,BB (BBV)
+戦艦夏姫,无子项,rating:explicit,6,深海,BB (BBV)
+戦艦夏姫,无子项,rating:questionable,20,深海,BB (BBV)
+戦艦夏姫,无子项,rating:safe,62,深海,BB (BBV)
+戦艦水鬼,全部,全部,365,深海,BB (BBV)
+戦艦水鬼,全部,rating:explicit,6,深海,BB (BBV)
+戦艦水鬼,全部,rating:questionable,13,深海,BB (BBV)
+戦艦水鬼,全部,rating:safe,346,深海,BB (BBV)
+戦艦水鬼,无子项,全部,337,深海,BB (BBV)
+戦艦水鬼,无子项,rating:explicit,5,深海,BB (BBV)
+戦艦水鬼,无子项,rating:questionable,11,深海,BB (BBV)
+戦艦水鬼,无子项,rating:safe,321,深海,BB (BBV)
+战舰法栖姬,全部,全部,64,深海,BB (BBV)
+战舰法栖姬,全部,rating:explicit,0,深海,BB (BBV)
+战舰法栖姬,全部,rating:questionable,4,深海,BB (BBV)
+战舰法栖姬,全部,rating:safe,60,深海,BB (BBV)
+战舰法栖姬,无子项,全部,43,深海,BB (BBV)
+战舰法栖姬,无子项,rating:explicit,0,深海,BB (BBV)
+战舰法栖姬,无子项,rating:questionable,3,深海,BB (BBV)
+战舰法栖姬,无子项,rating:safe,40,深海,BB (BBV)
+戦艦レ級,全部,全部,2029,深海,BB (BBV)
+戦艦レ級,全部,rating:explicit,43,深海,BB (BBV)
+戦艦レ級,全部,rating:questionable,75,深海,BB (BBV)
+戦艦レ級,全部,rating:safe,1911,深海,BB (BBV)
+戦艦レ級,无子项,全部,1824,深海,BB (BBV)
+戦艦レ級,无子项,rating:explicit,30,深海,BB (BBV)
+戦艦レ級,无子项,rating:questionable,62,深海,BB (BBV)
+戦艦レ級,无子项,rating:safe,1732,深海,BB (BBV)
+装甲空母鬼,全部,全部,130,深海,BB (BBV)
+装甲空母鬼,全部,rating:explicit,3,深海,BB (BBV)
+装甲空母鬼,全部,rating:questionable,7,深海,BB (BBV)
+装甲空母鬼,全部,rating:safe,120,深海,BB (BBV)
+装甲空母鬼,无子项,全部,112,深海,BB (BBV)
+装甲空母鬼,无子项,rating:explicit,2,深海,BB (BBV)
+装甲空母鬼,无子项,rating:questionable,7,深海,BB (BBV)
+装甲空母鬼,无子项,rating:safe,103,深海,BB (BBV)
+装甲空母姫,全部,全部,141,深海,BB (BBV)
+装甲空母姫,全部,rating:explicit,4,深海,BB (BBV)
+装甲空母姫,全部,rating:questionable,17,深海,BB (BBV)
+装甲空母姫,全部,rating:safe,120,深海,BB (BBV)
+装甲空母姫,无子项,全部,126,深海,BB (BBV)
+装甲空母姫,无子项,rating:explicit,4,深海,BB (BBV)
+装甲空母姫,无子项,rating:questionable,15,深海,BB (BBV)
+装甲空母姫,无子项,rating:safe,107,深海,BB (BBV)
+南方棲鬼,全部,全部,217,深海,BB (BBV)
+南方棲鬼,全部,rating:explicit,3,深海,BB (BBV)
+南方棲鬼,全部,rating:questionable,4,深海,BB (BBV)
+南方棲鬼,全部,rating:safe,210,深海,BB (BBV)
+南方棲鬼,无子项,全部,193,深海,BB (BBV)
+南方棲鬼,无子项,rating:explicit,2,深海,BB (BBV)
+南方棲鬼,无子项,rating:questionable,4,深海,BB (BBV)
+南方棲鬼,无子项,rating:safe,187,深海,BB (BBV)
+南方棲戦鬼,全部,全部,67,深海,BB (BBV)
+南方棲戦鬼,全部,rating:explicit,0,深海,BB (BBV)
+南方棲戦鬼,全部,rating:questionable,0,深海,BB (BBV)
+南方棲戦鬼,全部,rating:safe,67,深海,BB (BBV)
+南方棲戦鬼,无子项,全部,59,深海,BB (BBV)
+南方棲戦鬼,无子项,rating:explicit,0,深海,BB (BBV)
+南方棲戦鬼,无子项,rating:questionable,0,深海,BB (BBV)
+南方棲戦鬼,无子项,rating:safe,59,深海,BB (BBV)
+南方棲戦姫,全部,全部,162,深海,BB (BBV)
+南方棲戦姫,全部,rating:explicit,8,深海,BB (BBV)
+南方棲戦姫,全部,rating:questionable,21,深海,BB (BBV)
+南方棲戦姫,全部,rating:safe,133,深海,BB (BBV)
+南方棲戦姫,无子项,全部,139,深海,BB (BBV)
+南方棲戦姫,无子项,rating:explicit,6,深海,BB (BBV)
+南方棲戦姫,无子项,rating:questionable,20,深海,BB (BBV)
+南方棲戦姫,无子项,rating:safe,113,深海,BB (BBV)
+泊地棲鬼,全部,全部,128,深海,BB (BBV)
+泊地棲鬼,全部,rating:explicit,1,深海,BB (BBV)
+泊地棲鬼,全部,rating:questionable,2,深海,BB (BBV)
+泊地棲鬼,全部,rating:safe,125,深海,BB (BBV)
+泊地棲鬼,无子项,全部,109,深海,BB (BBV)
+泊地棲鬼,无子项,rating:explicit,1,深海,BB (BBV)
+泊地棲鬼,无子项,rating:questionable,2,深海,BB (BBV)
+泊地棲鬼,无子项,rating:safe,106,深海,BB (BBV)
+泊地棲姫,全部,全部,106,深海,BB (BBV)
+泊地棲姫,全部,rating:explicit,0,深海,BB (BBV)
+泊地棲姫,全部,rating:questionable,3,深海,BB (BBV)
+泊地棲姫,全部,rating:safe,103,深海,BB (BBV)
+泊地棲姫,无子项,全部,91,深海,BB (BBV)
+泊地棲姫,无子项,rating:explicit,0,深海,BB (BBV)
+泊地棲姫,无子项,rating:questionable,3,深海,BB (BBV)
+泊地棲姫,无子项,rating:safe,88,深海,BB (BBV)
+深海双子栖姬（黑）,全部,全部,74,深海,BB (BBV)
+深海双子栖姬（黑）,全部,rating:explicit,3,深海,BB (BBV)
+深海双子栖姬（黑）,全部,rating:questionable,2,深海,BB (BBV)
+深海双子栖姬（黑）,全部,rating:safe,69,深海,BB (BBV)
+深海双子栖姬（黑）,无子项,全部,59,深海,BB (BBV)
+深海双子栖姬（黑）,无子项,rating:explicit,2,深海,BB (BBV)
+深海双子栖姬（黑）,无子项,rating:questionable,2,深海,BB (BBV)
+深海双子栖姬（黑）,无子项,rating:safe,55,深海,BB (BBV)
+深海双子栖姬（白）,全部,全部,75,深海,BB (BBV)
+深海双子栖姬（白）,全部,rating:explicit,3,深海,BB (BBV)
+深海双子栖姬（白）,全部,rating:questionable,2,深海,BB (BBV)
+深海双子栖姬（白）,全部,rating:safe,70,深海,BB (BBV)
+深海双子栖姬（白）,无子项,全部,60,深海,BB (BBV)
+深海双子栖姬（白）,无子项,rating:explicit,2,深海,BB (BBV)
+深海双子栖姬（白）,无子项,rating:questionable,2,深海,BB (BBV)
+深海双子栖姬（白）,无子项,rating:safe,56,深海,BB (BBV)
+北方水姫,全部,全部,102,深海,BB (BBV)
+北方水姫,全部,rating:explicit,3,深海,BB (BBV)
+北方水姫,全部,rating:questionable,15,深海,BB (BBV)
+北方水姫,全部,rating:safe,84,深海,BB (BBV)
+北方水姫,无子项,全部,85,深海,BB (BBV)
+北方水姫,无子项,rating:explicit,3,深海,BB (BBV)
+北方水姫,无子项,rating:questionable,11,深海,BB (BBV)
+北方水姫,无子项,rating:safe,71,深海,BB (BBV)
+欧州棲姫,全部,全部,44,深海,BB (BBV)
+欧州棲姫,全部,rating:explicit,0,深海,BB (BBV)
+欧州棲姫,全部,rating:questionable,1,深海,BB (BBV)
+欧州棲姫,全部,rating:safe,43,深海,BB (BBV)
+欧州棲姫,无子项,全部,31,深海,BB (BBV)
+欧州棲姫,无子项,rating:explicit,0,深海,BB (BBV)
+欧州棲姫,无子项,rating:questionable,1,深海,BB (BBV)
+欧州棲姫,无子项,rating:safe,30,深海,BB (BBV)
+深海日棲姫,全部,全部,24,深海,AV
+深海日棲姫,全部,rating:explicit,0,深海,AV
+深海日棲姫,全部,rating:questionable,0,深海,AV
+深海日棲姫,全部,rating:safe,24,深海,AV
+深海日棲姫,无子项,全部,20,深海,AV
+深海日棲姫,无子项,rating:explicit,0,深海,AV
+深海日棲姫,无子项,rating:questionable,0,深海,AV
+深海日棲姫,无子项,rating:safe,20,深海,AV
+飛行場姫,全部,全部,891,深海,路基
+飛行場姫,全部,rating:explicit,23,深海,路基
+飛行場姫,全部,rating:questionable,56,深海,路基
+飛行場姫,全部,rating:safe,812,深海,路基
+飛行場姫,无子项,全部,789,深海,路基
+飛行場姫,无子项,rating:explicit,19,深海,路基
+飛行場姫,无子项,rating:questionable,46,深海,路基
+飛行場姫,无子项,rating:safe,724,深海,路基
+港湾棲姫,全部,全部,3192,深海,路基
+港湾棲姫,全部,rating:explicit,115,深海,路基
+港湾棲姫,全部,rating:questionable,289,深海,路基
+港湾棲姫,全部,rating:safe,2788,深海,路基
+港湾棲姫,无子项,全部,2764,深海,路基
+港湾棲姫,无子项,rating:explicit,92,深海,路基
+港湾棲姫,无子项,rating:questionable,247,深海,路基
+港湾棲姫,无子项,rating:safe,2425,深海,路基
+港湾夏姫,全部,全部,176,深海,路基
+港湾夏姫,全部,rating:explicit,6,深海,路基
+港湾夏姫,全部,rating:questionable,16,深海,路基
+港湾夏姫,全部,rating:safe,154,深海,路基
+港湾夏姫,无子项,全部,147,深海,路基
+港湾夏姫,无子项,rating:explicit,5,深海,路基
+港湾夏姫,无子项,rating:questionable,14,深海,路基
+港湾夏姫,无子项,rating:safe,128,深海,路基
+離島棲鬼,全部,全部,660,深海,路基
+離島棲鬼,全部,rating:explicit,15,深海,路基
+離島棲鬼,全部,rating:questionable,41,深海,路基
+離島棲鬼,全部,rating:safe,604,深海,路基
+離島棲鬼,无子项,全部,571,深海,路基
+離島棲鬼,无子项,rating:explicit,6,深海,路基
+離島棲鬼,无子项,rating:questionable,30,深海,路基
+離島棲鬼,无子项,rating:safe,535,深海,路基
+北方棲姫,全部,全部,6341,深海,路基
+北方棲姫,全部,rating:explicit,99,深海,路基
+北方棲姫,全部,rating:questionable,170,深海,路基
+北方棲姫,全部,rating:safe,6072,深海,路基
+北方棲姫,无子项,全部,5536,深海,路基
+北方棲姫,无子项,rating:explicit,84,深海,路基
+北方棲姫,无子项,rating:questionable,141,深海,路基
+北方棲姫,无子项,rating:safe,5311,深海,路基
+中間棲姫,全部,全部,586,深海,路基
+中間棲姫,全部,rating:explicit,15,深海,路基
+中間棲姫,全部,rating:questionable,23,深海,路基
+中間棲姫,全部,rating:safe,548,深海,路基
+中間棲姫,无子项,全部,513,深海,路基
+中間棲姫,无子项,rating:explicit,12,深海,路基
+中間棲姫,无子项,rating:questionable,20,深海,路基
+中間棲姫,无子项,rating:safe,481,深海,路基
+港湾水鬼,全部,全部,169,深海,路基
+港湾水鬼,全部,rating:explicit,4,深海,路基
+港湾水鬼,全部,rating:questionable,10,深海,路基
+港湾水鬼,全部,rating:safe,155,深海,路基
+港湾水鬼,无子项,全部,142,深海,路基
+港湾水鬼,无子项,rating:explicit,2,深海,路基
+港湾水鬼,无子项,rating:questionable,9,深海,路基
+港湾水鬼,无子项,rating:safe,131,深海,路基
+泊地水鬼,全部,全部,237,深海,路基
+泊地水鬼,全部,rating:explicit,1,深海,路基
+泊地水鬼,全部,rating:questionable,8,深海,路基
+泊地水鬼,全部,rating:safe,228,深海,路基
+泊地水鬼,无子项,全部,203,深海,路基
+泊地水鬼,无子项,rating:explicit,1,深海,路基
+泊地水鬼,无子项,rating:questionable,7,深海,路基
+泊地水鬼,无子项,rating:safe,195,深海,路基
+集積地棲姫,全部,全部,310,深海,路基
+集積地棲姫,全部,rating:explicit,1,深海,路基
+集積地棲姫,全部,rating:questionable,7,深海,路基
+集積地棲姫,全部,rating:safe,302,深海,路基
+集積地棲姫,无子项,全部,263,深海,路基
+集積地棲姫,无子项,rating:explicit,1,深海,路基
+集積地棲姫,无子项,rating:questionable,5,深海,路基
+集積地棲姫,无子项,rating:safe,257,深海,路基
+集积地夏姬,全部,全部,17,深海,路基
+集积地夏姬,全部,rating:explicit,0,深海,路基
+集积地夏姬,全部,rating:questionable,0,深海,路基
+集积地夏姬,全部,rating:safe,17,深海,路基
+集积地夏姬,无子项,全部,12,深海,路基
+集积地夏姬,无子项,rating:explicit,0,深海,路基
+集积地夏姬,无子项,rating:questionable,0,深海,路基
+集积地夏姬,无子项,rating:safe,12,深海,路基
+離島棲姫,全部,全部,179,深海,路基
+離島棲姫,全部,rating:explicit,2,深海,路基
+離島棲姫,全部,rating:questionable,4,深海,路基
+離島棲姫,全部,rating:safe,173,深海,路基
+離島棲姫,无子项,全部,139,深海,路基
+離島棲姫,无子项,rating:explicit,2,深海,路基
+離島棲姫,无子项,rating:questionable,3,深海,路基
+離島棲姫,无子项,rating:safe,134,深海,路基
+砲台小鬼,全部,全部,33,深海,路基
+砲台小鬼,全部,rating:explicit,0,深海,路基
+砲台小鬼,全部,rating:questionable,3,深海,路基
+砲台小鬼,全部,rating:safe,30,深海,路基
+砲台小鬼,无子项,全部,23,深海,路基
+砲台小鬼,无子项,rating:explicit,0,深海,路基
+砲台小鬼,无子项,rating:questionable,3,深海,路基
+砲台小鬼,无子项,rating:safe,20,深海,路基
+中枢棲姫,全部,全部,59,深海,路基
+中枢棲姫,全部,rating:explicit,1,深海,路基
+中枢棲姫,全部,rating:questionable,0,深海,路基
+中枢棲姫,全部,rating:safe,58,深海,路基
+中枢棲姫,无子项,全部,49,深海,路基
+中枢棲姫,无子项,rating:explicit,1,深海,路基
+中枢棲姫,无子项,rating:questionable,0,深海,路基
+中枢棲姫,无子项,rating:safe,48,深海,路基
+リコリス棲姫,全部,全部,88,深海,路基
+リコリス棲姫,全部,rating:explicit,3,深海,路基
+リコリス棲姫,全部,rating:questionable,3,深海,路基
+リコリス棲姫,全部,rating:safe,82,深海,路基
+リコリス棲姫,无子项,全部,74,深海,路基
+リコリス棲姫,无子项,rating:explicit,3,深海,路基
+リコリス棲姫,无子项,rating:questionable,2,深海,路基
+リコリス棲姫,无子项,rating:safe,69,深海,路基
+北端上陆姬,全部,全部,13,深海,路基
+北端上陆姬,全部,rating:explicit,0,深海,路基
+北端上陆姬,全部,rating:questionable,0,深海,路基
+北端上陆姬,全部,rating:safe,13,深海,路基
+北端上陆姬,无子项,全部,10,深海,路基
+北端上陆姬,无子项,rating:explicit,0,深海,路基
+北端上陆姬,无子项,rating:questionable,0,深海,路基
+北端上陆姬,无子项,rating:safe,10,深海,路基
+北方栖妹,全部,全部,33,深海,路基
+北方栖妹,全部,rating:explicit,0,深海,路基
+北方栖妹,全部,rating:questionable,0,深海,路基
+北方栖妹,全部,rating:safe,33,深海,路基
+北方栖妹,无子项,全部,33,深海,路基
+北方栖妹,无子项,rating:explicit,0,深海,路基
+北方栖妹,无子项,rating:questionable,0,深海,路基
+北方栖妹,无子项,rating:safe,33,深海,路基
+浮遊要塞,全部,全部,262,深海,其他
+浮遊要塞,全部,rating:explicit,0,深海,其他
+浮遊要塞,全部,rating:questionable,6,深海,其他
+浮遊要塞,全部,rating:safe,256,深海,其他
+浮遊要塞,无子项,全部,231,深海,其他
+浮遊要塞,无子项,rating:explicit,0,深海,其他
+浮遊要塞,无子项,rating:questionable,5,深海,其他
+浮遊要塞,无子项,rating:safe,226,深海,其他
+護衛要塞,全部,全部,82,深海,其他
+護衛要塞,全部,rating:explicit,0,深海,其他
+護衛要塞,全部,rating:questionable,3,深海,其他
+護衛要塞,全部,rating:safe,79,深海,其他
+護衛要塞,无子项,全部,72,深海,其他
+護衛要塞,无子项,rating:explicit,0,深海,其他
+護衛要塞,无子项,rating:questionable,3,深海,其他
+護衛要塞,无子项,rating:safe,69,深海,其他
+深海攻击哨戒鹰,全部,全部,14,深海,其他
+深海攻击哨戒鹰,全部,rating:explicit,0,深海,其他
+深海攻击哨戒鹰,全部,rating:questionable,0,深海,其他
+深海攻击哨戒鹰,全部,rating:safe,14,深海,其他
+深海攻击哨戒鹰,无子项,全部,10,深海,其他
+深海攻击哨戒鹰,无子项,rating:explicit,0,深海,其他
+深海攻击哨戒鹰,无子项,rating:questionable,0,深海,其他
+深海攻击哨戒鹰,无子项,rating:safe,10,深海,其他
+深海舰载机,全部,全部,1256,深海,其他
+深海舰载机,全部,rating:explicit,0,深海,其他
+深海舰载机,全部,rating:questionable,31,深海,其他
+深海舰载机,全部,rating:safe,1225,深海,其他
+深海舰载机,无子项,全部,1123,深海,其他
+深海舰载机,无子项,rating:explicit,0,深海,其他
+深海舰载机,无子项,rating:questionable,21,深海,其他
+深海舰载机,无子项,rating:safe,1102,深海,其他
+深海浮轮,全部,全部,629,深海,其他
+深海浮轮,全部,rating:explicit,2,深海,其他
+深海浮轮,全部,rating:questionable,23,深海,其他
+深海浮轮,全部,rating:safe,604,深海,其他
+深海浮轮,无子项,全部,544,深海,其他
+深海浮轮,无子项,rating:explicit,2,深海,其他
+深海浮轮,无子项,rating:questionable,21,深海,其他
+深海浮轮,无子项,rating:safe,521,深海,其他
+深海忌雷,全部,全部,317,深海,其他
+深海忌雷,全部,rating:explicit,59,深海,其他
+深海忌雷,全部,rating:questionable,120,深海,其他
+深海忌雷,全部,rating:safe,138,深海,其他
+深海忌雷,无子项,全部,249,深海,其他
+深海忌雷,无子项,rating:explicit,39,深海,其他
+深海忌雷,无子项,rating:questionable,88,深海,其他
+深海忌雷,无子项,rating:safe,122,深海,其他
+装備妖精,全部,全部,2779,其他,不适用
+装備妖精,全部,rating:explicit,9,其他,不适用
+装備妖精,全部,rating:questionable,78,其他,不适用
+装備妖精,全部,rating:safe,2692,其他,不适用
+装備妖精,无子项,全部,2530,其他,不适用
+装備妖精,无子项,rating:explicit,8,其他,不适用
+装備妖精,无子项,rating:questionable,64,其他,不适用
+装備妖精,无子项,rating:safe,2458,其他,不适用
+工廠妖精,全部,全部,90,其他,不适用
+工廠妖精,全部,rating:explicit,1,其他,不适用
+工廠妖精,全部,rating:questionable,5,其他,不适用
+工廠妖精,全部,rating:safe,84,其他,不适用
+工廠妖精,无子项,全部,86,其他,不适用
+工廠妖精,无子项,rating:explicit,1,其他,不适用
+工廠妖精,无子项,rating:questionable,5,其他,不适用
+工廠妖精,无子项,rating:safe,80,其他,不适用
+応急修理要員,全部,全部,93,其他,不适用
+応急修理要員,全部,rating:explicit,1,其他,不适用
+応急修理要員,全部,rating:questionable,5,其他,不适用
+応急修理要員,全部,rating:safe,87,其他,不适用
+応急修理要員,无子项,全部,82,其他,不适用
+応急修理要員,无子项,rating:explicit,1,其他,不适用
+応急修理要員,无子项,rating:questionable,4,其他,不适用
+応急修理要員,无子项,rating:safe,77,其他,不适用
+応急修理女神,全部,全部,84,其他,不适用
+応急修理女神,全部,rating:explicit,0,其他,不适用
+応急修理女神,全部,rating:questionable,4,其他,不适用
+応急修理女神,全部,rating:safe,80,其他,不适用
+応急修理女神,无子项,全部,78,其他,不适用
+応急修理女神,无子项,rating:explicit,0,其他,不适用
+応急修理女神,无子项,rating:questionable,4,其他,不适用
+応急修理女神,无子项,rating:safe,74,其他,不适用
+流星,全部,全部,87,其他,不适用
+流星,全部,rating:explicit,0,其他,不适用
+流星,全部,rating:questionable,1,其他,不适用
+流星,全部,rating:safe,86,其他,不适用
+流星,无子项,全部,78,其他,不适用
+流星,无子项,rating:explicit,0,其他,不适用
+流星,无子项,rating:questionable,1,其他,不适用
+流星,无子项,rating:safe,77,其他,不适用
+震電改,全部,全部,14,其他,不适用
+震電改,全部,rating:explicit,0,其他,不适用
+震電改,全部,rating:questionable,1,其他,不适用
+震電改,全部,rating:safe,13,其他,不适用
+震電改,无子项,全部,12,其他,不适用
+震電改,无子项,rating:explicit,0,其他,不适用
+震電改,无子项,rating:questionable,1,其他,不适用
+震電改,无子项,rating:safe,11,其他,不适用
+天山,全部,全部,90,其他,不适用
+天山,全部,rating:explicit,0,其他,不适用
+天山,全部,rating:questionable,0,其他,不适用
+天山,全部,rating:safe,90,其他,不适用
+天山,无子项,全部,83,其他,不适用
+天山,无子项,rating:explicit,0,其他,不适用
+天山,无子项,rating:questionable,0,其他,不适用
+天山,无子项,rating:safe,83,其他,不适用
+零,全部,全部,0,其他,不适用
+零,全部,rating:explicit,0,其他,不适用
+零,全部,rating:questionable,0,其他,不适用
+零,全部,rating:safe,0,其他,不适用
+零,无子项,全部,0,其他,不适用
+零,无子项,rating:explicit,0,其他,不适用
+零,无子项,rating:questionable,0,其他,不适用
+零,无子项,rating:safe,0,其他,不适用
+羅針盤娘（发卡）,全部,全部,74,其他,不适用
+羅針盤娘（发卡）,全部,rating:explicit,1,其他,不适用
+羅針盤娘（发卡）,全部,rating:questionable,4,其他,不适用
+羅針盤娘（发卡）,全部,rating:safe,69,其他,不适用
+羅針盤娘（发卡）,无子项,全部,70,其他,不适用
+羅針盤娘（发卡）,无子项,rating:explicit,1,其他,不适用
+羅針盤娘（发卡）,无子项,rating:questionable,4,其他,不适用
+羅針盤娘（发卡）,无子项,rating:safe,65,其他,不适用
+羅針盤娘（马尾）,全部,全部,94,其他,不适用
+羅針盤娘（马尾）,全部,rating:explicit,1,其他,不适用
+羅針盤娘（马尾）,全部,rating:questionable,5,其他,不适用
+羅針盤娘（马尾）,全部,rating:safe,88,其他,不适用
+羅針盤娘（马尾）,无子项,全部,84,其他,不适用
+羅針盤娘（马尾）,无子项,rating:explicit,1,其他,不适用
+羅針盤娘（马尾）,无子项,rating:questionable,5,其他,不适用
+羅針盤娘（马尾）,无子项,rating:safe,78,其他,不适用
+羅針盤娘（魔女）,全部,全部,155,其他,不适用
+羅針盤娘（魔女）,全部,rating:explicit,3,其他,不适用
+羅針盤娘（魔女）,全部,rating:questionable,8,其他,不适用
+羅針盤娘（魔女）,全部,rating:safe,144,其他,不适用
+羅針盤娘（魔女）,无子项,全部,143,其他,不适用
+羅針盤娘（魔女）,无子项,rating:explicit,3,其他,不适用
+羅針盤娘（魔女）,无子项,rating:questionable,8,其他,不适用
+羅針盤娘（魔女）,无子项,rating:safe,132,其他,不适用
+羅針盤娘（瞌睡）,全部,全部,82,其他,不适用
+羅針盤娘（瞌睡）,全部,rating:explicit,1,其他,不适用
+羅針盤娘（瞌睡）,全部,rating:questionable,5,其他,不适用
+羅針盤娘（瞌睡）,全部,rating:safe,76,其他,不适用
+羅針盤娘（瞌睡）,无子项,全部,75,其他,不适用
+羅針盤娘（瞌睡）,无子项,rating:explicit,1,其他,不适用
+羅針盤娘（瞌睡）,无子项,rating:questionable,5,其他,不适用
+羅針盤娘（瞌睡）,无子项,rating:safe,69,其他,不适用
+猫吊娘,全部,全部,453,其他,不适用
+猫吊娘,全部,rating:explicit,13,其他,不适用
+猫吊娘,全部,rating:questionable,16,其他,不适用
+猫吊娘,全部,rating:safe,424,其他,不适用
+猫吊娘,无子项,全部,403,其他,不适用
+猫吊娘,无子项,rating:explicit,13,其他,不适用
+猫吊娘,无子项,rating:questionable,15,其他,不适用
+猫吊娘,无子项,rating:safe,375,其他,不适用
+报错猫,全部,全部,362,其他,不适用
+报错猫,全部,rating:explicit,5,其他,不适用
+报错猫,全部,rating:questionable,12,其他,不适用
+报错猫,全部,rating:safe,345,其他,不适用
+报错猫,无子项,全部,314,其他,不适用
+报错猫,无子项,rating:explicit,5,其他,不适用
+报错猫,无子项,rating:questionable,10,其他,不适用
+报错猫,无子项,rating:safe,299,其他,不适用
+土下座娘,全部,全部,39,其他,不适用
+土下座娘,全部,rating:explicit,0,其他,不适用
+土下座娘,全部,rating:questionable,2,其他,不适用
+土下座娘,全部,rating:safe,37,其他,不适用
+土下座娘,无子项,全部,33,其他,不适用
+土下座娘,无子项,rating:explicit,0,其他,不适用
+土下座娘,无子项,rating:questionable,2,其他,不适用
+土下座娘,无子项,rating:safe,31,其他,不适用
+猫敲头娘,全部,全部,7,其他,不适用
+猫敲头娘,全部,rating:explicit,0,其他,不适用
+猫敲头娘,全部,rating:questionable,0,其他,不适用
+猫敲头娘,全部,rating:safe,7,其他,不适用
+猫敲头娘,无子项,全部,6,其他,不适用
+猫敲头娘,无子项,rating:explicit,0,其他,不适用
+猫敲头娘,无子项,rating:questionable,0,其他,不适用
+猫敲头娘,无子项,rating:safe,6,其他,不适用
+举猫娘,全部,全部,17,其他,不适用
+举猫娘,全部,rating:explicit,0,其他,不适用
+举猫娘,全部,rating:questionable,0,其他,不适用
+举猫娘,全部,rating:safe,17,其他,不适用
+举猫娘,无子项,全部,14,其他,不适用
+举猫娘,无子项,rating:explicit,0,其他,不适用
+举猫娘,无子项,rating:questionable,0,其他,不适用
+举猫娘,无子项,rating:safe,14,其他,不适用
+开发失败企鹅,全部,全部,1237,其他,不适用
+开发失败企鹅,全部,rating:explicit,11,其他,不适用
+开发失败企鹅,全部,rating:questionable,89,其他,不适用
+开发失败企鹅,全部,rating:safe,1137,其他,不适用
+开发失败企鹅,无子项,全部,1064,其他,不适用
+开发失败企鹅,无子项,rating:explicit,7,其他,不适用
+开发失败企鹅,无子项,rating:questionable,68,其他,不适用
+开发失败企鹅,无子项,rating:safe,989,其他,不适用
+开发失败棉花,全部,全部,861,其他,不适用
+开发失败棉花,全部,rating:explicit,6,其他,不适用
+开发失败棉花,全部,rating:questionable,29,其他,不适用
+开发失败棉花,全部,rating:safe,826,其他,不适用
+开发失败棉花,无子项,全部,737,其他,不适用
+开发失败棉花,无子项,rating:explicit,3,其他,不适用
+开发失败棉花,无子项,rating:questionable,24,其他,不适用
+开发失败棉花,无子项,rating:safe,710,其他,不适用
+图鉴虫,全部,全部,6,其他,不适用
+图鉴虫,全部,rating:explicit,0,其他,不适用
+图鉴虫,全部,rating:questionable,0,其他,不适用
+图鉴虫,全部,rating:safe,6,其他,不适用
+图鉴虫,无子项,全部,6,其他,不适用
+图鉴虫,无子项,rating:explicit,0,其他,不适用
+图鉴虫,无子项,rating:questionable,0,其他,不适用
+图鉴虫,无子项,rating:safe,6,其他,不适用
+ボクカワウソ,全部,全部,131,其他,不适用
+ボクカワウソ,全部,rating:explicit,1,其他,不适用
+ボクカワウソ,全部,rating:questionable,4,其他,不适用
+ボクカワウソ,全部,rating:safe,126,其他,不适用
+ボクカワウソ,无子项,全部,116,其他,不适用
+ボクカワウソ,无子项,rating:explicit,1,其他,不适用
+ボクカワウソ,无子项,rating:questionable,3,其他,不适用
+ボクカワウソ,无子项,rating:safe,112,其他,不适用
+深海鶴棲姫,全部,全部,99,深海,CV
+深海鶴棲姫,全部,rating:explicit,1,深海,CV
+深海鶴棲姫,全部,rating:questionable,2,深海,CV
+深海鶴棲姫,全部,rating:safe,96,深海,CV
+深海鶴棲姫,无子项,全部,81,深海,CV
+深海鶴棲姫,无子项,rating:explicit,1,深海,CV
+深海鶴棲姫,无子项,rating:questionable,2,深海,CV
+深海鶴棲姫,无子项,rating:safe,78,深海,CV
+太平洋深海棲姫,全部,全部,21,深海,BB (BBV)
+太平洋深海棲姫,全部,rating:explicit,0,深海,BB (BBV)
+太平洋深海棲姫,全部,rating:questionable,0,深海,BB (BBV)
+太平洋深海棲姫,全部,rating:safe,21,深海,BB (BBV)
+太平洋深海棲姫,无子项,全部,20,深海,BB (BBV)
+太平洋深海棲姫,无子项,rating:explicit,0,深海,BB (BBV)
+太平洋深海棲姫,无子项,rating:questionable,0,深海,BB (BBV)
+太平洋深海棲姫,无子项,rating:safe,20,深海,BB (BBV)
